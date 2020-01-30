@@ -1,7 +1,8 @@
 Chat
 ====
 
-.. note:: Rother OSS TODO: This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otrs.ch, we will find a solution.
+.. warning::
+    This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otrs.ch, we will find a solution.
 
 .. seealso::
 
