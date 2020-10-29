@@ -2,7 +2,7 @@ Chat
 ====
 
 .. warning::
-    This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otrs.ch, we will find a solution.
+    This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otobo.de, we will find a solution.
 
 .. seealso::
 
