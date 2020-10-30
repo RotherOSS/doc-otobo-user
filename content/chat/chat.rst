@@ -1,7 +1,7 @@
 Manage Chats
 ============
 
-.. note:: Rother OSS TODO: This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otrs.ch, we will find a solution.
+.. note:: Rother OSS TODO: This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otobo.de, we will find a solution.
 
 .. seealso::
 
@@ -272,7 +272,7 @@ To configure the chat and generate code snippet:
 
    .. note::
 
-      The preview uses the real chat module. Other agents have to be available for chatting to preview all features. 
+      The preview uses the real chat module. Other agents have to be available for chatting to preview all features.
 
 If mixed content warning is displayed in the browser console, an administrator has to check that the system configuration setting ``HttpType`` is properly set. The website must run on the same protocol for chat widget to work.
 
