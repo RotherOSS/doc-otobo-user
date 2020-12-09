@@ -14,7 +14,7 @@ Avatar image
    The :doc:`../avatar` and the :doc:`../avatar/logout` possibilities.
 
 Toolbar icons
-   Icons with numbers indicated some ticket actions with the number of related tickets. The icons and search boxes are not activated by default.
+   Icons with numbers indicating some ticket actions with the number of related tickets. The icons and search boxes are not activated by default.
 
    .. seealso::
 
@@ -34,7 +34,7 @@ Toolbar icons
 
    .. note::
 
-      The chat availability status will be changed from external chats to internal chats each time an agent log in to OTOBO again.
+      The chat availability status will be changed from external chats to internal chats each time an agent logs in to OTOBO again.
 
 Main menu
    The main menu of the agent interface.
@@ -138,7 +138,7 @@ The *Running Process Tickets* widget lists the process tickets, that are started
 
    Running Process Tickets Widget
 
-The *Ticket Queue Overview* widget gives an overview as a ticket count matrix, where the rows represent queues and the columns represent the ticket states. Each cell displays the number of tickets on a defined state that belongs on a particular queue.
+The *Ticket Queue Overview* widget gives an overview as a ticket count matrix, where the rows represent queues and the columns represent the ticket states. Each cell displays the number of tickets in a defined state that belongs to a particular queue.
 
 .. figure:: images/dashboard-ticket-queue-overview.png
    :alt: Ticket Queue Overview Widget
