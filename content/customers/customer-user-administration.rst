@@ -1,6 +1,6 @@
 ..
    |  ATTENTION: The following content and images were copied from Admin Manual.
-   |             Check doc-admin/content/users-groups-roles/customer-users.rst for more infromation.
+   |             Check doc-admin/content/users-groups-roles/customer-users.rst for more information.
    |
    |             DO NOT EDIT the following content! Edit it in Admin Manual, then copy it here!
 
