@@ -3,12 +3,11 @@ Personal Preferences
 
 Use this screen to set personal preferences in OTOBO. The personal preferences screen is available in the *Personal Preferences* menu item of the *Avatar* menu.
 
-This overview screen consists of four modules.
+This overview screen consists of three modules.
 
 - User Profile
 - Notification Settings
 - Miscellaneous
-- Advanced
 
 .. figure:: images/preferences-overview.png
    :alt: Preferences Modules
@@ -52,7 +51,7 @@ Google Authenticator
 ~~~~~~~~~~~~~~~~~~~~
 
 .. seealso::
-   
+
    System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey`` needs to be activated to use this feature.
 
 This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used.
@@ -86,7 +85,7 @@ It is not possible to upload an avatar image directly in OTOBO. You have to regi
 Language
 ~~~~~~~~
 
-Use this widget to set language for OTOBO user interface.
+Use this widget to set the language for the OTOBO user interface.
 
 .. figure:: images/preferences-user-profile-language.png
    :alt: Language Widget
@@ -217,13 +216,13 @@ In :doc:`../chat/chat` screen only those chat channels will be displayed under *
 
    My Chat Channels Widget
 
-Select one or more chat channels from the drop-down list. An agent needs to select in which chat channels want to be available. Customers will only be able to create a new chat request on a certain channel if at least one agent with owner permissions has selected this channel in their preferences and is set as available for external chats by the chat availability icon in the :doc:`../dashboard/dashboard` header toolbar. 
+Select one or more chat channels from the drop-down list. An agent needs to select in which chat channels want to be available. Customers will only be able to create a new chat request on a certain channel if at least one agent with owner permissions has selected this channel in their preferences and is set as available for external chats by the chat availability icon in the :doc:`../dashboard/dashboard` header toolbar.
 
 
 Miscellaneous
 -------------
 
-These settings are for change some visual appearance of OTOBO.
+These settings are for change of visual appearance of OTOBO.
 
 
 Skin
