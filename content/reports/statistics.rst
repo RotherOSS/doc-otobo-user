@@ -28,7 +28,7 @@ Dynamic List
 Static
    Non-configurable complex statistics.
 
-To create a new statistics:
+To create new statistics:
 
 1. Click on the *Add Statistics* button in the left sidebar.
 2. Select the type for the new statistics.
@@ -40,7 +40,7 @@ To create a new statistics:
 
    Add General Specification Section
 
-To edit a statistics:
+To edit statistics:
 
 1. Click on a statistics number in the list of statistics.
 2. Modify the fields and the statistics details.
@@ -51,7 +51,7 @@ To edit a statistics:
 
    Edit General Specification Section
 
-To import a statistics:
+To import statistics:
 
 1. Click on the *Import Statistics* button in the left sidebar.
 2. Click on the *Browse…* button and select a previously exported ``.xml`` file.
@@ -64,19 +64,19 @@ To import a statistics:
 
    Import Statistics Configuration Screen
 
-To export a statistics:
+To export statistics:
 
-1. Click on the download icon in list of statistics.
+1. Click on the download icon in the list of statistics.
 2. Choose a location in your computer to save the ``.xml`` file.
 
-To delete a statistics:
+To delete statistics:
 
 1. Click on the trash icon in the list of statistics.
 2. Click on the *OK* button in the confirmation screen.
 
-To run a statistics:
+To run statistics:
 
-1. Click on the play icon in list of statistics.
+1. Click on the play icon in the list of statistics.
 2. Review the statistics details.
 3. Click on the *Run now* button.
 
@@ -85,7 +85,7 @@ To run a statistics:
 
    View Statistics Screen
 
-To preview a statistics:
+To preview statistics:
 
 1. Go the the edit screen of a statistics.
 2. See the preview.
