@@ -60,7 +60,7 @@ Fuzziness
    Fuzziness can be disabled with ``quikc~0`` which will not consider spelling mistakes.
 
 Proximity
-   The query string like ``"quick fox"`` searches the words in exactly the same order, but the proximity search allows that some other words can be included between the given words (for example ``"fox quick"~5``).
+   A query string like ``"quick fox"`` searches the words in exactly the same order, but the proximity search allows that some other words can be included between the given words (for example ``"fox quick"~5``).
 
    This operator specifies the maximum edit distance of words. The phrase *quick fox* would be considered more relevant than *quick brown fox*.
 
