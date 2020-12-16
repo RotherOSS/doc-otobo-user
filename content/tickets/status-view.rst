@@ -40,7 +40,9 @@ To set the displayed columns and adjust order of columns:
 
    Use the filter box to find a particular column in *Available Columns* by just typing the name to filter.
 
-To sort tickets by a specific attribute:
+It is possible to sort tickets by a specific attribute, but not all attributes can be used for sort.
+
+To sort tickets:
 
 1. Click on a column header to sort tickets by the selected attribute.
 2. Click on the column header again to change the sort order.
@@ -64,6 +66,9 @@ This view has an own menu to manage tickets. Select a checkbox in the row of a t
 Bulk
    Bulk action for the ticket, multiple attributes can be changed (see below).
 
+Unlock
+   Unlock a ticket to give it back to the queue.
+
 Zoom
    Open the :doc:`ticket-zoom` screen to see all details of the ticket.
 
@@ -73,8 +78,15 @@ History
 Note
    New note can be added to the ticket.
 
+Close
+   Close this ticket.
+
+Quick Close
+   Close this ticket by one click.
+
 Move
    The ticket can be moved to an other queue.
+
 
 
 Medium Status View

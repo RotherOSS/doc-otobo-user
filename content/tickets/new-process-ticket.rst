@@ -30,4 +30,4 @@ After a process is selected, the screen will be refreshed with the first activit
 
 .. note::
 
-   The fields displayed here are depend on the process, therefore no explanation is described here for those fields.
+   The fields displayed depend on the process, therefore no explanation is described here for those fields.
