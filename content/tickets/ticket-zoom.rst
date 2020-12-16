@@ -26,6 +26,19 @@ The menu is extensible and menu items can be grouped into drop-down lists.
 Back
    This menu item goes back to the previous screen.
 
+Lock or Unlock
+   The name of the menu item depends on the lock state of the ticket.
+
+   Lock
+      If the ticket is unlocked, an agent can lock the ticket and the agent becomes the ticket owner.
+
+   Unlock
+      If the ticket is locked to an agent, the agent can release the ticket and other agents can lock it.
+
+      .. warning::
+
+         This menu item has no confirmation window. Lock or unlock the ticket is done immediately.
+
 Print
    This menu item opens a PDF file to show the printer friendly version of the screen. You can save or print this PDF file.
 
@@ -278,6 +291,9 @@ Close
    Time units (work units)
       Enter any amount of time units for time accounting.
 
+Quick Close
+   Close the ticket by one click.
+
 Process
    This menu item opens the :doc:`new-process-ticket` screen to start a process from this ticket.
 
@@ -287,19 +303,6 @@ Process
 
 Miscellaneous
    This menu item groups the following menu items together:
-
-   Lock or Unlock
-      The name of the menu item depends on the lock state of the ticket.
-
-      Lock
-         If the ticket is unlocked, an agent can lock the ticket and the agent becomes the ticket owner.
-
-      Unlock
-         If the ticket is locked to an agent, the agent can release the ticket and other agents can lock it.
-
-      .. warning::
-
-         This menu item has no confirmation window. Lock or unlock the ticket is done immediately.
 
    History
       This menu item opens a new window to see the history of the ticket.
@@ -312,6 +315,9 @@ Miscellaneous
    .. note::
 
       If several entries are added to the history, use the filter box to find a particular entry by just typing something to filter.
+
+   Print
+      This menu item opens a PDF file to show the printer friendly version of the screen. You can save or print this PDF file.
 
    Free Fields
       This menu item opens a new window to change the free field values of the ticket.
