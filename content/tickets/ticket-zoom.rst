@@ -372,7 +372,7 @@ Miscellaneous
    New Appointment
       This menu item opens the :doc:`../calendar/new-appointment` dialog, and selects the current ticket in the *Ticket* field for linking.
 
-Queue
+Move
    This menu item is only a drop-down list of available queues. Select a destination queue, if the ticket needs to be moved there.
 
    .. warning::
@@ -387,10 +387,6 @@ Settings
 
    Show all articles
       All articles are displayed in the *Article Zoom* widget under each other.
-
-   Show Ticket Timeline View
-      Articles are displayed in a timeline without *Article Overview* widget and article menu.
-
 
 Article Overview
 ----------------
@@ -455,35 +451,6 @@ Split
       .. note::
 
          This option is available only, if at least one process is deployed in the system.
-
-Bounce
-   Use this menu item to redirect the article. The original article will be sent, so the new *To* person will see the email as it was originally sent to him or her.
-
-   .. figure:: images/ticket-zoom-article-bounce.png
-      :alt: Article Bounce Screen
-
-      Article Bounce Screen
-
-   Bounce to \*
-      The email address where the article needs to be redirected. The sender of the redirected email is the original sender of the article.
-
-   Next ticket state
-      Select the closed state of the ticket.
-
-   Inform sender
-      Check this box, if you would like to inform sender about bouncing. If this box is checked, the following fields must be filled.
-
-   From
-      This field is read only and holds the queue address.
-
-   To \*
-      This will be the *To* field of the email.
-
-   Subject \*
-      The subject of the ticket like the subject of an email.
-
-   Text \*
-      The body text of the email to be sent.
 
 Forward
    Use this menu item to forward the article via email.
@@ -584,24 +551,6 @@ Reply
 
    Time units (work units)
       Enter any amount of time units for time accounting.
-
-
-Ticket Timeline View
---------------------
-
-The ticket timeline view provides a chronological view of all actions which happened on a ticket, like articles, owner changes, incoming mails and other actions. With this view, agents are able to get a good overview of a ticket in less time.
-
-.. figure:: images/ticket-zoom-article-ticket-timeline-view.png
-   :alt: Ticket Timeline View Widget
-
-   Ticket Timeline View Widget
-
-In this view you can work on the ticket as you are used to. You can inspect the time of each event in the timeline by hovering the little square next to each event with your mouse cursor. You can view the full content of articles by using the zoom icon on top of the certain articles box, where you will find all common article actions.
-
-.. seealso::
-
-   The ticket timeline view can be activated in the *Settings* menu item (gear icon) in the ticket menu.
-
 
 Linked Objects
 --------------
