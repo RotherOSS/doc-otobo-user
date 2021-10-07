@@ -1,6 +1,8 @@
 Reports
 =======
 
+.. note:: Rother OSS TODO: This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otobo.de, we will find a solution.
+
 Use this screen to manage reports. A fresh OTOBO installation contains no reports by default. The reports management screen is available in the *Reports* menu item of the *Reports* menu.
 
 .. figure:: images/reports-overview.png
