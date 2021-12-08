@@ -6,14 +6,14 @@
 
 # -- Variables ------------------------------------------------------------
 # See: https://stackoverflow.com/a/36331678
-doc_datestamp = '2020-01-26'
+doc_datestamp = '2021-12-08'
 doc_description = 'This is the description of the documentation.'
 doc_license = 'GNU Free Documentation License'
 doc_name = 'OTOBO User Manual'
 doc_url = 'https://otobo.org'
 doc_vendor = 'Rother OSS GmbH'
 doc_version = '10.0'
-doc_yearstamp = '2020'
+doc_yearstamp = '2021'
 
 rst_prolog = """
 .. |doc-datestamp| replace:: {0}
@@ -70,7 +70,7 @@ master_doc = 'content/index'
 
 # General information about the project.
 project = 'OTOBO User Manual'
-copyright = '2019-2020 Rother OSS GmbH, https://otobo.de/'
+copyright = '2019-2022 Rother OSS GmbH, https://otobo.de/'
 author = 'Rother OSS GmbH'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -141,8 +141,8 @@ html_copy_source = False
 
 html_context = {
     "display_github": True,
-    "github_user": "RotherOSS",
-    "github_repo": "doc-otobo-user",
+    "github_user": "OTOBO",
+    "github_repo": "doc-user",
     "github_version": "master",
     "conf_py_path": "/",
 }
