@@ -177,7 +177,7 @@ The steps are the same as described in *Customer User to Agent* section, but the
 Chat Widget
 -----------
 
-The chat widget is the main component when chatting with other people. It provides a history of all messages in the chat as well as list of possible actions depending on your permission level.
+The chat widget is the main component when chatting with other people. It provides a history of all messages in the chat as well as a list of possible actions depending on your permission level.
 
 The messages can be sent using the text field of a chat in *My Active Chats* widget by either clicking the send icon next to the text field or hitting the Enter key. Shift + Enter can be used to insert a new line into the message.
 
@@ -205,7 +205,7 @@ Append
    Allows you to append this chat as an article to a selected ticket. After the article has been created, the chat will get closed automatically.
 
 Invite
-   Allows you to invite another agent to this chat. You can select from a list of available agents who you want to invite. Once the agent has invited, a new agent to agent chat request will be sent to this agent. After the request has accepted, a new internal chat will be established between you and the invited agent. In this internal chat, the invited agent has two more actions available in the advanced actions toolbar: *Observer* and *Participant*.
+   Allows you to invite another agent to this chat. You can select from a list of available agents whom you want to invite. Once the agent has invited, a new agent to agent chat request will be sent to this agent. After the request has been accepted, a new internal chat will be established between you and the invited agent. In this internal chat, the invited agent has two more actions available in the advanced actions toolbar: *Observer* and *Participant*.
 
 Channel change
    Using this link, you can change the channel for this chat. For the selection of the target channel the same rules apply as for initially selecting a chat channel.
@@ -242,7 +242,7 @@ Chat Integration
 
 The public chat can be easily integrated into a website with the chat integration configuration and snippet generator.
 
-To configure the chat and generate code snippet:
+To configure the chat and generate the code snippet:
 
 1. Click on the *Configure Chat Integration* button in the left sidebar.
 2. Customize the texts in the *Configuration* tab.
@@ -274,6 +274,6 @@ To configure the chat and generate code snippet:
 
       The preview uses the real chat module. Other agents have to be available for chatting to preview all features.
 
-If mixed content warning is displayed in the browser console, an administrator has to check that the system configuration setting ``HttpType`` is properly set. The website must run on the same protocol for chat widget to work.
+If mixed content warning is displayed in the browser console, an administrator has to check that the system configuration setting ``HttpType`` is properly set. The website must run on the same protocol for the chat widget to work.
 
 For example, if the website is running OTOBO on SSL, the system configuration option must be set to ``https``.

@@ -17,11 +17,18 @@ Customer user \*
 
       Usage of wildcards (\*) is also possible. Enter two asterisks (\*\*) to list all customer users.
 
-Customer ID
-   This field will be auto-populated by selecting a customer user.
-
 To queue \*
    The queue, where the new ticket will be placed to.
+
+Service
+   The service category of this ticket.
+
+   .. seealso::
+
+      This field is available if ``Ticket::Service`` is enabled.
+
+Service Level Agreement
+   Select one of the Service Level Agreements if available.
 
 Owner
    The owner is an agent, who actually works with the new ticket.
@@ -29,6 +36,9 @@ Owner
    .. seealso::
 
       Enable ``Ticket::Responsible`` setting to set an other agent as responsible for the ticket.
+
+Responsible
+   Select an agent responsible for the ticket.
 
 Subject \*
    The subject of the ticket like the subject of an email.

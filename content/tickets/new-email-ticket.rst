@@ -10,9 +10,6 @@ Use this screen to create tickets and send them to customer users. The email tic
 
 The following settings are available when adding this resource. The fields marked with an asterisk are mandatory.
 
-From queue \*
-   Select a queue, where the new ticket should be placed to. The queue address will be the *From* field of the email.
-
 To customer user \*
    The person, to whom the ticket is created for. This will be the *To* field of the email.
 
@@ -26,11 +23,18 @@ Cc
 Bcc
    Select other customer users as blind carbon copy of the email, if needed.
 
-Customer ID
-   This field will be auto-populated by selecting a customer user.
+From queue \*
+   Select a queue, where the new ticket should be placed to. The queue address will be the *From* field of the email.
 
-To queue \*
-   The queue, where the new ticket will be placed to.
+Service
+   The service category of this ticket.
+
+   .. seealso::
+
+      This field is available if ``Ticket::Service`` is enabled.
+
+Service Level Agreement
+   Select one of the Service Level Agreements if available.
 
 Owner
    The owner is an agent, who actually works with the new ticket.
@@ -38,6 +42,9 @@ Owner
    .. seealso::
 
       Enable ``Ticket::Responsible`` setting to set an other agent as responsible for the ticket.
+
+Responsible
+   Select an agent responsible for the ticket.
 
 Subject \*
    The subject of the ticket like the subject of an email.

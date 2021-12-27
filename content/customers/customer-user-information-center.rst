@@ -1,7 +1,7 @@
 Customer User Information Center
 ================================
 
-Customer user information center is a dashboard, which displays all relevant tickets and customers belong to the customer user. This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance.
+Customer user information center is a dashboard, which displays all relevant tickets and customers of a customer user. This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance.
 
 Use this screen to access the customer user dashboard. The dashboard is available in the *Customer User Information Center* menu item of the *Customers* menu.
 
@@ -9,7 +9,7 @@ Use this screen to access the customer user dashboard. The dashboard is availabl
 Manage Customer User Tickets
 ----------------------------
 
-Clicking on the *Customer User Information Center* menu item will open a modal search dialog to search for a customer user. At least two characters need to be entered here.
+Clicking on the *Customer User Information Center* menu item will open a search dialog to search a customer user. At least two characters need to be entered here.
 
 .. figure:: images/customer-user-information-center-search.png
    :alt: Customer User Search Dialog
@@ -62,9 +62,9 @@ To search for tickets of a customer:
 1. Click on the numbers in the *Open* or *Closed* column.
 2. Find the needed ticket in the new screen.
 
-The following widgets display tickets related to customer user.
+The following widgets display tickets related to a customer user.
 
-Each ticket widget has own filter for displaying:
+Each ticket widget has an own filter for displaying:
 
 - Assigned to customer user: tickets which are assigned to the customer user.
 - Accessible for customer user: tickets which are accessible for customer user.
