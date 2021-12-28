@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTOBO User Manual 10.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-27 01:30+0100\n"
+"POT-Creation-Date: 2021-12-28 01:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -84,7 +84,7 @@ msgid "Notification Web View Screen"
 msgstr ""
 
 #: ../../content/avatar/notifications.rst:23
-msgid "Notifications can be filtered by clicking on a state name in the header of the overview widget. There is an option *All Notifications* to see all notifications. The numbers after the state names indicates how many notifications are in each state."
+msgid "Notifications can be filtered by clicking on a state name in the header of the overview widget. There is an option *All Notifications* to see all notifications. The numbers after the state names indicate how many notifications are in each state."
 msgstr ""
 
 #: ../../content/avatar/notifications.rst:25
@@ -96,20 +96,20 @@ msgstr ""
 #: ../../content/faq/journal.rst:23
 #: ../../content/tickets/escalation-view.rst:47
 #: ../../content/tickets/escalation-view.rst:53
-#: ../../content/tickets/escalation-view.rst:111
-#: ../../content/tickets/escalation-view.rst:135
+#: ../../content/tickets/escalation-view.rst:122
+#: ../../content/tickets/escalation-view.rst:146
 #: ../../content/tickets/queue-view.rst:46
 #: ../../content/tickets/queue-view.rst:52
-#: ../../content/tickets/queue-view.rst:110
-#: ../../content/tickets/queue-view.rst:134
+#: ../../content/tickets/queue-view.rst:121
+#: ../../content/tickets/queue-view.rst:145
 #: ../../content/tickets/service-view.rst:50
 #: ../../content/tickets/service-view.rst:56
-#: ../../content/tickets/service-view.rst:114
-#: ../../content/tickets/service-view.rst:138
+#: ../../content/tickets/service-view.rst:125
+#: ../../content/tickets/service-view.rst:149
 #: ../../content/tickets/status-view.rst:38
 #: ../../content/tickets/status-view.rst:44
-#: ../../content/tickets/status-view.rst:102
-#: ../../content/tickets/status-view.rst:126
+#: ../../content/tickets/status-view.rst:114
+#: ../../content/tickets/status-view.rst:138
 msgid "Click on the gear icon in the top right corner of the overview header."
 msgstr ""
 
@@ -140,401 +140,400 @@ msgid "Use this screen to set personal preferences in OTOBO. The personal prefer
 msgstr ""
 
 #: ../../content/avatar/personal-preferences.rst:16
-msgid "This overview screen consists of four modules."
+msgid "This overview screen consists of three modules."
 msgstr ""
 
 #: ../../content/avatar/personal-preferences.rst:18
-#: ../../content/avatar/personal-preferences.rst:36
+#: ../../content/avatar/personal-preferences.rst:35
 msgid "User Profile"
 msgstr ""
 
 #: ../../content/avatar/personal-preferences.rst:19
-#: ../../content/avatar/personal-preferences.rst:147
+#: ../../content/avatar/personal-preferences.rst:146
 msgid "Notification Settings"
 msgstr ""
 
 #: ../../content/avatar/personal-preferences.rst:20
-#: ../../content/avatar/personal-preferences.rst:234
-#: ../../content/tickets/ticket-zoom.rst:377
+#: ../../content/avatar/personal-preferences.rst:233
+#: ../../content/tickets/ticket-zoom.rst:383
 msgid "Miscellaneous"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:21
-#: ../../content/avatar/personal-preferences.rst:283
-msgid "Advanced"
-msgstr ""
-
-#: ../../content/avatar/personal-preferences.rst:26
+#: ../../content/avatar/personal-preferences.rst:25
 msgid "Preferences Modules"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:28
+#: ../../content/avatar/personal-preferences.rst:27
 msgid "Each module consists of widgets, which have two columns. In the first column is the setting, and in the second column is a description for the setting."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:32
+#: ../../content/avatar/personal-preferences.rst:31
 msgid "Do not forget to apply the changes by clicking on the tick icon in the right part of the widget."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:38
+#: ../../content/avatar/personal-preferences.rst:37
 msgid "This is the agent profile, where the account related settings can be changed."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:42
+#: ../../content/avatar/personal-preferences.rst:41
 msgid "Change password"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:44
+#: ../../content/avatar/personal-preferences.rst:43
 msgid "In this widget the current password can be changed. To change the password, all fields must be filled."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:49
+#: ../../content/avatar/personal-preferences.rst:48
 msgid "Change Password Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:52
+#: ../../content/avatar/personal-preferences.rst:51
 msgid "Current password"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:52
+#: ../../content/avatar/personal-preferences.rst:51
 msgid "Type your current password for security reasons, if you want to change it."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:55
+#: ../../content/avatar/personal-preferences.rst:54
 msgid "New password"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:55
+#: ../../content/avatar/personal-preferences.rst:54
 msgid "Type your new password here."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:59
+#: ../../content/avatar/personal-preferences.rst:58
 msgid "Verify password"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:58
+#: ../../content/avatar/personal-preferences.rst:57
 msgid "Type your new password again to avoid misspelling the new password."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:62
+#: ../../content/avatar/personal-preferences.rst:61
 msgid "Google Authenticator"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:66
+#: ../../content/avatar/personal-preferences.rst:65
 msgid "System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey`` needs to be activated to use this feature."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:68
+#: ../../content/avatar/personal-preferences.rst:67
 msgid "This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:73
+#: ../../content/avatar/personal-preferences.rst:72
 msgid "Google Authenticator Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:81
+#: ../../content/avatar/personal-preferences.rst:80
 msgid "Shared Secret"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:76
+#: ../../content/avatar/personal-preferences.rst:75
 msgid "This is a string to use for token generation. It must contain only uppercase letters (A-Z) and numbers (2-7). Click on the *Generate* button to generate a secret."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:80
+#: ../../content/avatar/personal-preferences.rst:79
 msgid "Make sure that you add the shared secret to your generator application and the application works well. Otherwise you will be not able to login anymore without the two factor token."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:84
+#: ../../content/avatar/personal-preferences.rst:83
 msgid "Avatar"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:86
+#: ../../content/avatar/personal-preferences.rst:85
 msgid "Here can be changed the image used as avatar image in *Ticket Zoom* screen and in the main menu."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:91
+#: ../../content/avatar/personal-preferences.rst:90
 msgid "Avatar Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:93
+#: ../../content/avatar/personal-preferences.rst:92
 msgid "It is not possible to upload an avatar image directly in OTOBO. You have to register your email address on `Gravatar <https://www.gravatar.com/>`__ to use this feature. Otherwise the first letters of first name and last name will be displayed."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:97
+#: ../../content/avatar/personal-preferences.rst:96
 #: ../../content/faq/new.rst:56
 msgid "Language"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:99
-msgid "Use this widget to set language for OTOBO user interface."
+#: ../../content/avatar/personal-preferences.rst:98
+msgid "Use this widget to set the language for the OTOBO user interface."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:104
+#: ../../content/avatar/personal-preferences.rst:103
 msgid "Language Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:106
+#: ../../content/avatar/personal-preferences.rst:105
 msgid "Only those languages are listed by default, in which OTOBO is translated more than 95%. To see all available languages, click on the refresh icon next to the drop-down list."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:110
+#: ../../content/avatar/personal-preferences.rst:109
 msgid "Translation status of incomplete languages are low, but you can help to improve the translation. See the `developer manual <https://doc.otobo.org/manual/developer/10.0/en/content/contributing/translate.html>`__ for more information about translating OTOBO."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:114
+#: ../../content/avatar/personal-preferences.rst:113
 msgid "Time Zone"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:116
+#: ../../content/avatar/personal-preferences.rst:115
 msgid "Each agent has to set the timezone of the current location to get proper date and time calculation in OTOBO."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:121
+#: ../../content/avatar/personal-preferences.rst:120
 msgid "Time Zone Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:123
+#: ../../content/avatar/personal-preferences.rst:122
 msgid "Select the location where you are currently in."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:127
+#: ../../content/avatar/personal-preferences.rst:126
 msgid "Out Of Office Time"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:129
+#: ../../content/avatar/personal-preferences.rst:128
 msgid "With this widget agents can inform other agents about absence. This is useful for resource planning and workload balancing."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:134
+#: ../../content/avatar/personal-preferences.rst:133
 msgid "Out Of Office Time Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:137
+#: ../../content/avatar/personal-preferences.rst:136
 msgid "Active"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:137
+#: ../../content/avatar/personal-preferences.rst:136
 msgid "The function can be turned on or off."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:140
+#: ../../content/avatar/personal-preferences.rst:139
 msgid "Start"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:140
+#: ../../content/avatar/personal-preferences.rst:139
 msgid "The first day of absence."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:144
+#: ../../content/avatar/personal-preferences.rst:143
 msgid "End"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:143
+#: ../../content/avatar/personal-preferences.rst:142
 msgid "The last day of absence."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:149
+#: ../../content/avatar/personal-preferences.rst:148
 msgid "These settings are for customizing personal notifications."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:153
+#: ../../content/avatar/personal-preferences.rst:152
 msgid "My Queues"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:155
+#: ../../content/avatar/personal-preferences.rst:154
 msgid "In this widget some queues can be selected as preferred queues. Tickets in this queues will be displayed under the *Tickets in My Queues* filter of the ticket widgets, and notifications will be sent, if new tickets are available in one of the selected queues."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:157
+#: ../../content/avatar/personal-preferences.rst:156
 msgid "In :doc:`../tickets/queue-view` only those queues will be displayed under *My Queues* filter, that are selected in this widget."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:159
+#: ../../content/avatar/personal-preferences.rst:158
 msgid "In case of owner or responsible selection, only agents are listed by default as potentially owner or responsible, who are set the queue as preferred queue in this widget."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:164
+#: ../../content/avatar/personal-preferences.rst:163
 msgid "My Queues Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:166
+#: ../../content/avatar/personal-preferences.rst:165
 msgid "Select one or more queues from the drop-down list."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:170
+#: ../../content/avatar/personal-preferences.rst:169
 msgid "My Services"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:174
+#: ../../content/avatar/personal-preferences.rst:173
 #: ../../content/tickets/service-view.rst:16
 msgid "System configuration ``Ticket::Service`` needs to be activated to use this feature."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:176
+#: ../../content/avatar/personal-preferences.rst:175
 msgid "In this widget some services can be selected as preferred services."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:178
+#: ../../content/avatar/personal-preferences.rst:177
 msgid "In :doc:`../tickets/service-view` only those services will be displayed under *My Services* filter, that are selected in this widget."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:183
+#: ../../content/avatar/personal-preferences.rst:182
 msgid "My Services Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:185
+#: ../../content/avatar/personal-preferences.rst:184
 msgid "Select one or more services from the drop-down list."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:189
+#: ../../content/avatar/personal-preferences.rst:188
 msgid "Ticket Notifications"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:191
+#: ../../content/avatar/personal-preferences.rst:190
 msgid "In this widget can be selected the methods used for any kind of ticket notifications."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:196
+#: ../../content/avatar/personal-preferences.rst:195
 msgid "Ticket Notifications Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:198
-#: ../../content/avatar/personal-preferences.rst:211
+#: ../../content/avatar/personal-preferences.rst:197
+#: ../../content/avatar/personal-preferences.rst:210
 msgid "The possible methods are *Email*, *Web View* or *SMS*."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:202
+#: ../../content/avatar/personal-preferences.rst:201
 msgid "Appointment Notifications"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:204
+#: ../../content/avatar/personal-preferences.rst:203
 msgid "In this widget can be selected the methods used for appointment notification."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:209
+#: ../../content/avatar/personal-preferences.rst:208
 msgid "Appointment Notifications Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:215
+#: ../../content/avatar/personal-preferences.rst:214
 msgid "My Chat Channels"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:219
+#: ../../content/avatar/personal-preferences.rst:218
 #: ../../content/chat.rst:19
 #: ../../content/chat/chat.rst:18
 #: ../../content/dashboard/dashboard.rst:37
 msgid "System configuration ``ChatEngine::Active`` needs to be activated to use this feature."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:221
+#: ../../content/avatar/personal-preferences.rst:220
 msgid "In this widget some chat channels can be selected as preferred external chat channels. You will be notified about external chat requests in these chat channels."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:223
+#: ../../content/avatar/personal-preferences.rst:222
 msgid "In :doc:`../chat/chat` screen only those chat channels will be displayed under *My Chat Channels* filter, that are selected in this widget."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:228
+#: ../../content/avatar/personal-preferences.rst:227
 msgid "My Chat Channels Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:230
+#: ../../content/avatar/personal-preferences.rst:229
 msgid "Select one or more chat channels from the drop-down list. An agent needs to select in which chat channels want to be available. Customers will only be able to create a new chat request on a certain channel if at least one agent with owner permissions has selected this channel in their preferences and is set as available for external chats by the chat availability icon in the :doc:`../dashboard/dashboard` header toolbar."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:236
-msgid "These settings are for change some visual appearance of OTOBO."
+#: ../../content/avatar/personal-preferences.rst:235
+msgid "These settings are for change of visual appearance of OTOBO."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:240
+#: ../../content/avatar/personal-preferences.rst:239
 msgid "Skin"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:242
+#: ../../content/avatar/personal-preferences.rst:241
 msgid "In this widget can be selected the skin, that OTOBO should wear."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:247
+#: ../../content/avatar/personal-preferences.rst:246
 msgid "Skin Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:249
+#: ../../content/avatar/personal-preferences.rst:248
 msgid "Select a skin from the drop-down list."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:253
+#: ../../content/avatar/personal-preferences.rst:252
 msgid "Overview Refresh Time"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:255
+#: ../../content/avatar/personal-preferences.rst:254
 msgid "It is possible to make overview screens automatically refreshed after a period of time."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:260
+#: ../../content/avatar/personal-preferences.rst:259
 msgid "Overview Refresh Time Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:262
+#: ../../content/avatar/personal-preferences.rst:261
 msgid "Select a refresh interval from the drop-down list."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:266
+#: ../../content/avatar/personal-preferences.rst:265
 msgid "Refreshing the overview screens too often can cause performance issues on large systems with many agents."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:270
+#: ../../content/avatar/personal-preferences.rst:269
 msgid "Screen after new ticket"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:272
+#: ../../content/avatar/personal-preferences.rst:271
 msgid "Select, which screen should be shown after a new ticket has been created."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:277
+#: ../../content/avatar/personal-preferences.rst:276
 msgid "Screen After New Ticket Widget"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:279
+#: ../../content/avatar/personal-preferences.rst:278
 msgid "Select a screen from the drop-down list."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:285
+#: ../../content/avatar/personal-preferences.rst:282
+msgid "Advanced"
+msgstr ""
+
+#: ../../content/avatar/personal-preferences.rst:284
 msgid "In this module can be configured some system configuration options."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:290
+#: ../../content/avatar/personal-preferences.rst:289
 msgid "Advanced Preferences Screen"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:292
+#: ../../content/avatar/personal-preferences.rst:291
 msgid "To modify a setting:"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:294
+#: ../../content/avatar/personal-preferences.rst:293
 msgid "Use the tree navigation in the left sidebar to find the desired setting."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:295
+#: ../../content/avatar/personal-preferences.rst:294
 msgid "Modify the value."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:296
+#: ../../content/avatar/personal-preferences.rst:295
 msgid "Click on the tick button in the right side of the setting widget."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:301
+#: ../../content/avatar/personal-preferences.rst:300
 msgid "Advanced Preferences - Tree navigation Screen"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:303
+#: ../../content/avatar/personal-preferences.rst:302
 msgid "The modified settings have a gray border on the left."
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:305
+#: ../../content/avatar/personal-preferences.rst:304
 msgid "To reset a setting:"
 msgstr ""
 
-#: ../../content/avatar/personal-preferences.rst:307
+#: ../../content/avatar/personal-preferences.rst:306
 msgid "Click on the reset icon in the top right corner of the setting widget."
 msgstr ""
 
@@ -547,7 +546,7 @@ msgid "When working with customers, resource planning and scheduling can be a co
 msgstr ""
 
 #: ../../content/calendar.rst:16
-msgid "OTOBO supports this requirement with calendars. Calendars allow management of appointments and resources inside the ticket system. You can connect your tickets to scheduled tasks and make them available to all users to see. This feature adds transparency to show your teams workload and prevent users from promising resources which are not available."
+msgid "OTOBO supports this requirement with calendars. Calendars allow management of appointments and resources inside the ticket system. You can connect your tickets to scheduled tasks and make them available to all users to see. This feature adds transparency to show your team's workload and prevent users from promising resources which are not available."
 msgstr ""
 
 #: ../../content/calendar/agenda-overview.rst:12
@@ -637,7 +636,7 @@ msgstr ""
 #: ../../content/customers/customer-information-center.rst:62
 #: ../../content/customers/customer-user-administration.rst:46
 #: ../../content/faq/category-management.rst:32
-#: ../../content/reports/reports.rst:28
+#: ../../content/reports/reports.rst:30
 #: ../../content/reports/statistics.rst:45
 msgid "Fill in the required fields."
 msgstr ""
@@ -648,24 +647,24 @@ msgstr ""
 #: ../../content/customers/customer-information-center.rst:63
 #: ../../content/customers/customer-user-administration.rst:47
 #: ../../content/faq/journal.rst:25
-#: ../../content/reports/reports.rst:29
+#: ../../content/reports/reports.rst:31
 #: ../../content/reports/statistics.rst:46
 #: ../../content/tickets/escalation-view.rst:49
 #: ../../content/tickets/escalation-view.rst:56
-#: ../../content/tickets/escalation-view.rst:113
-#: ../../content/tickets/escalation-view.rst:137
+#: ../../content/tickets/escalation-view.rst:124
+#: ../../content/tickets/escalation-view.rst:148
 #: ../../content/tickets/queue-view.rst:48
 #: ../../content/tickets/queue-view.rst:55
-#: ../../content/tickets/queue-view.rst:112
-#: ../../content/tickets/queue-view.rst:136
+#: ../../content/tickets/queue-view.rst:123
+#: ../../content/tickets/queue-view.rst:147
 #: ../../content/tickets/service-view.rst:52
 #: ../../content/tickets/service-view.rst:59
-#: ../../content/tickets/service-view.rst:116
-#: ../../content/tickets/service-view.rst:140
+#: ../../content/tickets/service-view.rst:127
+#: ../../content/tickets/service-view.rst:151
 #: ../../content/tickets/status-view.rst:40
 #: ../../content/tickets/status-view.rst:47
-#: ../../content/tickets/status-view.rst:104
-#: ../../content/tickets/status-view.rst:128
+#: ../../content/tickets/status-view.rst:116
+#: ../../content/tickets/status-view.rst:140
 msgid "Click on the *Save* button."
 msgstr ""
 
@@ -724,12 +723,12 @@ msgid "Click on the *OK* button in the confirmation dialog."
 msgstr ""
 
 #: ../../content/calendar/new-appointment.rst:12
-#: ../../content/tickets/ticket-zoom.rst:377
+#: ../../content/tickets/ticket-zoom.rst:383
 msgid "New Appointment"
 msgstr ""
 
 #: ../../content/calendar/new-appointment.rst:14
-msgid "Use this menu item to add new appointments to calendars. New appointments can be also added by clicking on the *Add Appointment* button either in :doc:`calendar-overview` or in :doc:`agenda-overview` screens. It is also possible to drag over a range of the calendar widget to setup a rough time span. Right after that, a modal dialog appears where the data can be inserted."
+msgid "Use this menu item to add new appointments to calendars. New appointments can be also added by clicking on the *Add Appointment* button either in :doc:`calendar-overview` or in :doc:`agenda-overview` screens. It is also possible to drag over a range of the calendar widget to setup a rough time span. Right after that, a dialog appears where the data can be inserted."
 msgstr ""
 
 #: ../../content/calendar/new-appointment.rst:23
@@ -740,7 +739,7 @@ msgstr ""
 #: ../../content/customers/customer-administration.rst:73
 #: ../../content/customers/customer-user-administration.rst:97
 #: ../../content/faq/category-management.rst:65
-#: ../../content/reports/reports.rst:67
+#: ../../content/reports/reports.rst:69
 #: ../../content/reports/statistics.rst:118
 msgid "The following settings are available when adding or editing this resource. The fields marked with an asterisk are mandatory."
 msgstr ""
@@ -748,7 +747,7 @@ msgstr ""
 #: ../../content/calendar/new-appointment.rst:28
 #: ../../content/faq/new.rst:24
 #: ../../content/reports/statistics.rst:121
-#: ../../content/tickets/ticket-zoom.rst:334
+#: ../../content/tickets/ticket-zoom.rst:340
 msgid "Title \\*"
 msgstr ""
 
@@ -756,13 +755,13 @@ msgstr ""
 #: ../../content/customers/customer-administration.rst:79
 #: ../../content/faq/category-management.rst:68
 #: ../../content/faq/new.rst:24
-#: ../../content/reports/reports.rst:70
+#: ../../content/reports/reports.rst:72
 #: ../../content/reports/statistics.rst:121
 msgid "The name of this resource. Any type of characters can be entered to this field including uppercase letters and spaces. The name will be displayed in the overview table."
 msgstr ""
 
 #: ../../content/calendar/new-appointment.rst:31
-#: ../../content/reports/reports.rst:73
+#: ../../content/reports/reports.rst:75
 #: ../../content/reports/statistics.rst:124
 msgid "Description"
 msgstr ""
@@ -798,6 +797,7 @@ msgstr ""
 #: ../../content/calendar/new-appointment.rst:45
 #: ../../content/calendar/resource-overview.rst:14
 #: ../../content/chat/chat.rst:14
+#: ../../content/reports/reports.rst:14
 msgid "Rother OSS TODO: This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otobo.de, we will find a solution."
 msgstr ""
 
@@ -865,7 +865,7 @@ msgid "Repeating Appointments"
 msgstr ""
 
 #: ../../content/calendar/new-appointment.rst:77
-msgid "If appointments needs to be created in a recurring manner, it is possible to setup detailed information about the occurrences of an appointment."
+msgid "If appointments need to be created in a recurring manner, it is possible to setup detailed information about the occurrences of an appointment."
 msgstr ""
 
 #: ../../content/calendar/new-appointment.rst:79
@@ -1134,7 +1134,7 @@ msgid "Chat Widget"
 msgstr ""
 
 #: ../../content/chat/chat.rst:190
-msgid "The chat widget is the main component when chatting with other people. It provides a history of all messages in the chat as well as list of possible actions depending on your permission level."
+msgid "The chat widget is the main component when chatting with other people. It provides a history of all messages in the chat as well as a list of possible actions depending on your permission level."
 msgstr ""
 
 #: ../../content/chat/chat.rst:192
@@ -1178,7 +1178,7 @@ msgid "The first triangle icon expands and collapses the chat menu. The menu has
 msgstr ""
 
 #: ../../content/chat/chat.rst:212
-#: ../../content/tickets/ticket-zoom.rst:454
+#: ../../content/tickets/ticket-zoom.rst:456
 msgid "Phone ticket"
 msgstr ""
 
@@ -1199,7 +1199,7 @@ msgid "Invite"
 msgstr ""
 
 #: ../../content/chat/chat.rst:218
-msgid "Allows you to invite another agent to this chat. You can select from a list of available agents who you want to invite. Once the agent has invited, a new agent to agent chat request will be sent to this agent. After the request has accepted, a new internal chat will be established between you and the invited agent. In this internal chat, the invited agent has two more actions available in the advanced actions toolbar: *Observer* and *Participant*."
+msgid "Allows you to invite another agent to this chat. You can select from a list of available agents whom you want to invite. Once the agent has invited, a new agent to agent chat request will be sent to this agent. After the request has been accepted, a new internal chat will be established between you and the invited agent. In this internal chat, the invited agent has two more actions available in the advanced actions toolbar: *Observer* and *Participant*."
 msgstr ""
 
 #: ../../content/chat/chat.rst:221
@@ -1283,7 +1283,7 @@ msgid "The public chat can be easily integrated into a website with the chat int
 msgstr ""
 
 #: ../../content/chat/chat.rst:255
-msgid "To configure the chat and generate code snippet:"
+msgid "To configure the chat and generate the code snippet:"
 msgstr ""
 
 #: ../../content/chat/chat.rst:257
@@ -1323,7 +1323,7 @@ msgid "The preview uses the real chat module. Other agents have to be available 
 msgstr ""
 
 #: ../../content/chat/chat.rst:287
-msgid "If mixed content warning is displayed in the browser console, an administrator has to check that the system configuration setting ``HttpType`` is properly set. The website must run on the same protocol for chat widget to work."
+msgid "If mixed content warning is displayed in the browser console, an administrator has to check that the system configuration setting ``HttpType`` is properly set. The website must run on the same protocol for the chat widget to work."
 msgstr ""
 
 #: ../../content/chat/chat.rst:289
@@ -1387,7 +1387,7 @@ msgstr ""
 #: ../../content/customers/customer-information-center.rst:69
 #: ../../content/customers/customer-user-administration.rst:62
 #: ../../content/customers/customer-user-information-center.rst:63
-#: ../../content/reports/reports.rst:41
+#: ../../content/reports/reports.rst:43
 #: ../../content/reports/statistics.rst:57
 #: ../../content/reports/statistics.rst:70
 msgid "Click on the *Save* or *Save and finish* button."
@@ -1488,14 +1488,14 @@ msgstr ""
 #: ../../content/customers/customer-administration.rst:97
 #: ../../content/customers/customer-user-administration.rst:146
 #: ../../content/faq/category-management.rst:80
-#: ../../content/reports/reports.rst:73
+#: ../../content/reports/reports.rst:75
 #: ../../content/reports/statistics.rst:124
 msgid "Add additional information to this resource. It is recommended to always fill this field as a description of the resource with a full sentence for better clarity, because the comment will be also displayed in the overview table."
 msgstr ""
 
 #: ../../content/customers/customer-administration.rst:99
 #: ../../content/customers/customer-user-administration.rst:148
-#: ../../content/reports/reports.rst:77
+#: ../../content/reports/reports.rst:79
 #: ../../content/reports/statistics.rst:153
 msgid "Validity \\*"
 msgstr ""
@@ -1504,7 +1504,7 @@ msgstr ""
 #: ../../content/customers/customer-user-administration.rst:149
 #: ../../content/faq/category-management.rst:77
 #: ../../content/faq/new.rst:49
-#: ../../content/reports/reports.rst:76
+#: ../../content/reports/reports.rst:78
 msgid "Set the validity of this resource. Each resource can be used in OTOBO only, if this field is set to *valid*. Setting this field to *invalid* or *invalid-temporarily* will disable the use of the resource."
 msgstr ""
 
@@ -1513,7 +1513,7 @@ msgid "Customer Information Center"
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:14
-msgid "Customer information center is a dashboard, which displays all relevant tickets and customer users belong to the customer. This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance."
+msgid "Customer information center is a dashboard, which displays all relevant tickets and customer users of a customer. This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance."
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:16
@@ -1525,7 +1525,7 @@ msgid "Manage Customer Tickets"
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:22
-msgid "Clicking on the *Customer Information Center* menu item will open a modal search dialog to search for a customer or a customer user. At least two characters need to be entered here."
+msgid "Clicking on the *Customer Information Center* menu item will open a search dialog to search for a customer or a customer user. At least two characters need to be entered here."
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:27
@@ -1559,7 +1559,7 @@ msgid "Customer Information Center Content Widgets"
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:52
-msgid "The *Customer Users* widget is used to list all customer users belong to the customer. It is possible to add or edit the customer users, see the details and create tickets directly from the widget."
+msgid "The *Customer Users* widget is used to list all customer users belong to the customer. It is possible to add or edit customer users, see the details and create tickets directly from the widget."
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:57
@@ -1623,13 +1623,12 @@ msgid "Find the needed ticket in the new screen."
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:86
-msgid "The following widgets display tickets related to customer."
+msgid "The following widgets display tickets related to a customer."
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:88
 #: ../../content/customers/customer-user-information-center.rst:77
-#: ../../content/dashboard/dashboard.rst:59
-msgid "Each ticket widget has own filter for displaying:"
+msgid "Each ticket widget has an own filter for displaying:"
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:90
@@ -1663,9 +1662,7 @@ msgid "Reminder Tickets Widget"
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:101
-#: ../../content/customers/customer-user-information-center.rst:92
-#: ../../content/dashboard/dashboard.rst:123
-msgid "The *Escalated Tickets* widget lists the escalated tickets. Escalated tickets are after the time set in service level agreement, and therefore needs to be worked on them immediately."
+msgid "The *Escalated Tickets* widget lists the escalated tickets. Escalated tickets are after the time set in service level agreement, and therefore need to be worked on them immediately."
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:106
@@ -1703,9 +1700,7 @@ msgid "Customer Information Center Sidebar Widgets"
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:126
-#: ../../content/customers/customer-user-information-center.rst:117
-#: ../../content/dashboard/dashboard.rst:206
-msgid "The following widgets are located on the right sidebar. There is a *Settings* widget to turn other widgets on or off, and some information widgets also displayed here."
+msgid "The following widgets are located on the right sidebar. There is a *Settings* widget to turn other widgets on or off, and some information widgets are also displayed here."
 msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:128
@@ -1761,7 +1756,7 @@ msgstr ""
 
 #: ../../content/customers/customer-information-center.rst:153
 #: ../../content/customers/customer-user-information-center.rst:144
-#: ../../content/tickets/ticket-zoom.rst:653
+#: ../../content/tickets/ticket-zoom.rst:608
 msgid "Customer Information Widget"
 msgstr ""
 
@@ -1942,7 +1937,7 @@ msgid "Customer User Information Center"
 msgstr ""
 
 #: ../../content/customers/customer-user-information-center.rst:14
-msgid "Customer user information center is a dashboard, which displays all relevant tickets and customers belong to the customer user. This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance."
+msgid "Customer user information center is a dashboard, which displays all relevant tickets and customers of a customer user. This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance."
 msgstr ""
 
 #: ../../content/customers/customer-user-information-center.rst:16
@@ -1954,7 +1949,7 @@ msgid "Manage Customer User Tickets"
 msgstr ""
 
 #: ../../content/customers/customer-user-information-center.rst:22
-msgid "Clicking on the *Customer User Information Center* menu item will open a modal search dialog to search for a customer user. At least two characters need to be entered here."
+msgid "Clicking on the *Customer User Information Center* menu item will open a search dialog to search a customer user. At least two characters need to be entered here."
 msgstr ""
 
 #: ../../content/customers/customer-user-information-center.rst:27
@@ -1962,11 +1957,11 @@ msgid "Customer User Search Dialog"
 msgstr ""
 
 #: ../../content/customers/customer-user-information-center.rst:31
-#: ../../content/tickets/new-email-ticket.rst:31
+#: ../../content/tickets/new-email-ticket.rst:28
 #: ../../content/tickets/new-phone-ticket.rst:28
-#: ../../content/tickets/ticket-zoom.rst:204
-#: ../../content/tickets/ticket-zoom.rst:516
-#: ../../content/tickets/ticket-zoom.rst:566
+#: ../../content/tickets/ticket-zoom.rst:217
+#: ../../content/tickets/ticket-zoom.rst:489
+#: ../../content/tickets/ticket-zoom.rst:539
 msgid "Usage of wildcards (\\*) is also possible. Enter two asterisks (\\*\\*) to list all customer users."
 msgstr ""
 
@@ -2007,7 +2002,7 @@ msgid "To search for tickets of a customer:"
 msgstr ""
 
 #: ../../content/customers/customer-user-information-center.rst:75
-msgid "The following widgets display tickets related to customer user."
+msgid "The following widgets display tickets related to a customer user."
 msgstr ""
 
 #: ../../content/customers/customer-user-information-center.rst:79
@@ -2018,8 +2013,18 @@ msgstr ""
 msgid "Accessible for customer user: tickets which are accessible for customer user."
 msgstr ""
 
+#: ../../content/customers/customer-user-information-center.rst:92
+#: ../../content/dashboard/dashboard.rst:123
+msgid "The *Escalated Tickets* widget lists the escalated tickets. Escalated tickets are after the time set in service level agreement, and therefore needs to be worked on them immediately."
+msgstr ""
+
 #: ../../content/customers/customer-user-information-center.rst:115
 msgid "Customer User Information Center Sidebar Widgets"
+msgstr ""
+
+#: ../../content/customers/customer-user-information-center.rst:117
+#: ../../content/dashboard/dashboard.rst:206
+msgid "The following widgets are located on the right sidebar. There is a *Settings* widget to turn other widgets on or off, and some information widgets also displayed here."
 msgstr ""
 
 #: ../../content/customers/customer-user-information-center.rst:132
@@ -2052,11 +2057,11 @@ msgid "The dashboard is the main page of the system, where you can get an overvi
 msgstr ""
 
 #: ../../content/dashboard.rst:23
-msgid "One of the most important features about dashboard is that is completely customizable. That means you that can configure each part as you want, showing or hiding elements. It is even possible to relocate this elements within the same column by clicking on and dragging the header of an element, and dropping them elsewhere. Each element is named *widget*. The system has some widgets ready to use out of the box, but the modular design of the dashboard screen is prepared to integrate custom widgets easily."
+msgid "One of the most important features about the dashboard is that is completely customizable. That means that you can configure each part as you want, showing or hiding elements. It is even possible to relocate these elements within the same column by clicking on and dragging the header of an element, and dropping them elsewhere. Each element is named *widget*. The system has some widgets ready to use out of the box, but the modular design of the dashboard screen is prepared to integrate custom widgets easily."
 msgstr ""
 
 #: ../../content/dashboard.rst:25
-msgid "The content of this screen is arranged in two main columns, on the left column you normally can see information about tickets classified by their states like: reminder, escalated, new, and open. On each of this widgets you can filter the results to see all of the tickets that you are allowed to access, tickets you have locked, the ones that are located in agent defined queues, among other filters. There are also other kind of widgets in this column and they are all described below."
+msgid "The content of this screen is arranged in two main columns, on the left column you normally can see information about tickets classified by their states like: reminder, escalated, new, and open. On each of these widgets you can filter the results to see all of the tickets that you are allowed to access, tickets you have locked, the ones that are located in agent defined queues, among other filters. There are also other kind of widgets in this column and they are all described below."
 msgstr ""
 
 #: ../../content/dashboard/dashboard.rst:14
@@ -2084,7 +2089,7 @@ msgid "Toolbar icons"
 msgstr ""
 
 #: ../../content/dashboard/dashboard.rst:27
-msgid "Icons with numbers indicated some ticket actions with the number of related tickets. The icons and search boxes are not activated by default."
+msgid "Icons with numbers indicating some ticket actions with the number of related tickets. The icons and search boxes are not activated by default."
 msgstr ""
 
 #: ../../content/dashboard/dashboard.rst:31
@@ -2112,7 +2117,7 @@ msgid "Filled circle with tick sign: available for internal (agent to agent) and
 msgstr ""
 
 #: ../../content/dashboard/dashboard.rst:47
-msgid "The chat availability status will be changed from external chats to internal chats each time an agent log in to OTOBO again."
+msgid "The chat availability status will be changed from external chats to internal chats each time an agent logs in to OTOBO again."
 msgstr ""
 
 #: ../../content/dashboard/dashboard.rst:50
@@ -2129,6 +2134,10 @@ msgstr ""
 
 #: ../../content/dashboard/dashboard.rst:57
 msgid "Dashboard Widgets"
+msgstr ""
+
+#: ../../content/dashboard/dashboard.rst:59
+msgid "Each ticket widget has own filter for displaying:"
 msgstr ""
 
 #: ../../content/dashboard/dashboard.rst:62
@@ -2229,7 +2238,7 @@ msgid "Running Process Tickets Widget"
 msgstr ""
 
 #: ../../content/dashboard/dashboard.rst:151
-msgid "The *Ticket Queue Overview* widget gives an overview as a ticket count matrix, where the rows represent queues and the columns represent the ticket states. Each cell displays the number of tickets on a defined state that belongs on a particular queue."
+msgid "The *Ticket Queue Overview* widget gives an overview as a ticket count matrix, where the rows represent queues and the columns represent the ticket states. Each cell displays the number of tickets in a defined state that belongs to a particular queue."
 msgstr ""
 
 #: ../../content/dashboard/dashboard.rst:156
@@ -2425,7 +2434,7 @@ msgid "FAQ articles contain answers for frequently asked questions, or they cont
 msgstr ""
 
 #: ../../content/faq.rst:16
-msgid "Creating FAQ articles should be done based on customer tickets. A good knowledge base contains all relevant information, that occurs during ticket handling. FAQ articles can be easily attached to new tickets in any ticket or article creation screens. This can help agents to shorter the time when answering a ticket."
+msgid "Creating FAQ articles should be done based on customer tickets. A good knowledge base contains all relevant information, that occurs during ticket handling. FAQ articles can be easily attached to new tickets in any ticket or article creation screens. This can help agents to shorten the time when answering a ticket."
 msgstr ""
 
 #: ../../content/faq/category-management.rst:12
@@ -2491,7 +2500,7 @@ msgstr ""
 
 #: ../../content/faq/category-management.rst:68
 #: ../../content/faq/language-management.rst:67
-#: ../../content/reports/reports.rst:70
+#: ../../content/reports/reports.rst:72
 msgid "Name \\*"
 msgstr ""
 
@@ -2656,11 +2665,11 @@ msgid "Edit FAQ Screen"
 msgstr ""
 
 #: ../../content/faq/faq-zoom.rst:46
-#: ../../content/tickets/escalation-view.rst:90
-#: ../../content/tickets/queue-view.rst:89
-#: ../../content/tickets/service-view.rst:93
-#: ../../content/tickets/status-view.rst:81
-#: ../../content/tickets/ticket-zoom.rst:315
+#: ../../content/tickets/escalation-view.rst:95
+#: ../../content/tickets/queue-view.rst:94
+#: ../../content/tickets/service-view.rst:98
+#: ../../content/tickets/status-view.rst:86
+#: ../../content/tickets/ticket-zoom.rst:318
 msgid "History"
 msgstr ""
 
@@ -2673,18 +2682,20 @@ msgid "FAQ History Screen"
 msgstr ""
 
 #: ../../content/faq/faq-zoom.rst:49
-#: ../../content/tickets/ticket-zoom.rst:40
-#: ../../content/tickets/ticket-zoom.rst:438
+#: ../../content/tickets/ticket-zoom.rst:53
+#: ../../content/tickets/ticket-zoom.rst:330
+#: ../../content/tickets/ticket-zoom.rst:440
 msgid "Print"
 msgstr ""
 
 #: ../../content/faq/faq-zoom.rst:49
-#: ../../content/tickets/ticket-zoom.rst:40
+#: ../../content/tickets/ticket-zoom.rst:53
+#: ../../content/tickets/ticket-zoom.rst:330
 msgid "This menu item opens a PDF file to show the printer friendly version of the screen. You can save or print this PDF file."
 msgstr ""
 
 #: ../../content/faq/faq-zoom.rst:57
-#: ../../content/tickets/ticket-zoom.rst:348
+#: ../../content/tickets/ticket-zoom.rst:354
 msgid "Link"
 msgstr ""
 
@@ -2741,7 +2752,7 @@ msgid "FAQ articles can be linked to other objects. Use this widget to see the l
 msgstr ""
 
 #: ../../content/faq/faq-zoom.rst:91
-#: ../../content/tickets/ticket-zoom.rst:618
+#: ../../content/tickets/ticket-zoom.rst:573
 msgid "Linked Objects Widget"
 msgstr ""
 
@@ -2750,17 +2761,17 @@ msgid "New links can be added by the *Link* menu item of the *FAQ Zoom* menu. Ex
 msgstr ""
 
 #: ../../content/faq/faq-zoom.rst:95
-#: ../../content/tickets/ticket-zoom.rst:622
+#: ../../content/tickets/ticket-zoom.rst:577
 msgid "To see the linked object details, click on an entry in this widget."
 msgstr ""
 
 #: ../../content/faq/faq-zoom.rst:99
-#: ../../content/tickets/ticket-zoom.rst:626
+#: ../../content/tickets/ticket-zoom.rst:581
 msgid "Change setting ``LinkObject::ViewMode`` to *Complex* to display detailed information about linked objects."
 msgstr ""
 
 #: ../../content/faq/faq-zoom.rst:104
-#: ../../content/tickets/ticket-zoom.rst:631
+#: ../../content/tickets/ticket-zoom.rst:586
 msgid "Complex Linked Objects Widget"
 msgstr ""
 
@@ -3227,202 +3238,202 @@ msgstr ""
 msgid "Reports are automatically generated statistics. In this menu it is possible to define new statistics, and set these statistics as reports, if needed."
 msgstr ""
 
-#: ../../content/reports/reports.rst:14
+#: ../../content/reports/reports.rst:16
 msgid "Use this screen to manage reports. A fresh OTOBO installation contains no reports by default. The reports management screen is available in the *Reports* menu item of the *Reports* menu."
 msgstr ""
 
-#: ../../content/reports/reports.rst:19
+#: ../../content/reports/reports.rst:21
 msgid "Reports Overview Screen"
 msgstr ""
 
-#: ../../content/reports/reports.rst:23
+#: ../../content/reports/reports.rst:25
 msgid "Manage Reports"
 msgstr ""
 
-#: ../../content/reports/reports.rst:25
+#: ../../content/reports/reports.rst:27
 msgid "To create a new report:"
 msgstr ""
 
-#: ../../content/reports/reports.rst:27
+#: ../../content/reports/reports.rst:29
 msgid "Click on the *Add Report* button in the left sidebar."
 msgstr ""
 
-#: ../../content/reports/reports.rst:30
+#: ../../content/reports/reports.rst:32
 msgid "You will be redirected to *Edit Report* screen to edit the report details."
 msgstr ""
 
-#: ../../content/reports/reports.rst:35
+#: ../../content/reports/reports.rst:37
 msgid "Add Report Screen"
 msgstr ""
 
-#: ../../content/reports/reports.rst:37
+#: ../../content/reports/reports.rst:39
 msgid "To edit a report:"
 msgstr ""
 
-#: ../../content/reports/reports.rst:39
+#: ../../content/reports/reports.rst:41
 msgid "Click on a report in the list of reports or you are already redirected here from *Add Report* screen."
 msgstr ""
 
-#: ../../content/reports/reports.rst:40
+#: ../../content/reports/reports.rst:42
 msgid "Modify the fields and the report details."
 msgstr ""
 
-#: ../../content/reports/reports.rst:46
+#: ../../content/reports/reports.rst:48
 msgid "Edit Report Details Screen"
 msgstr ""
 
-#: ../../content/reports/reports.rst:48
+#: ../../content/reports/reports.rst:50
 msgid "To delete a report:"
 msgstr ""
 
-#: ../../content/reports/reports.rst:50
+#: ../../content/reports/reports.rst:52
 msgid "Click on the trash icon in the list of reports."
 msgstr ""
 
-#: ../../content/reports/reports.rst:51
+#: ../../content/reports/reports.rst:53
 #: ../../content/reports/statistics.rst:85
 msgid "Click on the *OK* button in the confirmation screen."
 msgstr ""
 
-#: ../../content/reports/reports.rst:53
+#: ../../content/reports/reports.rst:55
 msgid "To run a report immediately:"
 msgstr ""
 
-#: ../../content/reports/reports.rst:55
+#: ../../content/reports/reports.rst:57
 msgid "Click on the *Run now* link in the list of reports."
 msgstr ""
 
-#: ../../content/reports/reports.rst:56
+#: ../../content/reports/reports.rst:58
 msgid "Click on the *Run now* button in the new screen."
 msgstr ""
 
-#: ../../content/reports/reports.rst:61
+#: ../../content/reports/reports.rst:63
 msgid "View Report Screen"
 msgstr ""
 
-#: ../../content/reports/reports.rst:65
+#: ../../content/reports/reports.rst:67
 msgid "General Report Settings"
 msgstr ""
 
-#: ../../content/reports/reports.rst:80
+#: ../../content/reports/reports.rst:82
 msgid "Automatic Generation Settings"
 msgstr ""
 
-#: ../../content/reports/reports.rst:91
+#: ../../content/reports/reports.rst:93
 msgid "Automatic generation times (cron)"
 msgstr ""
 
-#: ../../content/reports/reports.rst:83
+#: ../../content/reports/reports.rst:85
 msgid "Specify when the report should be automatically generated in cron format."
 msgstr ""
 
-#: ../../content/reports/reports.rst:87
+#: ../../content/reports/reports.rst:89
 msgid "For more information see the `Cron article on Wikipedia <https://en.wikipedia.org/wiki/Cron>`__."
 msgstr ""
 
-#: ../../content/reports/reports.rst:91
+#: ../../content/reports/reports.rst:93
 msgid "Times are in the system timezone."
 msgstr ""
 
-#: ../../content/reports/reports.rst:94
+#: ../../content/reports/reports.rst:96
 msgid "Automatic generation language"
 msgstr ""
 
-#: ../../content/reports/reports.rst:94
+#: ../../content/reports/reports.rst:96
 msgid "The language to be used when the report is automatically generated."
 msgstr ""
 
-#: ../../content/reports/reports.rst:97
+#: ../../content/reports/reports.rst:99
 msgid "Email subject"
 msgstr ""
 
-#: ../../content/reports/reports.rst:97
+#: ../../content/reports/reports.rst:99
 msgid "Specify the subject for the automatically generated email."
 msgstr ""
 
-#: ../../content/reports/reports.rst:100
+#: ../../content/reports/reports.rst:102
 msgid "Email body"
 msgstr ""
 
-#: ../../content/reports/reports.rst:100
+#: ../../content/reports/reports.rst:102
 msgid "Specify the text for the automatically generated email."
 msgstr ""
 
-#: ../../content/reports/reports.rst:104
+#: ../../content/reports/reports.rst:106
 msgid "Email recipients"
 msgstr ""
 
-#: ../../content/reports/reports.rst:103
+#: ../../content/reports/reports.rst:105
 msgid "Specify recipient email addresses (comma separated)."
 msgstr ""
 
-#: ../../content/reports/reports.rst:107
+#: ../../content/reports/reports.rst:109
 msgid "Output settings"
 msgstr ""
 
-#: ../../content/reports/reports.rst:110
+#: ../../content/reports/reports.rst:112
 msgid "Headline"
 msgstr ""
 
-#: ../../content/reports/reports.rst:110
+#: ../../content/reports/reports.rst:112
 msgid "This text will be used as headline text of the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:113
+#: ../../content/reports/reports.rst:115
 #: ../../content/reports/statistics.rst:170
 msgid "Title"
 msgstr ""
 
-#: ../../content/reports/reports.rst:113
+#: ../../content/reports/reports.rst:115
 msgid "The title of the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:116
+#: ../../content/reports/reports.rst:118
 msgid "Caption for preamble"
 msgstr ""
 
-#: ../../content/reports/reports.rst:116
+#: ../../content/reports/reports.rst:118
 msgid "The caption for preamble included in the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:119
+#: ../../content/reports/reports.rst:121
 msgid "Preamble"
 msgstr ""
 
-#: ../../content/reports/reports.rst:119
+#: ../../content/reports/reports.rst:121
 msgid "The preamble text of the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:122
+#: ../../content/reports/reports.rst:124
 msgid "Caption for epilogue"
 msgstr ""
 
-#: ../../content/reports/reports.rst:122
+#: ../../content/reports/reports.rst:124
 msgid "The caption for epilogue included in the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:126
+#: ../../content/reports/reports.rst:128
 msgid "Epilogue"
 msgstr ""
 
-#: ../../content/reports/reports.rst:125
+#: ../../content/reports/reports.rst:127
 msgid "The epilogue text of the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:129
+#: ../../content/reports/reports.rst:131
 #: ../../content/reports/statistics.rst:12
 msgid "Statistics"
 msgstr ""
 
-#: ../../content/reports/reports.rst:132
+#: ../../content/reports/reports.rst:134
 msgid "Add statistic to report"
 msgstr ""
 
-#: ../../content/reports/reports.rst:132
+#: ../../content/reports/reports.rst:134
 msgid "Select one or more :doc:`statistics` to be added to the report. Each added statistics have an own overview and settings screen."
 msgstr ""
 
-#: ../../content/reports/reports.rst:134
+#: ../../content/reports/reports.rst:136
 msgid "After all information is collected and set, click on the *Save* or *Save and finish* button to save the report."
 msgstr ""
 
@@ -3471,7 +3482,7 @@ msgid "Non-configurable complex statistics."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:41
-msgid "To create a new statistics:"
+msgid "To create new statistics:"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:43
@@ -3487,7 +3498,7 @@ msgid "Add General Specification Section"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:53
-msgid "To edit a statistics:"
+msgid "To edit statistics:"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:55
@@ -3504,7 +3515,7 @@ msgid "Edit General Specification Section"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:64
-msgid "To import a statistics:"
+msgid "To import statistics:"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:66
@@ -3524,11 +3535,11 @@ msgid "Import Statistics Configuration Screen"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:77
-msgid "To export a statistics:"
+msgid "To export statistics:"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:79
-msgid "Click on the download icon in list of statistics."
+msgid "Click on the download icon in the list of statistics."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:80
@@ -3536,7 +3547,7 @@ msgid "Choose a location in your computer to save the ``.xml`` file."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:82
-msgid "To delete a statistics:"
+msgid "To delete statistics:"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:84
@@ -3544,11 +3555,11 @@ msgid "Click on the trash icon in the list of statistics."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:87
-msgid "To run a statistics:"
+msgid "To run statistics:"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:89
-msgid "Click on the play icon in list of statistics."
+msgid "Click on the play icon in the list of statistics."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:90
@@ -3564,7 +3575,7 @@ msgid "View Statistics Screen"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:98
-msgid "To preview a statistics:"
+msgid "To preview statistics:"
 msgstr ""
 
 #: ../../content/reports/statistics.rst:100
@@ -3692,7 +3703,7 @@ msgid "The relative age since ticket creation and now."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:170
-#: ../../content/tickets/ticket-zoom.rst:335
+#: ../../content/tickets/ticket-zoom.rst:341
 msgid "The title of the ticket."
 msgstr ""
 
@@ -3721,7 +3732,6 @@ msgid "The absolute date and time with timezone when the ticket was closed. This
 msgstr ""
 
 #: ../../content/reports/statistics.rst:182
-#: ../../content/tickets/ticket-zoom.rst:384
 msgid "Queue"
 msgstr ""
 
@@ -3734,10 +3744,10 @@ msgid "The state of the ticket."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:188
-#: ../../content/tickets/new-email-ticket.rst:79
-#: ../../content/tickets/new-phone-ticket.rst:67
-#: ../../content/tickets/ticket-zoom.rst:69
-#: ../../content/tickets/ticket-zoom.rst:51
+#: ../../content/tickets/new-email-ticket.rst:86
+#: ../../content/tickets/new-phone-ticket.rst:77
+#: ../../content/tickets/ticket-zoom.rst:82
+#: ../../content/tickets/ticket-zoom.rst:64
 msgid "Priority"
 msgstr ""
 
@@ -3754,9 +3764,7 @@ msgid "The login name of the customer user of the ticket."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:194
-#: ../../content/tickets/new-email-ticket.rst:40
-#: ../../content/tickets/new-phone-ticket.rst:31
-#: ../../content/tickets/ticket-zoom.rst:115
+#: ../../content/tickets/ticket-zoom.rst:128
 msgid "Customer ID"
 msgstr ""
 
@@ -3765,6 +3773,8 @@ msgid "The customer of the customer user of the ticket."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:197
+#: ../../content/tickets/new-email-ticket.rst:44
+#: ../../content/tickets/new-phone-ticket.rst:38
 msgid "Service"
 msgstr ""
 
@@ -3793,6 +3803,8 @@ msgid "The owner agent of the ticket."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:209
+#: ../../content/tickets/new-email-ticket.rst:57
+#: ../../content/tickets/new-phone-ticket.rst:51
 msgid "Responsible"
 msgstr ""
 
@@ -4016,7 +4028,7 @@ msgid "The absolute date and time with timezone when the ticket was locked first
 msgstr ""
 
 #: ../../content/reports/statistics.rst:296
-#: ../../content/tickets/ticket-zoom.rst:305
+#: ../../content/tickets/ticket-zoom.rst:43
 msgid "Lock"
 msgstr ""
 
@@ -4089,7 +4101,7 @@ msgid "The number of articles in the ticket."
 msgstr ""
 
 #: ../../content/reports/statistics.rst:323
-#: ../../content/tickets/ticket-zoom.rst:296
+#: ../../content/tickets/ticket-zoom.rst:312
 msgid "Process"
 msgstr ""
 
@@ -4226,7 +4238,7 @@ msgid "Proximity"
 msgstr ""
 
 #: ../../content/search/search.rst:73
-msgid "The query string like ``\"quick fox\"`` searches the words in exactly the same order, but the proximity search allows that some other words can be included between the given words (for example ``\"fox quick\"~5``)."
+msgid "A query string like ``\"quick fox\"`` searches the words in exactly the same order, but the proximity search allows that some other words can be included between the given words (for example ``\"fox quick\"~5``)."
 msgstr ""
 
 #: ../../content/search/search.rst:75
@@ -4397,32 +4409,32 @@ msgid "Small Escalation View Screen"
 msgstr ""
 
 #: ../../content/tickets/escalation-view.rst:45
-#: ../../content/tickets/escalation-view.rst:109
-#: ../../content/tickets/escalation-view.rst:133
+#: ../../content/tickets/escalation-view.rst:120
+#: ../../content/tickets/escalation-view.rst:144
 #: ../../content/tickets/queue-view.rst:44
-#: ../../content/tickets/queue-view.rst:108
-#: ../../content/tickets/queue-view.rst:132
+#: ../../content/tickets/queue-view.rst:119
+#: ../../content/tickets/queue-view.rst:143
 #: ../../content/tickets/service-view.rst:48
-#: ../../content/tickets/service-view.rst:112
-#: ../../content/tickets/service-view.rst:136
+#: ../../content/tickets/service-view.rst:123
+#: ../../content/tickets/service-view.rst:147
 #: ../../content/tickets/status-view.rst:36
-#: ../../content/tickets/status-view.rst:100
-#: ../../content/tickets/status-view.rst:124
+#: ../../content/tickets/status-view.rst:112
+#: ../../content/tickets/status-view.rst:136
 msgid "To limit the number of displayed tickets per page:"
 msgstr ""
 
 #: ../../content/tickets/escalation-view.rst:48
-#: ../../content/tickets/escalation-view.rst:112
-#: ../../content/tickets/escalation-view.rst:136
+#: ../../content/tickets/escalation-view.rst:123
+#: ../../content/tickets/escalation-view.rst:147
 #: ../../content/tickets/queue-view.rst:47
-#: ../../content/tickets/queue-view.rst:111
-#: ../../content/tickets/queue-view.rst:135
+#: ../../content/tickets/queue-view.rst:122
+#: ../../content/tickets/queue-view.rst:146
 #: ../../content/tickets/service-view.rst:51
-#: ../../content/tickets/service-view.rst:115
-#: ../../content/tickets/service-view.rst:139
+#: ../../content/tickets/service-view.rst:126
+#: ../../content/tickets/service-view.rst:150
 #: ../../content/tickets/status-view.rst:39
-#: ../../content/tickets/status-view.rst:103
-#: ../../content/tickets/status-view.rst:127
+#: ../../content/tickets/status-view.rst:115
+#: ../../content/tickets/status-view.rst:139
 msgid "Select the maximum number of tickets displayed per page."
 msgstr ""
 
@@ -4458,184 +4470,236 @@ msgstr ""
 #: ../../content/tickets/queue-view.rst:61
 #: ../../content/tickets/service-view.rst:65
 #: ../../content/tickets/status-view.rst:53
-msgid "To sort tickets by a specific attribute:"
+msgid "It is possible to sort tickets by a specific attribute, but not all attributes can be used for sort."
 msgstr ""
 
 #: ../../content/tickets/escalation-view.rst:64
 #: ../../content/tickets/queue-view.rst:63
 #: ../../content/tickets/service-view.rst:67
 #: ../../content/tickets/status-view.rst:55
-msgid "Click on a column header to sort tickets by the selected attribute."
+msgid "To sort tickets:"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:65
-#: ../../content/tickets/queue-view.rst:64
-#: ../../content/tickets/service-view.rst:68
-#: ../../content/tickets/status-view.rst:56
-msgid "Click on the column header again to change the sort order."
+#: ../../content/tickets/escalation-view.rst:66
+#: ../../content/tickets/queue-view.rst:65
+#: ../../content/tickets/service-view.rst:69
+#: ../../content/tickets/status-view.rst:57
+msgid "Click on a column header to sort tickets by the selected attribute."
 msgstr ""
 
 #: ../../content/tickets/escalation-view.rst:67
 #: ../../content/tickets/queue-view.rst:66
 #: ../../content/tickets/service-view.rst:70
 #: ../../content/tickets/status-view.rst:58
-msgid "It is possible to filter tickets by a specific attribute, but not all attributes can be used as filter. The filterable attributes are marked with a filter icon in the column header."
+msgid "Click on the column header again to change the sort order."
 msgstr ""
 
 #: ../../content/tickets/escalation-view.rst:69
 #: ../../content/tickets/queue-view.rst:68
 #: ../../content/tickets/service-view.rst:72
 #: ../../content/tickets/status-view.rst:60
-msgid "To filter tickets:"
+msgid "It is possible to filter tickets by a specific attribute, but not all attributes can be used as filter. The filterable attributes are marked with a filter icon in the column header."
 msgstr ""
 
 #: ../../content/tickets/escalation-view.rst:71
 #: ../../content/tickets/queue-view.rst:70
 #: ../../content/tickets/service-view.rst:74
 #: ../../content/tickets/status-view.rst:62
+msgid "To filter tickets:"
+msgstr ""
+
+#: ../../content/tickets/escalation-view.rst:73
+#: ../../content/tickets/queue-view.rst:72
+#: ../../content/tickets/service-view.rst:76
+#: ../../content/tickets/status-view.rst:64
 msgid "Click on the filter icon in the column header."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:72
-#: ../../content/tickets/queue-view.rst:71
-#: ../../content/tickets/service-view.rst:75
-#: ../../content/tickets/status-view.rst:63
+#: ../../content/tickets/escalation-view.rst:74
+#: ../../content/tickets/queue-view.rst:73
+#: ../../content/tickets/service-view.rst:77
+#: ../../content/tickets/status-view.rst:65
 msgid "Select a value for the filter."
-msgstr ""
-
-#: ../../content/tickets/escalation-view.rst:76
-#: ../../content/tickets/queue-view.rst:75
-#: ../../content/tickets/service-view.rst:79
-#: ../../content/tickets/status-view.rst:67
-msgid "Multiple filters can be set. Active filters are marked with a bold filter icon in the column header and a trash icon is displayed in the widget header. Click on this trash icon to remove all active filters."
 msgstr ""
 
 #: ../../content/tickets/escalation-view.rst:78
 #: ../../content/tickets/queue-view.rst:77
 #: ../../content/tickets/service-view.rst:81
 #: ../../content/tickets/status-view.rst:69
+msgid "Multiple filters can be set. Active filters are marked with a bold filter icon in the column header and a trash icon is displayed in the widget header. Click on this trash icon to remove all active filters."
+msgstr ""
+
+#: ../../content/tickets/escalation-view.rst:80
+#: ../../content/tickets/queue-view.rst:79
+#: ../../content/tickets/service-view.rst:83
+#: ../../content/tickets/status-view.rst:71
 msgid "This view has an own menu to manage tickets. Select a checkbox in the row of a ticket to see this menu."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:84
-#: ../../content/tickets/queue-view.rst:83
-#: ../../content/tickets/service-view.rst:87
-#: ../../content/tickets/status-view.rst:75
+#: ../../content/tickets/escalation-view.rst:86
+#: ../../content/tickets/queue-view.rst:85
+#: ../../content/tickets/service-view.rst:89
+#: ../../content/tickets/status-view.rst:77
 msgid "Bulk"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:84
-#: ../../content/tickets/queue-view.rst:83
-#: ../../content/tickets/service-view.rst:87
-#: ../../content/tickets/status-view.rst:75
+#: ../../content/tickets/escalation-view.rst:86
+#: ../../content/tickets/queue-view.rst:85
+#: ../../content/tickets/service-view.rst:89
+#: ../../content/tickets/status-view.rst:77
 msgid "Bulk action for the ticket, multiple attributes can be changed (see below)."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:87
-#: ../../content/tickets/queue-view.rst:86
-#: ../../content/tickets/service-view.rst:90
-#: ../../content/tickets/status-view.rst:78
+#: ../../content/tickets/escalation-view.rst:89
+#: ../../content/tickets/queue-view.rst:88
+#: ../../content/tickets/service-view.rst:92
+#: ../../content/tickets/status-view.rst:80
+#: ../../content/tickets/ticket-zoom.rst:50
+msgid "Unlock"
+msgstr ""
+
+#: ../../content/tickets/escalation-view.rst:89
+#: ../../content/tickets/queue-view.rst:88
+#: ../../content/tickets/service-view.rst:92
+#: ../../content/tickets/status-view.rst:80
+msgid "Unlock a ticket to give it back to the queue."
+msgstr ""
+
+#: ../../content/tickets/escalation-view.rst:92
+#: ../../content/tickets/queue-view.rst:91
+#: ../../content/tickets/service-view.rst:95
+#: ../../content/tickets/status-view.rst:83
 msgid "Zoom"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:87
-#: ../../content/tickets/queue-view.rst:86
-#: ../../content/tickets/service-view.rst:90
-#: ../../content/tickets/status-view.rst:78
+#: ../../content/tickets/escalation-view.rst:92
+#: ../../content/tickets/queue-view.rst:91
+#: ../../content/tickets/service-view.rst:95
+#: ../../content/tickets/status-view.rst:83
 msgid "Open the :doc:`ticket-zoom` screen to see all details of the ticket."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:90
-#: ../../content/tickets/queue-view.rst:89
-#: ../../content/tickets/service-view.rst:93
-#: ../../content/tickets/status-view.rst:81
+#: ../../content/tickets/escalation-view.rst:95
+#: ../../content/tickets/queue-view.rst:94
+#: ../../content/tickets/service-view.rst:98
+#: ../../content/tickets/status-view.rst:86
 msgid "A new window will be opened that displays the history of the ticket."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:93
-#: ../../content/tickets/queue-view.rst:92
-#: ../../content/tickets/service-view.rst:96
-#: ../../content/tickets/status-view.rst:84
-#: ../../content/tickets/ticket-zoom.rst:144
+#: ../../content/tickets/escalation-view.rst:98
+#: ../../content/tickets/queue-view.rst:97
+#: ../../content/tickets/service-view.rst:101
+#: ../../content/tickets/status-view.rst:89
+#: ../../content/tickets/ticket-zoom.rst:157
 msgid "Note"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:93
-#: ../../content/tickets/queue-view.rst:92
-#: ../../content/tickets/service-view.rst:96
-#: ../../content/tickets/status-view.rst:84
+#: ../../content/tickets/escalation-view.rst:98
+#: ../../content/tickets/queue-view.rst:97
+#: ../../content/tickets/service-view.rst:101
+#: ../../content/tickets/status-view.rst:89
 msgid "New note can be added to the ticket."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:97
-#: ../../content/tickets/queue-view.rst:96
-#: ../../content/tickets/service-view.rst:100
-#: ../../content/tickets/status-view.rst:88
+#: ../../content/tickets/escalation-view.rst:101
+#: ../../content/tickets/queue-view.rst:100
+#: ../../content/tickets/service-view.rst:104
+#: ../../content/tickets/status-view.rst:92
+#: ../../content/tickets/ticket-zoom.rst:302
+msgid "Close"
+msgstr ""
+
+#: ../../content/tickets/escalation-view.rst:101
+#: ../../content/tickets/queue-view.rst:100
+#: ../../content/tickets/service-view.rst:104
+#: ../../content/tickets/status-view.rst:92
+msgid "Close this ticket."
+msgstr ""
+
+#: ../../content/tickets/escalation-view.rst:104
+#: ../../content/tickets/queue-view.rst:103
+#: ../../content/tickets/service-view.rst:107
+#: ../../content/tickets/status-view.rst:95
+#: ../../content/tickets/ticket-zoom.rst:305
+msgid "Quick Close"
+msgstr ""
+
+#: ../../content/tickets/escalation-view.rst:104
+#: ../../content/tickets/queue-view.rst:103
+#: ../../content/tickets/service-view.rst:107
+#: ../../content/tickets/status-view.rst:95
+msgid "Close this ticket by one click."
+msgstr ""
+
+#: ../../content/tickets/escalation-view.rst:108
+#: ../../content/tickets/queue-view.rst:107
+#: ../../content/tickets/service-view.rst:111
+#: ../../content/tickets/status-view.rst:100
+#: ../../content/tickets/ticket-zoom.rst:390
 msgid "Move"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:96
-#: ../../content/tickets/queue-view.rst:95
-#: ../../content/tickets/service-view.rst:99
-#: ../../content/tickets/status-view.rst:87
+#: ../../content/tickets/escalation-view.rst:107
+#: ../../content/tickets/queue-view.rst:106
+#: ../../content/tickets/status-view.rst:98
 msgid "The ticket can be moved to an other queue."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:100
+#: ../../content/tickets/escalation-view.rst:111
 msgid "Medium Escalation View"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:102
-#: ../../content/tickets/queue-view.rst:101
-#: ../../content/tickets/service-view.rst:105
-#: ../../content/tickets/status-view.rst:93
+#: ../../content/tickets/escalation-view.rst:113
+#: ../../content/tickets/queue-view.rst:112
+#: ../../content/tickets/service-view.rst:116
+#: ../../content/tickets/status-view.rst:105
 msgid "This view lists tickets in a list view format."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:107
+#: ../../content/tickets/escalation-view.rst:118
 msgid "Medium Escalation View Screen"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:115
-#: ../../content/tickets/escalation-view.rst:139
+#: ../../content/tickets/escalation-view.rst:126
+#: ../../content/tickets/escalation-view.rst:150
 msgid "Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Escalation View* section."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:120
+#: ../../content/tickets/escalation-view.rst:131
 msgid "Floating Menu of Medium Escalation View"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:124
+#: ../../content/tickets/escalation-view.rst:135
 msgid "Large Escalation View"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:126
-#: ../../content/tickets/queue-view.rst:125
-#: ../../content/tickets/service-view.rst:129
-#: ../../content/tickets/status-view.rst:117
+#: ../../content/tickets/escalation-view.rst:137
+#: ../../content/tickets/queue-view.rst:136
+#: ../../content/tickets/service-view.rst:140
+#: ../../content/tickets/status-view.rst:129
 msgid "This view lists tickets in a detailed format."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:131
+#: ../../content/tickets/escalation-view.rst:142
 msgid "Large Escalation View Screen"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:144
+#: ../../content/tickets/escalation-view.rst:155
 msgid "Floating Menu of Large Escalation View"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:148
+#: ../../content/tickets/escalation-view.rst:159
 msgid "Escalation View Bulk Actions"
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:150
-#: ../../content/tickets/queue-view.rst:149
-#: ../../content/tickets/service-view.rst:153
-#: ../../content/tickets/status-view.rst:141
+#: ../../content/tickets/escalation-view.rst:161
+#: ../../content/tickets/queue-view.rst:160
+#: ../../content/tickets/service-view.rst:164
+#: ../../content/tickets/status-view.rst:153
 msgid "Multiple attributes can be changed in this screen at the same time."
 msgstr ""
 
-#: ../../content/tickets/escalation-view.rst:155
+#: ../../content/tickets/escalation-view.rst:166
 msgid "Escalation View Bulk Action Screen"
 msgstr ""
 
@@ -4651,282 +4715,288 @@ msgstr ""
 msgid "New Email Ticket Screen"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:24
-msgid "From queue \\*"
-msgstr ""
-
-#: ../../content/tickets/new-email-ticket.rst:24
-msgid "Select a queue, where the new ticket should be placed to. The queue address will be the *From* field of the email."
-msgstr ""
-
-#: ../../content/tickets/new-email-ticket.rst:31
+#: ../../content/tickets/new-email-ticket.rst:28
 msgid "To customer user \\*"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:27
+#: ../../content/tickets/new-email-ticket.rst:24
 msgid "The person, to whom the ticket is created for. This will be the *To* field of the email."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:34
-#: ../../content/tickets/ticket-zoom.rst:195
-#: ../../content/tickets/ticket-zoom.rst:507
-#: ../../content/tickets/ticket-zoom.rst:557
+#: ../../content/tickets/new-email-ticket.rst:31
+#: ../../content/tickets/ticket-zoom.rst:208
+#: ../../content/tickets/ticket-zoom.rst:480
+#: ../../content/tickets/ticket-zoom.rst:530
 msgid "Cc"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:34
-#: ../../content/tickets/ticket-zoom.rst:195
-#: ../../content/tickets/ticket-zoom.rst:507
-#: ../../content/tickets/ticket-zoom.rst:557
+#: ../../content/tickets/new-email-ticket.rst:31
+#: ../../content/tickets/ticket-zoom.rst:208
+#: ../../content/tickets/ticket-zoom.rst:480
+#: ../../content/tickets/ticket-zoom.rst:530
 msgid "Select other customer users as carbon copy of the email, if needed."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:37
-#: ../../content/tickets/ticket-zoom.rst:198
-#: ../../content/tickets/ticket-zoom.rst:510
-#: ../../content/tickets/ticket-zoom.rst:560
+#: ../../content/tickets/new-email-ticket.rst:34
+#: ../../content/tickets/ticket-zoom.rst:211
+#: ../../content/tickets/ticket-zoom.rst:483
+#: ../../content/tickets/ticket-zoom.rst:533
 msgid "Bcc"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:37
-#: ../../content/tickets/ticket-zoom.rst:198
-#: ../../content/tickets/ticket-zoom.rst:510
-#: ../../content/tickets/ticket-zoom.rst:560
+#: ../../content/tickets/new-email-ticket.rst:34
+#: ../../content/tickets/ticket-zoom.rst:211
+#: ../../content/tickets/ticket-zoom.rst:483
+#: ../../content/tickets/ticket-zoom.rst:533
 msgid "Select other customer users as blind carbon copy of the email, if needed."
 msgstr ""
 
+#: ../../content/tickets/new-email-ticket.rst:37
+msgid "From queue \\*"
+msgstr ""
+
+#: ../../content/tickets/new-email-ticket.rst:37
+msgid "Select a queue, where the new ticket should be placed to. The queue address will be the *From* field of the email."
+msgstr ""
+
 #: ../../content/tickets/new-email-ticket.rst:40
-#: ../../content/tickets/new-phone-ticket.rst:31
-msgid "This field will be auto-populated by selecting a customer user."
-msgstr ""
-
-#: ../../content/tickets/new-email-ticket.rst:43
 #: ../../content/tickets/new-phone-ticket.rst:34
-msgid "To queue \\*"
+msgid "The service category of this ticket."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:43
-#: ../../content/tickets/new-phone-ticket.rst:34
-msgid "The queue, where the new ticket will be placed to."
+#: ../../content/tickets/new-email-ticket.rst:44
+#: ../../content/tickets/new-phone-ticket.rst:38
+msgid "This field is available if ``Ticket::Service`` is enabled."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:50
+#: ../../content/tickets/new-email-ticket.rst:47
 #: ../../content/tickets/new-phone-ticket.rst:41
-#: ../../content/tickets/ticket-zoom.rst:101
+msgid "Service Level Agreement"
+msgstr ""
+
+#: ../../content/tickets/new-email-ticket.rst:47
+#: ../../content/tickets/new-phone-ticket.rst:41
+msgid "Select one of the Service Level Agreements if available."
+msgstr ""
+
+#: ../../content/tickets/new-email-ticket.rst:54
+#: ../../content/tickets/new-phone-ticket.rst:48
+#: ../../content/tickets/ticket-zoom.rst:114
 msgid "Owner"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:46
-#: ../../content/tickets/new-phone-ticket.rst:37
+#: ../../content/tickets/new-email-ticket.rst:50
+#: ../../content/tickets/new-phone-ticket.rst:44
 msgid "The owner is an agent, who actually works with the new ticket."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:50
-#: ../../content/tickets/new-phone-ticket.rst:41
+#: ../../content/tickets/new-email-ticket.rst:54
+#: ../../content/tickets/new-phone-ticket.rst:48
 msgid "Enable ``Ticket::Responsible`` setting to set an other agent as responsible for the ticket."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:53
-#: ../../content/tickets/new-phone-ticket.rst:44
-#: ../../content/tickets/ticket-zoom.rst:54
-#: ../../content/tickets/ticket-zoom.rst:86
-#: ../../content/tickets/ticket-zoom.rst:129
-#: ../../content/tickets/ticket-zoom.rst:155
-#: ../../content/tickets/ticket-zoom.rst:207
-#: ../../content/tickets/ticket-zoom.rst:245
-#: ../../content/tickets/ticket-zoom.rst:274
-#: ../../content/tickets/ticket-zoom.rst:371
-#: ../../content/tickets/ticket-zoom.rst:487
-#: ../../content/tickets/ticket-zoom.rst:519
-#: ../../content/tickets/ticket-zoom.rst:569
+#: ../../content/tickets/new-email-ticket.rst:57
+#: ../../content/tickets/new-phone-ticket.rst:51
+msgid "Select an agent responsible for the ticket."
+msgstr ""
+
+#: ../../content/tickets/new-email-ticket.rst:60
+#: ../../content/tickets/new-phone-ticket.rst:54
+#: ../../content/tickets/ticket-zoom.rst:67
+#: ../../content/tickets/ticket-zoom.rst:99
+#: ../../content/tickets/ticket-zoom.rst:142
+#: ../../content/tickets/ticket-zoom.rst:168
+#: ../../content/tickets/ticket-zoom.rst:220
+#: ../../content/tickets/ticket-zoom.rst:258
+#: ../../content/tickets/ticket-zoom.rst:287
+#: ../../content/tickets/ticket-zoom.rst:377
+#: ../../content/tickets/ticket-zoom.rst:492
+#: ../../content/tickets/ticket-zoom.rst:542
 msgid "Subject \\*"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:53
-#: ../../content/tickets/new-phone-ticket.rst:44
-#: ../../content/tickets/ticket-zoom.rst:54
-#: ../../content/tickets/ticket-zoom.rst:86
-#: ../../content/tickets/ticket-zoom.rst:129
-#: ../../content/tickets/ticket-zoom.rst:155
-#: ../../content/tickets/ticket-zoom.rst:207
-#: ../../content/tickets/ticket-zoom.rst:245
-#: ../../content/tickets/ticket-zoom.rst:274
-#: ../../content/tickets/ticket-zoom.rst:371
-#: ../../content/tickets/ticket-zoom.rst:487
-#: ../../content/tickets/ticket-zoom.rst:519
-#: ../../content/tickets/ticket-zoom.rst:569
+#: ../../content/tickets/new-email-ticket.rst:60
+#: ../../content/tickets/new-phone-ticket.rst:54
+#: ../../content/tickets/ticket-zoom.rst:67
+#: ../../content/tickets/ticket-zoom.rst:99
+#: ../../content/tickets/ticket-zoom.rst:142
+#: ../../content/tickets/ticket-zoom.rst:168
+#: ../../content/tickets/ticket-zoom.rst:220
+#: ../../content/tickets/ticket-zoom.rst:258
+#: ../../content/tickets/ticket-zoom.rst:287
+#: ../../content/tickets/ticket-zoom.rst:377
+#: ../../content/tickets/ticket-zoom.rst:492
+#: ../../content/tickets/ticket-zoom.rst:542
 msgid "The subject of the ticket like the subject of an email."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:58
-#: ../../content/tickets/new-phone-ticket.rst:49
+#: ../../content/tickets/new-email-ticket.rst:65
+#: ../../content/tickets/new-phone-ticket.rst:59
 msgid "This might be helpful"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:56
-#: ../../content/tickets/new-phone-ticket.rst:47
+#: ../../content/tickets/new-email-ticket.rst:63
+#: ../../content/tickets/new-phone-ticket.rst:57
 msgid "This field is not visible by default, but it displays related :doc:`../faq` articles based on the keywords entered in the *Subject* and/or the *Text* fields. Clicking on a FAQ article opens the :doc:`../faq/faq-zoom` screen."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:58
-#: ../../content/tickets/new-phone-ticket.rst:49
+#: ../../content/tickets/new-email-ticket.rst:65
+#: ../../content/tickets/new-phone-ticket.rst:59
 msgid "The related FAQ articles are displayed as the agent types, so the list of suggested FAQ articles is updated after any word typed into the *Subject* and/or the *Text* fields. The suggested FAQ articles are sorted based on the number of matched keywords."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:61
-#: ../../content/tickets/new-phone-ticket.rst:52
-#: ../../content/tickets/ticket-zoom.rst:57
-#: ../../content/tickets/ticket-zoom.rst:89
-#: ../../content/tickets/ticket-zoom.rst:132
-#: ../../content/tickets/ticket-zoom.rst:158
-#: ../../content/tickets/ticket-zoom.rst:210
-#: ../../content/tickets/ticket-zoom.rst:248
-#: ../../content/tickets/ticket-zoom.rst:277
-#: ../../content/tickets/ticket-zoom.rst:522
-#: ../../content/tickets/ticket-zoom.rst:572
+#: ../../content/tickets/new-email-ticket.rst:68
+#: ../../content/tickets/new-phone-ticket.rst:62
+#: ../../content/tickets/ticket-zoom.rst:70
+#: ../../content/tickets/ticket-zoom.rst:102
+#: ../../content/tickets/ticket-zoom.rst:145
+#: ../../content/tickets/ticket-zoom.rst:171
+#: ../../content/tickets/ticket-zoom.rst:223
+#: ../../content/tickets/ticket-zoom.rst:261
+#: ../../content/tickets/ticket-zoom.rst:290
+#: ../../content/tickets/ticket-zoom.rst:495
+#: ../../content/tickets/ticket-zoom.rst:545
 msgid "Options"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:61
-#: ../../content/tickets/new-phone-ticket.rst:52
-#: ../../content/tickets/ticket-zoom.rst:57
-#: ../../content/tickets/ticket-zoom.rst:89
-#: ../../content/tickets/ticket-zoom.rst:132
-#: ../../content/tickets/ticket-zoom.rst:158
-#: ../../content/tickets/ticket-zoom.rst:210
-#: ../../content/tickets/ticket-zoom.rst:248
-#: ../../content/tickets/ticket-zoom.rst:277
-#: ../../content/tickets/ticket-zoom.rst:522
-#: ../../content/tickets/ticket-zoom.rst:572
+#: ../../content/tickets/new-email-ticket.rst:68
+#: ../../content/tickets/new-phone-ticket.rst:62
+#: ../../content/tickets/ticket-zoom.rst:70
+#: ../../content/tickets/ticket-zoom.rst:102
+#: ../../content/tickets/ticket-zoom.rst:145
+#: ../../content/tickets/ticket-zoom.rst:171
+#: ../../content/tickets/ticket-zoom.rst:223
+#: ../../content/tickets/ticket-zoom.rst:261
+#: ../../content/tickets/ticket-zoom.rst:290
+#: ../../content/tickets/ticket-zoom.rst:495
+#: ../../content/tickets/ticket-zoom.rst:545
 msgid "It is possible to add other objects like customer users or FAQ articles to the ticket."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:64
-#: ../../content/tickets/new-phone-ticket.rst:55
-#: ../../content/tickets/ticket-zoom.rst:60
-#: ../../content/tickets/ticket-zoom.rst:92
-#: ../../content/tickets/ticket-zoom.rst:135
-#: ../../content/tickets/ticket-zoom.rst:161
-#: ../../content/tickets/ticket-zoom.rst:213
-#: ../../content/tickets/ticket-zoom.rst:251
-#: ../../content/tickets/ticket-zoom.rst:280
-#: ../../content/tickets/ticket-zoom.rst:374
-#: ../../content/tickets/ticket-zoom.rst:490
-#: ../../content/tickets/ticket-zoom.rst:525
-#: ../../content/tickets/ticket-zoom.rst:575
+#: ../../content/tickets/new-email-ticket.rst:71
+#: ../../content/tickets/new-phone-ticket.rst:65
+#: ../../content/tickets/ticket-zoom.rst:73
+#: ../../content/tickets/ticket-zoom.rst:105
+#: ../../content/tickets/ticket-zoom.rst:148
+#: ../../content/tickets/ticket-zoom.rst:174
+#: ../../content/tickets/ticket-zoom.rst:226
+#: ../../content/tickets/ticket-zoom.rst:264
+#: ../../content/tickets/ticket-zoom.rst:293
+#: ../../content/tickets/ticket-zoom.rst:380
+#: ../../content/tickets/ticket-zoom.rst:498
+#: ../../content/tickets/ticket-zoom.rst:548
 msgid "Text \\*"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:64
-#: ../../content/tickets/new-phone-ticket.rst:55
+#: ../../content/tickets/new-email-ticket.rst:71
+#: ../../content/tickets/new-phone-ticket.rst:65
 msgid "The body text of the first article of the ticket."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:67
+#: ../../content/tickets/new-email-ticket.rst:74
 msgid "Signature"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:67
+#: ../../content/tickets/new-email-ticket.rst:74
 msgid "The signature assigned to the selected queue. Please contact your administrator to change the signature."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:70
-#: ../../content/tickets/new-phone-ticket.rst:58
-#: ../../content/tickets/ticket-zoom.rst:63
-#: ../../content/tickets/ticket-zoom.rst:95
-#: ../../content/tickets/ticket-zoom.rst:138
-#: ../../content/tickets/ticket-zoom.rst:164
-#: ../../content/tickets/ticket-zoom.rst:216
-#: ../../content/tickets/ticket-zoom.rst:254
-#: ../../content/tickets/ticket-zoom.rst:283
-#: ../../content/tickets/ticket-zoom.rst:528
-#: ../../content/tickets/ticket-zoom.rst:578
+#: ../../content/tickets/new-email-ticket.rst:77
+#: ../../content/tickets/new-phone-ticket.rst:68
+#: ../../content/tickets/ticket-zoom.rst:76
+#: ../../content/tickets/ticket-zoom.rst:108
+#: ../../content/tickets/ticket-zoom.rst:151
+#: ../../content/tickets/ticket-zoom.rst:177
+#: ../../content/tickets/ticket-zoom.rst:229
+#: ../../content/tickets/ticket-zoom.rst:267
+#: ../../content/tickets/ticket-zoom.rst:296
+#: ../../content/tickets/ticket-zoom.rst:501
+#: ../../content/tickets/ticket-zoom.rst:551
 msgid "Attachments"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:70
-#: ../../content/tickets/new-phone-ticket.rst:58
-#: ../../content/tickets/ticket-zoom.rst:63
-#: ../../content/tickets/ticket-zoom.rst:95
-#: ../../content/tickets/ticket-zoom.rst:138
-#: ../../content/tickets/ticket-zoom.rst:164
-#: ../../content/tickets/ticket-zoom.rst:216
-#: ../../content/tickets/ticket-zoom.rst:254
-#: ../../content/tickets/ticket-zoom.rst:283
-#: ../../content/tickets/ticket-zoom.rst:528
-#: ../../content/tickets/ticket-zoom.rst:578
+#: ../../content/tickets/new-email-ticket.rst:77
+#: ../../content/tickets/new-phone-ticket.rst:68
+#: ../../content/tickets/ticket-zoom.rst:76
+#: ../../content/tickets/ticket-zoom.rst:108
+#: ../../content/tickets/ticket-zoom.rst:151
+#: ../../content/tickets/ticket-zoom.rst:177
+#: ../../content/tickets/ticket-zoom.rst:229
+#: ../../content/tickets/ticket-zoom.rst:267
+#: ../../content/tickets/ticket-zoom.rst:296
+#: ../../content/tickets/ticket-zoom.rst:501
+#: ../../content/tickets/ticket-zoom.rst:551
 msgid "It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:73
-#: ../../content/tickets/new-phone-ticket.rst:61
-#: ../../content/tickets/ticket-zoom.rst:167
-#: ../../content/tickets/ticket-zoom.rst:219
-#: ../../content/tickets/ticket-zoom.rst:475
-#: ../../content/tickets/ticket-zoom.rst:531
-#: ../../content/tickets/ticket-zoom.rst:581
+#: ../../content/tickets/new-email-ticket.rst:80
+#: ../../content/tickets/new-phone-ticket.rst:71
+#: ../../content/tickets/ticket-zoom.rst:180
+#: ../../content/tickets/ticket-zoom.rst:232
+#: ../../content/tickets/ticket-zoom.rst:504
+#: ../../content/tickets/ticket-zoom.rst:554
 msgid "Next ticket state"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:73
-#: ../../content/tickets/new-phone-ticket.rst:61
+#: ../../content/tickets/new-email-ticket.rst:80
+#: ../../content/tickets/new-phone-ticket.rst:71
 msgid "New tickets are in *open* state by default. Select an other state if you want to change it."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:76
-#: ../../content/tickets/new-phone-ticket.rst:64
-#: ../../content/tickets/ticket-zoom.rst:170
-#: ../../content/tickets/ticket-zoom.rst:222
-#: ../../content/tickets/ticket-zoom.rst:242
-#: ../../content/tickets/ticket-zoom.rst:534
-#: ../../content/tickets/ticket-zoom.rst:584
+#: ../../content/tickets/new-email-ticket.rst:83
+#: ../../content/tickets/new-phone-ticket.rst:74
+#: ../../content/tickets/ticket-zoom.rst:183
+#: ../../content/tickets/ticket-zoom.rst:235
+#: ../../content/tickets/ticket-zoom.rst:255
+#: ../../content/tickets/ticket-zoom.rst:507
+#: ../../content/tickets/ticket-zoom.rst:557
 msgid "Pending date"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:76
-#: ../../content/tickets/new-phone-ticket.rst:64
-#: ../../content/tickets/ticket-zoom.rst:170
-#: ../../content/tickets/ticket-zoom.rst:222
-#: ../../content/tickets/ticket-zoom.rst:242
-#: ../../content/tickets/ticket-zoom.rst:534
-#: ../../content/tickets/ticket-zoom.rst:584
+#: ../../content/tickets/new-email-ticket.rst:83
+#: ../../content/tickets/new-phone-ticket.rst:74
+#: ../../content/tickets/ticket-zoom.rst:183
+#: ../../content/tickets/ticket-zoom.rst:235
+#: ../../content/tickets/ticket-zoom.rst:255
+#: ../../content/tickets/ticket-zoom.rst:507
+#: ../../content/tickets/ticket-zoom.rst:557
 msgid "Select a date and time as reminder for the ticket. If the pending time is reached, the ticket can be escalated."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:79
-#: ../../content/tickets/new-phone-ticket.rst:67
+#: ../../content/tickets/new-email-ticket.rst:86
+#: ../../content/tickets/new-phone-ticket.rst:77
 msgid "New tickets have *3 normal* priority by default. Select an other priority if you want to change it."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:82
-#: ../../content/tickets/new-phone-ticket.rst:70
-#: ../../content/tickets/ticket-zoom.rst:69
-#: ../../content/tickets/ticket-zoom.rst:101
-#: ../../content/tickets/ticket-zoom.rst:144
-#: ../../content/tickets/ticket-zoom.rst:173
-#: ../../content/tickets/ticket-zoom.rst:228
-#: ../../content/tickets/ticket-zoom.rst:260
-#: ../../content/tickets/ticket-zoom.rst:289
-#: ../../content/tickets/ticket-zoom.rst:540
-#: ../../content/tickets/ticket-zoom.rst:591
+#: ../../content/tickets/new-email-ticket.rst:89
+#: ../../content/tickets/new-phone-ticket.rst:80
+#: ../../content/tickets/ticket-zoom.rst:82
+#: ../../content/tickets/ticket-zoom.rst:114
+#: ../../content/tickets/ticket-zoom.rst:157
+#: ../../content/tickets/ticket-zoom.rst:186
+#: ../../content/tickets/ticket-zoom.rst:241
+#: ../../content/tickets/ticket-zoom.rst:273
+#: ../../content/tickets/ticket-zoom.rst:302
+#: ../../content/tickets/ticket-zoom.rst:513
+#: ../../content/tickets/ticket-zoom.rst:563
 msgid "Time units (work units)"
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:82
-#: ../../content/tickets/new-phone-ticket.rst:70
-#: ../../content/tickets/ticket-zoom.rst:69
-#: ../../content/tickets/ticket-zoom.rst:101
-#: ../../content/tickets/ticket-zoom.rst:144
-#: ../../content/tickets/ticket-zoom.rst:173
-#: ../../content/tickets/ticket-zoom.rst:228
-#: ../../content/tickets/ticket-zoom.rst:260
-#: ../../content/tickets/ticket-zoom.rst:289
-#: ../../content/tickets/ticket-zoom.rst:540
-#: ../../content/tickets/ticket-zoom.rst:590
+#: ../../content/tickets/new-email-ticket.rst:89
+#: ../../content/tickets/new-phone-ticket.rst:80
+#: ../../content/tickets/ticket-zoom.rst:82
+#: ../../content/tickets/ticket-zoom.rst:114
+#: ../../content/tickets/ticket-zoom.rst:157
+#: ../../content/tickets/ticket-zoom.rst:186
+#: ../../content/tickets/ticket-zoom.rst:241
+#: ../../content/tickets/ticket-zoom.rst:273
+#: ../../content/tickets/ticket-zoom.rst:302
+#: ../../content/tickets/ticket-zoom.rst:513
+#: ../../content/tickets/ticket-zoom.rst:563
 msgid "Enter any amount of time units for time accounting."
 msgstr ""
 
-#: ../../content/tickets/new-email-ticket.rst:84
+#: ../../content/tickets/new-email-ticket.rst:91
 msgid "After all information is collected and set, click on the *Send mail* button to create the new ticket and send the email to the selected customer users."
 msgstr ""
 
@@ -4943,7 +5013,7 @@ msgid "New Phone Ticket Screen"
 msgstr ""
 
 #: ../../content/tickets/new-phone-ticket.rst:28
-#: ../../content/tickets/ticket-zoom.rst:112
+#: ../../content/tickets/ticket-zoom.rst:125
 msgid "Customer user \\*"
 msgstr ""
 
@@ -4951,7 +5021,15 @@ msgstr ""
 msgid "The person, to whom the ticket is created for."
 msgstr ""
 
-#: ../../content/tickets/new-phone-ticket.rst:72
+#: ../../content/tickets/new-phone-ticket.rst:31
+msgid "To queue \\*"
+msgstr ""
+
+#: ../../content/tickets/new-phone-ticket.rst:31
+msgid "The queue, where the new ticket will be placed to."
+msgstr ""
+
+#: ../../content/tickets/new-phone-ticket.rst:82
 msgid "After all information is collected and set, click on the *Create* button to create the new ticket."
 msgstr ""
 
@@ -4960,8 +5038,8 @@ msgid "New Process Ticket"
 msgstr ""
 
 #: ../../content/tickets/new-process-ticket.rst:16
-#: ../../content/tickets/ticket-zoom.rst:296
-#: ../../content/tickets/ticket-zoom.rst:461
+#: ../../content/tickets/ticket-zoom.rst:312
+#: ../../content/tickets/ticket-zoom.rst:463
 msgid "This option is available only, if at least one process is deployed in the system."
 msgstr ""
 
@@ -4998,7 +5076,7 @@ msgid "Application For Leave Process Activity Dialog"
 msgstr ""
 
 #: ../../content/tickets/new-process-ticket.rst:43
-msgid "The fields displayed here are depend on the process, therefore no explanation is described here for those fields."
+msgid "The fields displayed depend on the process, therefore no explanation is described here for those fields."
 msgstr ""
 
 #: ../../content/tickets/queue-view.rst:12
@@ -5050,40 +5128,40 @@ msgstr ""
 msgid "Small Queue View Screen"
 msgstr ""
 
-#: ../../content/tickets/queue-view.rst:99
+#: ../../content/tickets/queue-view.rst:110
 msgid "Medium Queue View"
 msgstr ""
 
-#: ../../content/tickets/queue-view.rst:106
+#: ../../content/tickets/queue-view.rst:117
 msgid "Medium Queue View Screen"
 msgstr ""
 
-#: ../../content/tickets/queue-view.rst:114
-#: ../../content/tickets/queue-view.rst:138
+#: ../../content/tickets/queue-view.rst:125
+#: ../../content/tickets/queue-view.rst:149
 msgid "Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Queue View* section."
 msgstr ""
 
-#: ../../content/tickets/queue-view.rst:119
+#: ../../content/tickets/queue-view.rst:130
 msgid "Floating Menu of Medium Queue View"
 msgstr ""
 
-#: ../../content/tickets/queue-view.rst:123
+#: ../../content/tickets/queue-view.rst:134
 msgid "Large Queue View"
 msgstr ""
 
-#: ../../content/tickets/queue-view.rst:130
+#: ../../content/tickets/queue-view.rst:141
 msgid "Large Queue View Screen"
 msgstr ""
 
-#: ../../content/tickets/queue-view.rst:143
+#: ../../content/tickets/queue-view.rst:154
 msgid "Floating Menu of Large Queue View"
 msgstr ""
 
-#: ../../content/tickets/queue-view.rst:147
+#: ../../content/tickets/queue-view.rst:158
 msgid "Queue View Bulk Actions"
 msgstr ""
 
-#: ../../content/tickets/queue-view.rst:154
+#: ../../content/tickets/queue-view.rst:165
 msgid "Queue View Bulk Action Screen"
 msgstr ""
 
@@ -5123,40 +5201,44 @@ msgstr ""
 msgid "Small Service View Screen"
 msgstr ""
 
-#: ../../content/tickets/service-view.rst:103
+#: ../../content/tickets/service-view.rst:110
+msgid "The ticket can be moved to an other queue.."
+msgstr ""
+
+#: ../../content/tickets/service-view.rst:114
 msgid "Medium Service View"
 msgstr ""
 
-#: ../../content/tickets/service-view.rst:110
+#: ../../content/tickets/service-view.rst:121
 msgid "Medium Service View Screen"
 msgstr ""
 
-#: ../../content/tickets/service-view.rst:118
-#: ../../content/tickets/service-view.rst:142
+#: ../../content/tickets/service-view.rst:129
+#: ../../content/tickets/service-view.rst:153
 msgid "Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Service View* section."
 msgstr ""
 
-#: ../../content/tickets/service-view.rst:123
+#: ../../content/tickets/service-view.rst:134
 msgid "Floating Menu of Medium Service View"
 msgstr ""
 
-#: ../../content/tickets/service-view.rst:127
+#: ../../content/tickets/service-view.rst:138
 msgid "Large Service View"
 msgstr ""
 
-#: ../../content/tickets/service-view.rst:134
+#: ../../content/tickets/service-view.rst:145
 msgid "Large Service View Screen"
 msgstr ""
 
-#: ../../content/tickets/service-view.rst:147
+#: ../../content/tickets/service-view.rst:158
 msgid "Floating Menu of Large Service View"
 msgstr ""
 
-#: ../../content/tickets/service-view.rst:151
+#: ../../content/tickets/service-view.rst:162
 msgid "Service View Bulk Actions"
 msgstr ""
 
-#: ../../content/tickets/service-view.rst:158
+#: ../../content/tickets/service-view.rst:169
 msgid "Service View Bulk Action Screen"
 msgstr ""
 
@@ -5184,40 +5266,40 @@ msgstr ""
 msgid "Small Status View Screen"
 msgstr ""
 
-#: ../../content/tickets/status-view.rst:91
+#: ../../content/tickets/status-view.rst:103
 msgid "Medium Status View"
 msgstr ""
 
-#: ../../content/tickets/status-view.rst:98
+#: ../../content/tickets/status-view.rst:110
 msgid "Medium Status View Screen"
 msgstr ""
 
-#: ../../content/tickets/status-view.rst:106
-#: ../../content/tickets/status-view.rst:130
+#: ../../content/tickets/status-view.rst:118
+#: ../../content/tickets/status-view.rst:142
 msgid "Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Status View* section."
 msgstr ""
 
-#: ../../content/tickets/status-view.rst:111
+#: ../../content/tickets/status-view.rst:123
 msgid "Floating Menu of Medium Status View"
 msgstr ""
 
-#: ../../content/tickets/status-view.rst:115
+#: ../../content/tickets/status-view.rst:127
 msgid "Large Status View"
 msgstr ""
 
-#: ../../content/tickets/status-view.rst:122
+#: ../../content/tickets/status-view.rst:134
 msgid "Large Status View Screen"
 msgstr ""
 
-#: ../../content/tickets/status-view.rst:135
+#: ../../content/tickets/status-view.rst:147
 msgid "Floating Menu of Large Status View"
 msgstr ""
 
-#: ../../content/tickets/status-view.rst:139
+#: ../../content/tickets/status-view.rst:151
 msgid "Status View Bulk Actions"
 msgstr ""
 
-#: ../../content/tickets/status-view.rst:146
+#: ../../content/tickets/status-view.rst:158
 msgid "Status View Bulk Action Screen"
 msgstr ""
 
@@ -5239,576 +5321,513 @@ msgid "The *Ticket Zoom* screen has an own menu."
 msgstr ""
 
 #: ../../content/tickets/ticket-zoom.rst:29
-#: ../../content/tickets/ticket-zoom.rst:432
+#: ../../content/tickets/ticket-zoom.rst:434
 msgid "The menu is extensible and menu items can be grouped into drop-down lists."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:43
-msgid "This menu item opens a new window to change the priority of the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:48
-msgid "Change Priority Screen"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:51
-msgid "Select the new priority for the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:60
-#: ../../content/tickets/ticket-zoom.rst:92
-#: ../../content/tickets/ticket-zoom.rst:135
-#: ../../content/tickets/ticket-zoom.rst:161
-#: ../../content/tickets/ticket-zoom.rst:213
-#: ../../content/tickets/ticket-zoom.rst:251
-#: ../../content/tickets/ticket-zoom.rst:280
-#: ../../content/tickets/ticket-zoom.rst:525
-#: ../../content/tickets/ticket-zoom.rst:575
-msgid "The body text of the note to be added to the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:66
-#: ../../content/tickets/ticket-zoom.rst:98
-#: ../../content/tickets/ticket-zoom.rst:141
-#: ../../content/tickets/ticket-zoom.rst:257
-#: ../../content/tickets/ticket-zoom.rst:286
-msgid "Is visible for customer"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:66
-#: ../../content/tickets/ticket-zoom.rst:98
-#: ../../content/tickets/ticket-zoom.rst:141
-#: ../../content/tickets/ticket-zoom.rst:225
-#: ../../content/tickets/ticket-zoom.rst:257
-#: ../../content/tickets/ticket-zoom.rst:286
-#: ../../content/tickets/ticket-zoom.rst:537
-#: ../../content/tickets/ticket-zoom.rst:587
-msgid "Define, if the note is an internal note or customer can view it."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:115
-msgid "People"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:72
-#: ../../content/tickets/ticket-zoom.rst:118
-#: ../../content/tickets/ticket-zoom.rst:299
-msgid "This menu item groups the following menu items together:"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:75
-msgid "This menu item opens a new window to change the owner of the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:80
-msgid "Change Owner Screen"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:83
-msgid "New Owner \\*"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:83
-msgid "Select the new owner agent from the list. The agent needs *owner* permission, otherwise the agent is not listed."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:115
-msgid "Customer"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:104
-msgid "This menu item opens a new window to change the customer of the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:109
-msgid "Change Customer Screen"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:112
-msgid "The new customer user of the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:115
-msgid "Automatically selected based on the customer user."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:228
-msgid "Communication"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:121
-msgid "This menu item opens a new window to add a note as new article to the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:126
-msgid "Add Note Screen"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:173
-msgid "Phone Call Outbound"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:147
-msgid "This menu item opens a new window to add a note based on an outgoing phone call to the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:152
-msgid "Phone Call Screen"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:167
-#: ../../content/tickets/ticket-zoom.rst:219
-#: ../../content/tickets/ticket-zoom.rst:531
-#: ../../content/tickets/ticket-zoom.rst:581
-msgid "Select an other state if you want to change it."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:178
-msgid "Phone Call Inbound"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:176
-msgid "This menu item opens a new window to add a note based on an incoming phone call to the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:178
-msgid "This screen is the same as *Phone Call Outbound* screen."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:228
-msgid "E-Mail Outbound"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:181
-msgid "This menu item opens a new window to send an email and add the email as article to the ticket. This screen is very similar to an email client screen."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:186
-msgid "Outbound Email Screen"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:189
-#: ../../content/tickets/ticket-zoom.rst:365
-#: ../../content/tickets/ticket-zoom.rst:481
-#: ../../content/tickets/ticket-zoom.rst:501
-#: ../../content/tickets/ticket-zoom.rst:551
-msgid "From"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:189
-#: ../../content/tickets/ticket-zoom.rst:365
-#: ../../content/tickets/ticket-zoom.rst:481
-#: ../../content/tickets/ticket-zoom.rst:501
-#: ../../content/tickets/ticket-zoom.rst:551
-msgid "This field is read only and holds the queue address."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:192
-#: ../../content/tickets/ticket-zoom.rst:368
-#: ../../content/tickets/ticket-zoom.rst:484
-#: ../../content/tickets/ticket-zoom.rst:504
-#: ../../content/tickets/ticket-zoom.rst:554
-msgid "To \\*"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:192
-#: ../../content/tickets/ticket-zoom.rst:368
-#: ../../content/tickets/ticket-zoom.rst:484
-#: ../../content/tickets/ticket-zoom.rst:504
-#: ../../content/tickets/ticket-zoom.rst:554
-msgid "This will be the *To* field of the email."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:202
-#: ../../content/tickets/ticket-zoom.rst:514
-#: ../../content/tickets/ticket-zoom.rst:564
-msgid "You can select a customer user from OTOBO or any valid email address can be added here."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:225
-#: ../../content/tickets/ticket-zoom.rst:537
-#: ../../content/tickets/ticket-zoom.rst:587
-msgid "Visible for customer"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:260
-msgid "Pending"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:231
-msgid "This menu item opens a new window to set the pending time of the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:236
-#: ../../content/tickets/ticket-zoom.rst:268
-msgid "Set Pending Time Screen"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:239
-#: ../../content/tickets/ticket-zoom.rst:271
-msgid "Next state"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:239
-msgid "Select the pending state of the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:289
-msgid "Close"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:263
-msgid "This menu item opens a new window to close the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:271
-#: ../../content/tickets/ticket-zoom.rst:475
-msgid "Select the closed state of the ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:292
-msgid "This menu item opens the :doc:`new-process-ticket` screen to start a process from this ticket."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:312
+#: ../../content/tickets/ticket-zoom.rst:50
 msgid "Lock or Unlock"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:302
+#: ../../content/tickets/ticket-zoom.rst:40
 msgid "The name of the menu item depends on the lock state of the ticket."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:305
+#: ../../content/tickets/ticket-zoom.rst:43
 msgid "If the ticket is unlocked, an agent can lock the ticket and the agent becomes the ticket owner."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:308
-msgid "Unlock"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:308
+#: ../../content/tickets/ticket-zoom.rst:46
 msgid "If the ticket is locked to an agent, the agent can release the ticket and other agents can lock it."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:312
+#: ../../content/tickets/ticket-zoom.rst:50
 msgid "This menu item has no confirmation window. Lock or unlock the ticket is done immediately."
 msgstr ""
 
+#: ../../content/tickets/ticket-zoom.rst:56
+msgid "This menu item opens a new window to change the priority of the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:61
+msgid "Change Priority Screen"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:64
+msgid "Select the new priority for the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:73
+#: ../../content/tickets/ticket-zoom.rst:105
+#: ../../content/tickets/ticket-zoom.rst:148
+#: ../../content/tickets/ticket-zoom.rst:174
+#: ../../content/tickets/ticket-zoom.rst:226
+#: ../../content/tickets/ticket-zoom.rst:264
+#: ../../content/tickets/ticket-zoom.rst:293
+#: ../../content/tickets/ticket-zoom.rst:498
+#: ../../content/tickets/ticket-zoom.rst:548
+msgid "The body text of the note to be added to the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:79
+#: ../../content/tickets/ticket-zoom.rst:111
+#: ../../content/tickets/ticket-zoom.rst:154
+#: ../../content/tickets/ticket-zoom.rst:270
+#: ../../content/tickets/ticket-zoom.rst:299
+msgid "Is visible for customer"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:79
+#: ../../content/tickets/ticket-zoom.rst:111
+#: ../../content/tickets/ticket-zoom.rst:154
+#: ../../content/tickets/ticket-zoom.rst:238
+#: ../../content/tickets/ticket-zoom.rst:270
+#: ../../content/tickets/ticket-zoom.rst:299
+#: ../../content/tickets/ticket-zoom.rst:510
+#: ../../content/tickets/ticket-zoom.rst:560
+msgid "Define, if the note is an internal note or customer can view it."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:128
+msgid "People"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:85
+#: ../../content/tickets/ticket-zoom.rst:131
 #: ../../content/tickets/ticket-zoom.rst:315
+msgid "This menu item groups the following menu items together:"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:88
+msgid "This menu item opens a new window to change the owner of the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:93
+msgid "Change Owner Screen"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:96
+msgid "New Owner \\*"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:96
+msgid "Select the new owner agent from the list. The agent needs *owner* permission, otherwise the agent is not listed."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:128
+msgid "Customer"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:117
+msgid "This menu item opens a new window to change the customer of the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:122
+msgid "Change Customer Screen"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:125
+msgid "The new customer user of the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:128
+msgid "Automatically selected based on the customer user."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:241
+msgid "Communication"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:134
+msgid "This menu item opens a new window to add a note as new article to the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:139
+msgid "Add Note Screen"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:186
+msgid "Phone Call Outbound"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:160
+msgid "This menu item opens a new window to add a note based on an outgoing phone call to the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:165
+msgid "Phone Call Screen"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:180
+#: ../../content/tickets/ticket-zoom.rst:232
+#: ../../content/tickets/ticket-zoom.rst:504
+#: ../../content/tickets/ticket-zoom.rst:554
+msgid "Select an other state if you want to change it."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:191
+msgid "Phone Call Inbound"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:189
+msgid "This menu item opens a new window to add a note based on an incoming phone call to the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:191
+msgid "This screen is the same as *Phone Call Outbound* screen."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:241
+msgid "E-Mail Outbound"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:194
+msgid "This menu item opens a new window to send an email and add the email as article to the ticket. This screen is very similar to an email client screen."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:199
+msgid "Outbound Email Screen"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:202
+#: ../../content/tickets/ticket-zoom.rst:371
+#: ../../content/tickets/ticket-zoom.rst:474
+#: ../../content/tickets/ticket-zoom.rst:524
+msgid "From"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:202
+#: ../../content/tickets/ticket-zoom.rst:371
+#: ../../content/tickets/ticket-zoom.rst:474
+#: ../../content/tickets/ticket-zoom.rst:524
+msgid "This field is read only and holds the queue address."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:205
+#: ../../content/tickets/ticket-zoom.rst:374
+#: ../../content/tickets/ticket-zoom.rst:477
+#: ../../content/tickets/ticket-zoom.rst:527
+msgid "To \\*"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:205
+#: ../../content/tickets/ticket-zoom.rst:374
+#: ../../content/tickets/ticket-zoom.rst:477
+#: ../../content/tickets/ticket-zoom.rst:527
+msgid "This will be the *To* field of the email."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:215
+#: ../../content/tickets/ticket-zoom.rst:487
+#: ../../content/tickets/ticket-zoom.rst:537
+msgid "You can select a customer user from OTOBO or any valid email address can be added here."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:238
+#: ../../content/tickets/ticket-zoom.rst:510
+#: ../../content/tickets/ticket-zoom.rst:560
+msgid "Visible for customer"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:273
+msgid "Pending"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:244
+msgid "This menu item opens a new window to set the pending time of the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:249
+#: ../../content/tickets/ticket-zoom.rst:281
+msgid "Set Pending Time Screen"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:252
+#: ../../content/tickets/ticket-zoom.rst:284
+msgid "Next state"
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:252
+msgid "Select the pending state of the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:276
+msgid "This menu item opens a new window to close the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:284
+msgid "Select the closed state of the ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:305
+msgid "Close the ticket by one click."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:308
+msgid "This menu item opens the :doc:`new-process-ticket` screen to start a process from this ticket."
+msgstr ""
+
+#: ../../content/tickets/ticket-zoom.rst:318
 msgid "This menu item opens a new window to see the history of the ticket."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:320
+#: ../../content/tickets/ticket-zoom.rst:323
 msgid "Ticket History Screen"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:324
+#: ../../content/tickets/ticket-zoom.rst:327
 msgid "If several entries are added to the history, use the filter box to find a particular entry by just typing something to filter."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:327
+#: ../../content/tickets/ticket-zoom.rst:333
 msgid "Free Fields"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:327
+#: ../../content/tickets/ticket-zoom.rst:333
 msgid "This menu item opens a new window to change the free field values of the ticket."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:332
+#: ../../content/tickets/ticket-zoom.rst:338
 msgid "Ticket Free Text Screen"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:338
+#: ../../content/tickets/ticket-zoom.rst:344
 msgid "This menu item opens the standard link screen of OTOBO. Tickets can be linked to other tickets, FAQ articles or appointments. Existing links can also be managed here."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:343
+#: ../../content/tickets/ticket-zoom.rst:349
 msgid "Link Ticket Screen"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:346
+#: ../../content/tickets/ticket-zoom.rst:352
 msgid "Link with"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:346
+#: ../../content/tickets/ticket-zoom.rst:352
 msgid "Select the other object the ticket should be linked to."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:348
+#: ../../content/tickets/ticket-zoom.rst:354
 msgid "The other fields can be used to find the appropriate object to link, and the fields can be different for each object."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:374
+#: ../../content/tickets/ticket-zoom.rst:380
 msgid "Merge"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:351
+#: ../../content/tickets/ticket-zoom.rst:357
 msgid "This menu item opens a new window to find a destination ticket for the current ticket. The articles of current ticket will be moved to the destination ticket, and the current ticket will get the state *merged*."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:356
+#: ../../content/tickets/ticket-zoom.rst:362
 msgid "Ticket Merge Screen"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:359
+#: ../../content/tickets/ticket-zoom.rst:365
 msgid "Merge to Ticket# \\*"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:359
+#: ../../content/tickets/ticket-zoom.rst:365
 msgid "Try typing part of the ticket number or title in order to search by it."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:362
-#: ../../content/tickets/ticket-zoom.rst:478
+#: ../../content/tickets/ticket-zoom.rst:368
 msgid "Inform sender"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:362
+#: ../../content/tickets/ticket-zoom.rst:368
 msgid "Check this box, if you would like to inform sender about ticket merge. If this box is checked, the following fields must be filled."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:374
-#: ../../content/tickets/ticket-zoom.rst:490
+#: ../../content/tickets/ticket-zoom.rst:380
 msgid "The body text of the email to be sent."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:377
+#: ../../content/tickets/ticket-zoom.rst:383
 msgid "This menu item opens the :doc:`../calendar/new-appointment` dialog, and selects the current ticket in the *Ticket* field for linking."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:380
+#: ../../content/tickets/ticket-zoom.rst:386
 msgid "This menu item is only a drop-down list of available queues. Select a destination queue, if the ticket needs to be moved there."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:384
+#: ../../content/tickets/ticket-zoom.rst:390
 msgid "This menu item has no confirmation window. Moving the ticket to an other queue is done immediately."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:397
+#: ../../content/tickets/ticket-zoom.rst:399
 msgid "Settings"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:387
+#: ../../content/tickets/ticket-zoom.rst:393
 msgid "Click on the gear icon in the right side of the ticket menu to change the article view settings. The following options are available:"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:390
+#: ../../content/tickets/ticket-zoom.rst:396
 msgid "Show one article"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:390
+#: ../../content/tickets/ticket-zoom.rst:396
 msgid "Only the article is displayed in the *Article Zoom* widget, which is selected in the *Article Overview* widget."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:393
+#: ../../content/tickets/ticket-zoom.rst:399
 msgid "Show all articles"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:393
+#: ../../content/tickets/ticket-zoom.rst:399
 msgid "All articles are displayed in the *Article Zoom* widget under each other."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:397
-msgid "Show Ticket Timeline View"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:396
-msgid "Articles are displayed in a timeline without *Article Overview* widget and article menu."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:400
+#: ../../content/tickets/ticket-zoom.rst:402
 msgid "Article Overview"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:402
+#: ../../content/tickets/ticket-zoom.rst:404
 msgid "This widget lists all articles of the ticket in a table."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:407
+#: ../../content/tickets/ticket-zoom.rst:409
 msgid "Article Overview Widget"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:409
+#: ../../content/tickets/ticket-zoom.rst:411
 msgid "Most of the columns are sortable by clicking on the header. Click again to change the sort order."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:411
+#: ../../content/tickets/ticket-zoom.rst:413
 msgid "There are three possible colors used to mark the type of article."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:413
+#: ../../content/tickets/ticket-zoom.rst:415
 msgid "White: the article is visible for the customer user in the external interface and for agents in the agent interface."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:414
+#: ../../content/tickets/ticket-zoom.rst:416
 msgid "Red: the article is not visible for the customer user in the external interface, but it is visible for agents in the agent interface."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:415
+#: ../../content/tickets/ticket-zoom.rst:417
 msgid "Yellow: the article is a system message and the visibility can be changed in the system configuration."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:419
+#: ../../content/tickets/ticket-zoom.rst:421
 msgid "This widget is not displayed in ticket timeline view."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:423
+#: ../../content/tickets/ticket-zoom.rst:425
 msgid "Article Zoom"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:425
+#: ../../content/tickets/ticket-zoom.rst:427
 msgid "This widget displays the details of the article. The widget has an own menu."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:430
+#: ../../content/tickets/ticket-zoom.rst:432
 msgid "Article Zoom Widget"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:435
+#: ../../content/tickets/ticket-zoom.rst:437
 msgid "Mark or Unmark"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:435
+#: ../../content/tickets/ticket-zoom.rst:437
 msgid "Use this menu item to mark article as important or to remove the important flag from the article. Important articles have a red information flag in the *Article Overview* widget."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:438
+#: ../../content/tickets/ticket-zoom.rst:440
 msgid "This menu item opens a PDF file to show the printer friendly version of the current article. You can save or print this PDF file."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:461
+#: ../../content/tickets/ticket-zoom.rst:463
 msgid "Split"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:441
+#: ../../content/tickets/ticket-zoom.rst:443
 msgid "Use this menu item to split the article to an other ticket. Select the new ticket type and click on the *Submit* button."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:446
+#: ../../content/tickets/ticket-zoom.rst:448
 msgid "Article Split Dialog"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:448
+#: ../../content/tickets/ticket-zoom.rst:450
 msgid "It is possible to split the article into several type of ticket."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:451
+#: ../../content/tickets/ticket-zoom.rst:453
 msgid "Email ticket"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:451
+#: ../../content/tickets/ticket-zoom.rst:453
 msgid "Selecting this will open the :doc:`new-email-ticket` screen and fill in the fields with the current article data."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:454
+#: ../../content/tickets/ticket-zoom.rst:456
 msgid "Selecting this will open the :doc:`new-phone-ticket` screen and fill in the fields with the current article data."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:461
+#: ../../content/tickets/ticket-zoom.rst:463
 msgid "Process ticket"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:457
+#: ../../content/tickets/ticket-zoom.rst:459
 msgid "Selecting this will open the :doc:`new-process-ticket` screen and fill in the fields with the current article data."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:490
-msgid "Bounce"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:464
-msgid "Use this menu item to redirect the article. The original article will be sent, so the new *To* person will see the email as it was originally sent to him or her."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:469
-msgid "Article Bounce Screen"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:472
-msgid "Bounce to \\*"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:472
-msgid "The email address where the article needs to be redirected. The sender of the redirected email is the original sender of the article."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:478
-msgid "Check this box, if you would like to inform sender about bouncing. If this box is checked, the following fields must be filled."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:540
+#: ../../content/tickets/ticket-zoom.rst:513
 msgid "Forward"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:493
+#: ../../content/tickets/ticket-zoom.rst:466
 msgid "Use this menu item to forward the article via email."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:498
+#: ../../content/tickets/ticket-zoom.rst:471
 msgid "Article Forward Screen"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:591
+#: ../../content/tickets/ticket-zoom.rst:563
 msgid "Reply"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:543
+#: ../../content/tickets/ticket-zoom.rst:516
 msgid "Use this menu item to compose an answer to the article via email. Reply is created from a response template set in *Templates* module of the administrator interface."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:548
+#: ../../content/tickets/ticket-zoom.rst:521
 msgid "Compose Answer Screen"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:594
-msgid "Ticket Timeline View"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:596
-msgid "The ticket timeline view provides a chronological view of all actions which happened on a ticket, like articles, owner changes, incoming mails and other actions. With this view, agents are able to get a good overview of a ticket in less time."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:601
-msgid "Ticket Timeline View Widget"
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:603
-msgid "In this view you can work on the ticket as you are used to. You can inspect the time of each event in the timeline by hovering the little square next to each event with your mouse cursor. You can view the full content of articles by using the zoom icon on top of the certain articles box, where you will find all common article actions."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:607
-msgid "The ticket timeline view can be activated in the *Settings* menu item (gear icon) in the ticket menu."
-msgstr ""
-
-#: ../../content/tickets/ticket-zoom.rst:611
+#: ../../content/tickets/ticket-zoom.rst:566
 msgid "Linked Objects"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:613
+#: ../../content/tickets/ticket-zoom.rst:568
 msgid "Tickets can be linked to other objects. Use this widget to see the links between the ticket and other objects."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:620
+#: ../../content/tickets/ticket-zoom.rst:575
 msgid "New links can be added by the *Link* menu item of the *Ticket Zoom* menu. Existing links can also be managed there."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:635
+#: ../../content/tickets/ticket-zoom.rst:590
 msgid "Ticket Information"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:637
+#: ../../content/tickets/ticket-zoom.rst:592
 msgid "This widget contains information about the ticket."
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:642
+#: ../../content/tickets/ticket-zoom.rst:597
 msgid "Ticket Information Widget"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:646
+#: ../../content/tickets/ticket-zoom.rst:601
 msgid "Customer Information"
 msgstr ""
 
-#: ../../content/tickets/ticket-zoom.rst:648
+#: ../../content/tickets/ticket-zoom.rst:603
 msgid "This widget contains information about the customer."
 msgstr ""
 
