@@ -6,7 +6,7 @@
 
 # -- Variables ------------------------------------------------------------
 # See: https://stackoverflow.com/a/36331678
-doc_datestamp = '2022-09-27'
+doc_datestamp = '2022-09-28'
 doc_description = 'This is the description of the documentation.'
 doc_license = 'GNU Free Documentation License'
 doc_name = 'OTOBO User Manual'
@@ -141,8 +141,8 @@ html_copy_source = False
 
 html_context = {
     "display_github": True,
-    "github_user": "OTOBO",
-    "github_repo": "doc-user",
+    "github_user": "RotherOSS",
+    "github_repo": "doc-otobo-user",
     "github_version": "master",
     "conf_py_path": "/",
 }
@@ -151,7 +151,7 @@ html_context = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'doc-user'
+htmlhelp_basename = 'doc-otobo-user'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -205,7 +205,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'doc-user.tex', 'OTOBO User Manual',
+    (master_doc, 'doc-otobo-user.tex', 'OTOBO User Manual',
      'Rother OSS GmbH', 'manual'),
 ]
 
