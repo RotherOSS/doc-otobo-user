@@ -2,10 +2,6 @@
    :align: center
 |
 
-.. image:: ../images/otobo-logo.png
-   :align: center
-|
-
 ================
 OTOBO User Tutorial
 ================
