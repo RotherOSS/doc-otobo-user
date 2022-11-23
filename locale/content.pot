@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTOBO User Manual 10.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-22 01:30+0100\n"
+"POT-Creation-Date: 2022-11-23 01:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -636,7 +636,7 @@ msgstr ""
 #: ../../content/customers/customer-information-center.rst:62
 #: ../../content/customers/customer-user-administration.rst:46
 #: ../../content/faq/category-management.rst:32
-#: ../../content/reports/reports.rst:30
+#: ../../content/reports/reports.rst:29
 #: ../../content/reports/statistics.rst:45
 msgid "Fill in the required fields."
 msgstr ""
@@ -647,7 +647,7 @@ msgstr ""
 #: ../../content/customers/customer-information-center.rst:63
 #: ../../content/customers/customer-user-administration.rst:47
 #: ../../content/faq/journal.rst:25
-#: ../../content/reports/reports.rst:31
+#: ../../content/reports/reports.rst:30
 #: ../../content/reports/statistics.rst:46
 #: ../../content/tickets/escalation-view.rst:49
 #: ../../content/tickets/escalation-view.rst:56
@@ -739,7 +739,7 @@ msgstr ""
 #: ../../content/customers/customer-administration.rst:73
 #: ../../content/customers/customer-user-administration.rst:97
 #: ../../content/faq/category-management.rst:65
-#: ../../content/reports/reports.rst:69
+#: ../../content/reports/reports.rst:68
 #: ../../content/reports/statistics.rst:118
 msgid "The following settings are available when adding or editing this resource. The fields marked with an asterisk are mandatory."
 msgstr ""
@@ -755,13 +755,13 @@ msgstr ""
 #: ../../content/customers/customer-administration.rst:79
 #: ../../content/faq/category-management.rst:68
 #: ../../content/faq/new.rst:24
-#: ../../content/reports/reports.rst:72
+#: ../../content/reports/reports.rst:71
 #: ../../content/reports/statistics.rst:121
 msgid "The name of this resource. Any type of characters can be entered to this field including uppercase letters and spaces. The name will be displayed in the overview table."
 msgstr ""
 
 #: ../../content/calendar/new-appointment.rst:31
-#: ../../content/reports/reports.rst:75
+#: ../../content/reports/reports.rst:74
 #: ../../content/reports/statistics.rst:124
 msgid "Description"
 msgstr ""
@@ -797,7 +797,6 @@ msgstr ""
 #: ../../content/calendar/new-appointment.rst:45
 #: ../../content/calendar/resource-overview.rst:14
 #: ../../content/chat/chat.rst:14
-#: ../../content/reports/reports.rst:14
 msgid "Rother OSS TODO: This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otobo.de, we will find a solution."
 msgstr ""
 
@@ -1387,7 +1386,7 @@ msgstr ""
 #: ../../content/customers/customer-information-center.rst:69
 #: ../../content/customers/customer-user-administration.rst:62
 #: ../../content/customers/customer-user-information-center.rst:63
-#: ../../content/reports/reports.rst:43
+#: ../../content/reports/reports.rst:42
 #: ../../content/reports/statistics.rst:57
 #: ../../content/reports/statistics.rst:70
 msgid "Click on the *Save* or *Save and finish* button."
@@ -1488,14 +1487,14 @@ msgstr ""
 #: ../../content/customers/customer-administration.rst:97
 #: ../../content/customers/customer-user-administration.rst:146
 #: ../../content/faq/category-management.rst:80
-#: ../../content/reports/reports.rst:75
+#: ../../content/reports/reports.rst:74
 #: ../../content/reports/statistics.rst:124
 msgid "Add additional information to this resource. It is recommended to always fill this field as a description of the resource with a full sentence for better clarity, because the comment will be also displayed in the overview table."
 msgstr ""
 
 #: ../../content/customers/customer-administration.rst:99
 #: ../../content/customers/customer-user-administration.rst:148
-#: ../../content/reports/reports.rst:79
+#: ../../content/reports/reports.rst:78
 #: ../../content/reports/statistics.rst:153
 msgid "Validity \\*"
 msgstr ""
@@ -1504,7 +1503,7 @@ msgstr ""
 #: ../../content/customers/customer-user-administration.rst:149
 #: ../../content/faq/category-management.rst:77
 #: ../../content/faq/new.rst:49
-#: ../../content/reports/reports.rst:78
+#: ../../content/reports/reports.rst:77
 msgid "Set the validity of this resource. Each resource can be used in OTOBO only, if this field is set to *valid*. Setting this field to *invalid* or *invalid-temporarily* will disable the use of the resource."
 msgstr ""
 
@@ -2500,7 +2499,7 @@ msgstr ""
 
 #: ../../content/faq/category-management.rst:68
 #: ../../content/faq/language-management.rst:67
-#: ../../content/reports/reports.rst:72
+#: ../../content/reports/reports.rst:71
 msgid "Name \\*"
 msgstr ""
 
@@ -3238,202 +3237,202 @@ msgstr ""
 msgid "Reports are automatically generated statistics. In this menu it is possible to define new statistics, and set these statistics as reports, if needed."
 msgstr ""
 
-#: ../../content/reports/reports.rst:16
+#: ../../content/reports/reports.rst:15
 msgid "Use this screen to manage reports. A fresh OTOBO installation contains no reports by default. The reports management screen is available in the *Reports* menu item of the *Reports* menu."
 msgstr ""
 
-#: ../../content/reports/reports.rst:21
+#: ../../content/reports/reports.rst:20
 msgid "Reports Overview Screen"
 msgstr ""
 
-#: ../../content/reports/reports.rst:25
+#: ../../content/reports/reports.rst:24
 msgid "Manage Reports"
 msgstr ""
 
-#: ../../content/reports/reports.rst:27
+#: ../../content/reports/reports.rst:26
 msgid "To create a new report:"
 msgstr ""
 
-#: ../../content/reports/reports.rst:29
+#: ../../content/reports/reports.rst:28
 msgid "Click on the *Add Report* button in the left sidebar."
 msgstr ""
 
-#: ../../content/reports/reports.rst:32
+#: ../../content/reports/reports.rst:31
 msgid "You will be redirected to *Edit Report* screen to edit the report details."
 msgstr ""
 
-#: ../../content/reports/reports.rst:37
+#: ../../content/reports/reports.rst:36
 msgid "Add Report Screen"
 msgstr ""
 
-#: ../../content/reports/reports.rst:39
+#: ../../content/reports/reports.rst:38
 msgid "To edit a report:"
 msgstr ""
 
-#: ../../content/reports/reports.rst:41
+#: ../../content/reports/reports.rst:40
 msgid "Click on a report in the list of reports or you are already redirected here from *Add Report* screen."
 msgstr ""
 
-#: ../../content/reports/reports.rst:42
+#: ../../content/reports/reports.rst:41
 msgid "Modify the fields and the report details."
 msgstr ""
 
-#: ../../content/reports/reports.rst:48
+#: ../../content/reports/reports.rst:47
 msgid "Edit Report Details Screen"
 msgstr ""
 
-#: ../../content/reports/reports.rst:50
+#: ../../content/reports/reports.rst:49
 msgid "To delete a report:"
 msgstr ""
 
-#: ../../content/reports/reports.rst:52
+#: ../../content/reports/reports.rst:51
 msgid "Click on the trash icon in the list of reports."
 msgstr ""
 
-#: ../../content/reports/reports.rst:53
+#: ../../content/reports/reports.rst:52
 #: ../../content/reports/statistics.rst:85
 msgid "Click on the *OK* button in the confirmation screen."
 msgstr ""
 
-#: ../../content/reports/reports.rst:55
+#: ../../content/reports/reports.rst:54
 msgid "To run a report immediately:"
 msgstr ""
 
-#: ../../content/reports/reports.rst:57
+#: ../../content/reports/reports.rst:56
 msgid "Click on the *Run now* link in the list of reports."
 msgstr ""
 
-#: ../../content/reports/reports.rst:58
+#: ../../content/reports/reports.rst:57
 msgid "Click on the *Run now* button in the new screen."
 msgstr ""
 
-#: ../../content/reports/reports.rst:63
+#: ../../content/reports/reports.rst:62
 msgid "View Report Screen"
 msgstr ""
 
-#: ../../content/reports/reports.rst:67
+#: ../../content/reports/reports.rst:66
 msgid "General Report Settings"
 msgstr ""
 
-#: ../../content/reports/reports.rst:82
+#: ../../content/reports/reports.rst:81
 msgid "Automatic Generation Settings"
 msgstr ""
 
-#: ../../content/reports/reports.rst:93
+#: ../../content/reports/reports.rst:92
 msgid "Automatic generation times (cron)"
 msgstr ""
 
-#: ../../content/reports/reports.rst:85
+#: ../../content/reports/reports.rst:84
 msgid "Specify when the report should be automatically generated in cron format."
 msgstr ""
 
-#: ../../content/reports/reports.rst:89
+#: ../../content/reports/reports.rst:88
 msgid "For more information see the `Cron article on Wikipedia <https://en.wikipedia.org/wiki/Cron>`__."
 msgstr ""
 
-#: ../../content/reports/reports.rst:93
+#: ../../content/reports/reports.rst:92
 msgid "Times are in the system timezone."
 msgstr ""
 
-#: ../../content/reports/reports.rst:96
+#: ../../content/reports/reports.rst:95
 msgid "Automatic generation language"
 msgstr ""
 
-#: ../../content/reports/reports.rst:96
+#: ../../content/reports/reports.rst:95
 msgid "The language to be used when the report is automatically generated."
 msgstr ""
 
-#: ../../content/reports/reports.rst:99
+#: ../../content/reports/reports.rst:98
 msgid "Email subject"
 msgstr ""
 
-#: ../../content/reports/reports.rst:99
+#: ../../content/reports/reports.rst:98
 msgid "Specify the subject for the automatically generated email."
 msgstr ""
 
-#: ../../content/reports/reports.rst:102
+#: ../../content/reports/reports.rst:101
 msgid "Email body"
 msgstr ""
 
-#: ../../content/reports/reports.rst:102
+#: ../../content/reports/reports.rst:101
 msgid "Specify the text for the automatically generated email."
 msgstr ""
 
-#: ../../content/reports/reports.rst:106
+#: ../../content/reports/reports.rst:105
 msgid "Email recipients"
 msgstr ""
 
-#: ../../content/reports/reports.rst:105
+#: ../../content/reports/reports.rst:104
 msgid "Specify recipient email addresses (comma separated)."
 msgstr ""
 
-#: ../../content/reports/reports.rst:109
+#: ../../content/reports/reports.rst:108
 msgid "Output settings"
 msgstr ""
 
-#: ../../content/reports/reports.rst:112
+#: ../../content/reports/reports.rst:111
 msgid "Headline"
 msgstr ""
 
-#: ../../content/reports/reports.rst:112
+#: ../../content/reports/reports.rst:111
 msgid "This text will be used as headline text of the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:115
+#: ../../content/reports/reports.rst:114
 #: ../../content/reports/statistics.rst:170
 msgid "Title"
 msgstr ""
 
-#: ../../content/reports/reports.rst:115
+#: ../../content/reports/reports.rst:114
 msgid "The title of the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:118
+#: ../../content/reports/reports.rst:117
 msgid "Caption for preamble"
 msgstr ""
 
-#: ../../content/reports/reports.rst:118
+#: ../../content/reports/reports.rst:117
 msgid "The caption for preamble included in the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:121
+#: ../../content/reports/reports.rst:120
 msgid "Preamble"
 msgstr ""
 
-#: ../../content/reports/reports.rst:121
+#: ../../content/reports/reports.rst:120
 msgid "The preamble text of the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:124
+#: ../../content/reports/reports.rst:123
 msgid "Caption for epilogue"
 msgstr ""
 
-#: ../../content/reports/reports.rst:124
+#: ../../content/reports/reports.rst:123
 msgid "The caption for epilogue included in the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:128
+#: ../../content/reports/reports.rst:127
 msgid "Epilogue"
 msgstr ""
 
-#: ../../content/reports/reports.rst:127
+#: ../../content/reports/reports.rst:126
 msgid "The epilogue text of the report."
 msgstr ""
 
-#: ../../content/reports/reports.rst:131
+#: ../../content/reports/reports.rst:130
 #: ../../content/reports/statistics.rst:12
 msgid "Statistics"
 msgstr ""
 
-#: ../../content/reports/reports.rst:134
+#: ../../content/reports/reports.rst:133
 msgid "Add statistic to report"
 msgstr ""
 
-#: ../../content/reports/reports.rst:134
+#: ../../content/reports/reports.rst:133
 msgid "Select one or more :doc:`statistics` to be added to the report. Each added statistics have an own overview and settings screen."
 msgstr ""
 
-#: ../../content/reports/reports.rst:136
+#: ../../content/reports/reports.rst:135
 msgid "After all information is collected and set, click on the *Save* or *Save and finish* button to save the report."
 msgstr ""
 
