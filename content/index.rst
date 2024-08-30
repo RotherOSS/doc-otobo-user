@@ -34,5 +34,4 @@ Authors: OTRS AG (original version), Rother OSS GmbH (https://otobo.io).
    introduction
    agent
    customer
-   dashboard
    history
