@@ -8,13 +8,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTOBO User Manual 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-30 00:43+0200\n"
+"POT-Creation-Date: 2024-08-31 00:43+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: ../../content/agent.rst:12
+#: ../../content/customer.rst:12
+msgid "Agent"
+msgstr ""
+
+#: ../../content/agent.rst:14
+msgid "In this section you can find information if you are working as an agent in OTOBO."
+msgstr ""
+
+#: ../../content/agent.rst:16
+#: ../../content/agent/avatar.rst:18
+#: ../../content/agent/calendar.rst:18
+#: ../../content/agent/chat.rst:25
+#: ../../content/agent/customers.rst:16
+#: ../../content/agent/dashboard.rst:27
+#: ../../content/agent/faq.rst:18
+#: ../../content/agent/reports.rst:16
+#: ../../content/agent/search.rst:16
+#: ../../content/agent/tickets.rst:27
+#: ../../content/customer.rst:16
+#: ../../content/customer/avatar.rst:16
+#: ../../content/index.rst:40
+msgid "Contents"
+msgstr ""
 
 #: ../../content/agent/accessibility.rst:12
 #: ../../content/customer/accessibility.rst:12
@@ -50,20 +75,6 @@ msgstr ""
 
 #: ../../content/agent/avatar.rst:16
 msgid "All settings changed in this menu affect only your profile, and does not affect the behavior of OTOBO for other agents."
-msgstr ""
-
-#: ../../content/agent/avatar.rst:18
-#: ../../content/agent/calendar.rst:18
-#: ../../content/agent/chat.rst:25
-#: ../../content/agent/customers.rst:16
-#: ../../content/agent/dashboard.rst:27
-#: ../../content/agent/faq.rst:18
-#: ../../content/agent/reports.rst:16
-#: ../../content/agent/search.rst:16
-#: ../../content/agent/tickets.rst:27
-#: ../../content/customer/avatar.rst:16
-#: ../../content/index.rst:40
-msgid "Contents"
 msgstr ""
 
 #: ../../content/agent/avatar/logout.rst:12
@@ -5765,6 +5776,10 @@ msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:603
 msgid "This widget contains information about the customer."
+msgstr ""
+
+#: ../../content/customer.rst:14
+msgid "In this section you can find information if you are working as a customer user in OTOBO."
 msgstr ""
 
 #: ../../content/customer/avatar.rst:12

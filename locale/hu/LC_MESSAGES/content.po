@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTRS User Manual 7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-23 00:41+0200\n"
+"POT-Creation-Date: 2024-08-31 00:42+0200\n"
 "PO-Revision-Date: 2019-03-25 07:52+0000\n"
 "Last-Translator: Balázs Úr, 2019\n"
 "Language: hu\n"
@@ -24,6 +24,26 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+
+#: ../../content/agent.rst:12 ../../content/customer.rst:12
+msgid "Agent"
+msgstr ""
+
+#: ../../content/agent.rst:14
+msgid ""
+"In this section you can find information if you are working as an agent "
+"in OTOBO."
+msgstr ""
+
+#: ../../content/agent.rst:16 ../../content/agent/avatar.rst:18
+#: ../../content/agent/calendar.rst:18 ../../content/agent/chat.rst:25
+#: ../../content/agent/customers.rst:16 ../../content/agent/dashboard.rst:27
+#: ../../content/agent/faq.rst:18 ../../content/agent/reports.rst:16
+#: ../../content/agent/search.rst:16 ../../content/agent/tickets.rst:27
+#: ../../content/customer.rst:16 ../../content/customer/avatar.rst:16
+#: ../../content/index.rst:40
+msgid "Contents"
+msgstr "Tartalom"
 
 #: ../../content/agent/accessibility.rst:12
 #: ../../content/customer/accessibility.rst:12
@@ -86,15 +106,6 @@ msgstr ""
 "Az ebben a menüben megváltoztatott összes beállítás csak az Ön profiljára"
 " van hatással, és nem befolyásolja az OTRS működését vagy más "
 "ügyintézőket."
-
-#: ../../content/agent/avatar.rst:18 ../../content/agent/calendar.rst:18
-#: ../../content/agent/chat.rst:25 ../../content/agent/customers.rst:16
-#: ../../content/agent/dashboard.rst:27 ../../content/agent/faq.rst:18
-#: ../../content/agent/reports.rst:16 ../../content/agent/search.rst:16
-#: ../../content/agent/tickets.rst:27 ../../content/customer/avatar.rst:16
-#: ../../content/index.rst:40
-msgid "Contents"
-msgstr "Tartalom"
 
 #: ../../content/agent/avatar/logout.rst:12
 #: ../../content/customer/avatar/logout.rst:12
@@ -7984,6 +7995,12 @@ msgstr "Ügyfél-információk"
 #: ../../content/agent/tickets/ticket-zoom.rst:603
 msgid "This widget contains information about the customer."
 msgstr "Ez a felületi elem az ügyféllel kapcsolatos információkat tartalmazza."
+
+#: ../../content/customer.rst:14
+msgid ""
+"In this section you can find information if you are working as a customer"
+" user in OTOBO."
+msgstr ""
 
 #: ../../content/customer/avatar.rst:12
 msgid "Avatar actions"
