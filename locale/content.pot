@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTOBO User Manual 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-02 00:44+0200\n"
+"POT-Creation-Date: 2024-09-02 15:07+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../content/agent.rst:12
-#: ../../content/customer.rst:12
 msgid "Agent"
 msgstr ""
 
@@ -5776,6 +5775,10 @@ msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:603
 msgid "This widget contains information about the customer."
+msgstr ""
+
+#: ../../content/customer.rst:12
+msgid "Customer user"
 msgstr ""
 
 #: ../../content/customer.rst:14
