@@ -1,4 +1,4 @@
-Agent
+Customer user
 ==============
 
 In this section you can find information if you are working as a customer user in OTOBO.
