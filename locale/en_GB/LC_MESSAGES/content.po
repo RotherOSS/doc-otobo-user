@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTOBO User Manual 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-02 15:06+0200\n"
+"POT-Creation-Date: 2024-09-04 00:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 #: ../../content/customer/accessibility.rst:14
 msgid ""
 "OTOBO offers a high contrast skin for better accessibility. You can "
-"activate it in your :doc:`../avatar/personal-preferences`."
+"activate it in your :doc:`avatar/personal-preferences`."
 msgstr ""
 
 #: ../../content/agent/admin.rst:12
@@ -6984,4 +6984,11 @@ msgstr ""
 #: ../../content/introduction.rst:84
 msgid "Customer Interface"
 msgstr ""
+
+#~ msgid ""
+#~ "OTOBO offers a high contrast skin "
+#~ "for better accessibility. You can "
+#~ "activate it in your :doc:`../avatar"
+#~ "/personal-preferences`."
+#~ msgstr ""
 
