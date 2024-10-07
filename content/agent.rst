@@ -1,6 +1,8 @@
 Agent
 ==============
 
+Hello World
+
 In this section you can find information if you are working as an agent in OTOBO.
 
 .. toctree::
