@@ -1,7 +1,7 @@
 About
 =====
 
-This repository stores the source of the _OTOBO Installation Guide_.
+This repository stores the source of the _OTOBO User Guide_.
 
 The content of the documentation is in [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) format and uses [Sphinx](https://www.sphinx-doc.org) to generate HTML, PDF and EPUB outputs. The various outputs can be seen on the [OTOBO Documentation page](https://doc.otobo.org/).
 
@@ -16,8 +16,8 @@ Clone the repository
 
 
 ```bash
-git clone https://github.com/RotherOSS/doc-otobo-installation.git
-cd doc-otobo-installation
+git clone https://github.com/RotherOSS/doc-otobo-user.git
+cd doc-otobo-user
 ```
 
 Prerequisites
@@ -79,7 +79,7 @@ To edit the documentation:
 Report Bugs
 ===========
 
-If you find any kind of bugs in the documentation like typos, wrong information, dead links, etc., please create a bug report on [Github issue tracker](https://github.com/RotherOSS/doc-otobo-installation/issues).
+If you find any kind of bugs in the documentation like typos, wrong information, dead links, etc., please create a bug report on [Github issue tracker](https://github.com/RotherOSS/doc-otobo-user/issues).
 
 Documentation Architecture
 ==========================
