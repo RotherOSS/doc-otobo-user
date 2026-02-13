@@ -40,7 +40,7 @@ After a successful login, the agent dashboard will be displayed.
 
 
 Login to Customer Interface
-------------------------
+---------------------------
 
 The customer interface is available at the following location.
 

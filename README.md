@@ -5,6 +5,63 @@ This repository stores the source of the _OTOBO User Guide_.
 
 The content of the documentation is in [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) format and uses [Sphinx](https://www.sphinx-doc.org) to generate HTML, PDF and EPUB outputs. The various outputs can be seen on the [OTOBO Documentation page](https://doc.otobo.de/).
 
+🛠  Local Preview and Development
+====================
+
+To verify changes to the documentation before submitting them, you can generate a local HTML preview. This helps identify syntax errors in ReStructuredText (RST) or layout issues early in the process.
+
+Clone the repository
+--------------------
+
+
+```bash
+git clone https://github.com/RotherOSS/doc-otobo-user.git
+cd doc-otobo-user
+```
+
+Prerequisites
+-------------
+
+* **Python 3.10+**
+* **make** (standard on Linux/macOS; for Windows use MinGW or WSL)
+
+Quick Start
+-----------
+
+1. **Create a Virtual Environment (Recommended)**
+   To keep your system clean, create an isolated environment:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
+
+2. **Install Dependencies**
+   Install Sphinx and the required themes/plugins directly from the repository:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Generate HTML**
+   Use the provided Makefile for the build:
+
+```bash
+make html
+```
+
+Viewing the Result
+------------------
+
+Once the build is complete, you will find the generated files in the ``_build/html/`` directory. Open the ``index.html`` file in your browser:
+
+```bash
+# Example for Linux/macOS
+open _build/html/content/index.html
+```
+
+> **_NOTE:_**
+   This local build uses default settings (e.g., version "dev"). Final versioning, branding, and language validation are performed automatically by the **OTOBO CI Pipeline** as soon as changes are pushed to the repository.
 
 Contribution
 ============
