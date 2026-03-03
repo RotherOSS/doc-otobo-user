@@ -19,17 +19,17 @@
 # Michael Reuther <michael.reuther@otobo.com>, 2019
 # Stefan Rother <sr@otobo.de>, 2019
 msgid ""
-msgstr "Project-Id-Version: OTOBO User Tutorial 10.0\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2024-09-04 00:44+0200\nPO-Revision-Date: 2026-03-03 14:34+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <http://translate.otobo.org/projects/manual-otobo-user-agent/user-manual-otobo-11/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16\nGenerated-By: Babel 2.4.0\n"
+msgstr "Project-Id-Version: OTOBO User Tutorial 10.0\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2024-09-04 00:44+0200\nPO-Revision-Date: 2026-03-03 14:54+0000\nLast-Translator: Stefan Rother <sr@rother-oss.com>\nLanguage-Team: German <http://translate.otobo.org/projects/manual-otobo-user-agent/user-manual-otobo-11/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16\nGenerated-By: Babel 2.4.0\n"
 
 #: ../../content/agent.rst:12
 msgid "Agent"
-msgstr ""
+msgstr "Agent"
 
 #: ../../content/agent.rst:14
 msgid ""
 "In this section you can find information if you are working as an agent "
 "in OTOBO."
-msgstr ""
+msgstr "In diesem Abschnitt finden Sie Informationen, wenn Sie als Agent in OTOBO arbeiten."
 
 #: ../../content/agent.rst:16 ../../content/agent/avatar.rst:18
 #: ../../content/agent/calendar.rst:18 ../../content/agent/chat.rst:25
@@ -44,7 +44,7 @@ msgstr "Inhalt"
 #: ../../content/agent/accessibility.rst:12
 #: ../../content/customer/accessibility.rst:12
 msgid "Accessibility"
-msgstr ""
+msgstr "Barrierefreiheit"
 
 #: ../../content/agent/accessibility.rst:14
 #: ../../content/customer/accessibility.rst:14
