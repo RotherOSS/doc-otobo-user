@@ -16,7 +16,7 @@ Clone the repository
 
 
 ```bash
-git clone https://github.com/RotherOSS/doc-otobo-user.git
+git clone https://github.com/RotherOSS/doc-otobo-user.git --branch rel-10_1
 cd doc-otobo-user
 ```
 
