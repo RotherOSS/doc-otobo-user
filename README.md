@@ -3,7 +3,7 @@ About
 
 This repository stores the source of the _OTOBO User Guide_.
 
-The content of the documentation is in [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) format and uses [Sphinx](https://www.sphinx-doc.org) to generate HTML, PDF and EPUB outputs. The various outputs can be seen on the [OTOBO Documentation page](https://doc.otobo.de/).
+The content of the documentation is in [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) format and uses [Sphinx](https://www.sphinx-doc.org) to generate HTML and EPUB outputs. The various outputs can be seen on the [OTOBO Documentation page](https://doc.otobo.de/).
 
 🛠  Local Preview and Development
 ====================
