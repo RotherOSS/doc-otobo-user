@@ -1,3 +1,7 @@
+.. image:: ../images/otobo-logo.png
+   :align: center
+   :scale: 60
+
 ===================
 OTOBO User Tutorial
 ===================
