@@ -1,7 +1,8 @@
 Agent
 ==============
 
-In this section you can find information if you are working as an agent in OTOBO.
+In this section you can find information and best practice tipps if you are working as an agent in OTOBO.
+
 
 .. toctree::
    :maxdepth: 3
