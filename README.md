@@ -22,42 +22,24 @@ cd doc-otobo-user
 Prerequisites
 -------------
 
-* **Python 3.10+**
-* **make** (standard on Linux/macOS; for Windows use MinGW or WSL)
+* Python3
+* `make` (standard on Linux/macOS; for Windows use MinGW or WSL)
 
 Quick Start
 -----------
 
-1. **Create a Virtual Environment (Recommended)**
-   To keep your system clean, create an isolated environment:
+Use the provided Makefile for the build.
+It will manage a virtual environment in `.venv` for you.
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+make auto
 ```
 
-2. **Install Dependencies**
-   Install Sphinx and the required themes/plugins directly from the repository:
+Once the build is complete, it will open your browser and show the result.
+Call `help` to see all targets.
 
 ```bash
-pip install -r requirements.txt
-```
-
-3. **Generate HTML**
-   Use the provided Makefile for the build:
-
-```bash
-make html
-```
-
-Viewing the Result
-------------------
-
-Once the build is complete, you will find the generated files in the ``_build/html/`` directory. Open the ``index.html`` file in your browser:
-
-```bash
-# Example for Linux/macOS
-open _build/html/content/index.html
+make help
 ```
 
 > **_NOTE:_**
@@ -86,4 +68,4 @@ License
 =======
 
 The documentation is distributed under the GNU Free Documentation License - see the accompanying [COPYING](COPYING) file for more details.
-~  
+~
