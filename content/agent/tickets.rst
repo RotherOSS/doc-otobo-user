@@ -27,3 +27,4 @@ Every ticket is stored and archived with complete information. Since tickets are
    tickets/new-process-ticket
    tickets/search
    tickets/ticket-zoom
+   tickets/article-edit
