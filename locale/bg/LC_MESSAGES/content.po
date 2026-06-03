@@ -5,16 +5,27 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
 msgid ""
-msgstr "Project-Id-Version: OTOBO User Manual 11.0\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2024-10-08 08:01+0200\nPO-Revision-Date: 2026-03-03 14:33+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Bulgarian <http://translate.otobo.org/projects/manual-otobo-user-agent/user-manual-otobo-11/bg/>\nLanguage: bg\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16\nGenerated-By: Babel 2.4.0\n"
+msgstr ""
+"Project-Id-Version: OTOBO User Manual 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-08 08:01+0200\n"
+"PO-Revision-Date: 2026-03-03 14:33+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Bulgarian <http://translate.otobo.org/projects/manual-otobo-user-agent/user-manual-otobo-11/bg/>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.16\n"
+"Generated-By: Babel 2.4.0\n"
 
 #: ../../content/agent.rst:12
 msgid "Agent"
 msgstr ""
 
 #: ../../content/agent.rst:14
-msgid ""
-"In this section you can find information if you are working as an agent "
-"in OTOBO."
+msgid "In this section you can find information if you are working as an agent in OTOBO."
 msgstr ""
 
 #: ../../content/agent.rst:16 ../../content/agent/avatar.rst:18
@@ -34,17 +45,12 @@ msgstr ""
 
 #: ../../content/agent/accessibility.rst:14
 #: ../../content/customer/accessibility.rst:14
-msgid ""
-"OTOBO offers a high contrast skin for better accessibility. You can "
-"activate it in your :doc:`avatar/personal-preferences`."
+msgid "OTOBO offers a high contrast skin for better accessibility. You can activate it in your :doc:`avatar/personal-preferences`."
 msgstr ""
 
 #: ../../content/agent/accessibility.rst:16
 #: ../../content/customer/accessibility.rst:16
-msgid ""
-"Would you like to tell us about existing barriers or ask for information "
-"on the implementation of accessibility? For your feedback and any further"
-" information, please write to us at accessibility@otobo.io."
+msgid "Would you like to tell us about existing barriers or ask for information on the implementation of accessibility? For your feedback and any further information, please write to us at accessibility@otobo.io."
 msgstr ""
 
 #: ../../content/agent/admin.rst:12
@@ -52,18 +58,13 @@ msgid "Admin"
 msgstr ""
 
 #: ../../content/agent/admin.rst:14
-msgid ""
-"This menu item opens the administrator interface, which is described very"
-" detailed in the `Administration Manual "
-"<https://doc.otobo.org/manual/admin/stable/en/content/index.html>`__."
+msgid "This menu item opens the administrator interface, which is described very detailed in the `Administration Manual <https://doc.otobo.org/manual/admin/stable/en/content/index.html>`__."
 msgstr ""
 
 #: ../../content/agent/admin.rst:18
 #: ../../content/agent/faq/category-management.rst:16
 #: ../../content/agent/faq/language-management.rst:16
-msgid ""
-"This menu item is only available for agents who have administrator "
-"privileges."
+msgid "This menu item is only available for agents who have administrator privileges."
 msgstr ""
 
 #: ../../content/agent/avatar.rst:12
@@ -71,15 +72,11 @@ msgid "Personal Menu"
 msgstr ""
 
 #: ../../content/agent/avatar.rst:14
-msgid ""
-"Use this menu to customize your profile in OTOBO. The personal menu is "
-"available via your avatar in the top left corner."
+msgid "Use this menu to customize your profile in OTOBO. The personal menu is available via your avatar in the top left corner."
 msgstr ""
 
 #: ../../content/agent/avatar.rst:16
-msgid ""
-"All settings changed in this menu affect only your profile, and does not "
-"affect the behavior of OTOBO for other agents."
+msgid "All settings changed in this menu affect only your profile, and does not affect the behavior of OTOBO for other agents."
 msgstr ""
 
 #: ../../content/agent/avatar/logout.rst:12
@@ -101,16 +98,11 @@ msgid "Notifications"
 msgstr ""
 
 #: ../../content/agent/avatar/notifications.rst:14
-msgid ""
-"Use this screen to get an overview of notifications. The notification "
-"overview screen is available in the *Notifications* menu item of the "
-"*Avatar* menu."
+msgid "Use this screen to get an overview of notifications. The notification overview screen is available in the *Notifications* menu item of the *Avatar* menu."
 msgstr ""
 
 #: ../../content/agent/avatar/notifications.rst:16
-msgid ""
-"If unread notifications are in this screen, a flag icon with number also "
-"indicates the number of unread notifications in the toolbar."
+msgid "If unread notifications are in this screen, a flag icon with number also indicates the number of unread notifications in the toolbar."
 msgstr ""
 
 #: ../../content/agent/avatar/notifications.rst:21
@@ -118,17 +110,11 @@ msgid "Notification Web View Screen"
 msgstr ""
 
 #: ../../content/agent/avatar/notifications.rst:23
-msgid ""
-"Notifications can be filtered by clicking on a state name in the header "
-"of the overview widget. There is an option *All Notifications* to see all"
-" notifications. The numbers after the state names indicate how many "
-"notifications are in each state."
+msgid "Notifications can be filtered by clicking on a state name in the header of the overview widget. There is an option *All Notifications* to see all notifications. The numbers after the state names indicate how many notifications are in each state."
 msgstr ""
 
 #: ../../content/agent/avatar/notifications.rst:25
-msgid ""
-"To limit the number of displayed notifications per page and adjust "
-"visible columns:"
+msgid "To limit the number of displayed notifications per page and adjust visible columns:"
 msgstr ""
 
 #: ../../content/agent/avatar/notifications.rst:27
@@ -154,9 +140,7 @@ msgid "Click on the gear icon in the top right corner of the overview header."
 msgstr ""
 
 #: ../../content/agent/avatar/notifications.rst:28
-msgid ""
-"Select the maximum number of notifications displayed per page and set the"
-" visible columns by drag and drop."
+msgid "Select the maximum number of notifications displayed per page and set the visible columns by drag and drop."
 msgstr ""
 
 #: ../../content/agent/avatar/notifications.rst:29
@@ -170,9 +154,7 @@ msgstr ""
 
 #: ../../content/agent/avatar/notifications.rst:33
 #: ../../content/agent/dashboard/dashboard.rst:106
-msgid ""
-"The order of visible columns can be set by rearrange the columns in the "
-"*Visible columns* field."
+msgid "The order of visible columns can be set by rearrange the columns in the *Visible columns* field."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:12
@@ -181,10 +163,7 @@ msgid "Personal Preferences"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:14
-msgid ""
-"Use this screen to set personal preferences in OTOBO. The personal "
-"preferences screen is available in the *Personal Preferences* menu item "
-"of the *Avatar* menu."
+msgid "Use this screen to set personal preferences in OTOBO. The personal preferences screen is available in the *Personal Preferences* menu item of the *Avatar* menu."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:16
@@ -212,22 +191,15 @@ msgid "Preferences Modules"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:27
-msgid ""
-"Each module consists of widgets, which have two columns. In the first "
-"column is the setting, and in the second column is a description for the "
-"setting."
+msgid "Each module consists of widgets, which have two columns. In the first column is the setting, and in the second column is a description for the setting."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:31
-msgid ""
-"Do not forget to apply the changes by clicking on the tick icon in the "
-"right part of the widget."
+msgid "Do not forget to apply the changes by clicking on the tick icon in the right part of the widget."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:37
-msgid ""
-"This is the agent profile, where the account related settings can be "
-"changed."
+msgid "This is the agent profile, where the account related settings can be changed."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:41
@@ -236,9 +208,7 @@ msgid "Change password"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:43
-msgid ""
-"In this widget the current password can be changed. To change the "
-"password, all fields must be filled."
+msgid "In this widget the current password can be changed. To change the password, all fields must be filled."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:48
@@ -280,19 +250,11 @@ msgid "Google Authenticator"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:65
-msgid ""
-"System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey``"
-" needs to be activated to use this feature."
+msgid "System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey`` needs to be activated to use this feature."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:67
-msgid ""
-"This is a two factor authentication token described in `RFC6238 "
-"<https://tools.ietf.org/html/rfc6238>`__ to improve the account security."
-" `Google Authenticator "
-"<https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile "
-"application to generate tokens, but any other generator application can "
-"be used."
+msgid "This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:72
@@ -304,17 +266,11 @@ msgid "Shared Secret"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:75
-msgid ""
-"This is a string to use for token generation. It must contain only "
-"uppercase letters (A-Z) and numbers (2-7). Click on the *Generate* button"
-" to generate a secret."
+msgid "This is a string to use for token generation. It must contain only uppercase letters (A-Z) and numbers (2-7). Click on the *Generate* button to generate a secret."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:79
-msgid ""
-"Make sure that you add the shared secret to your generator application "
-"and the application works well. Otherwise you will be not able to login "
-"anymore without the two factor token."
+msgid "Make sure that you add the shared secret to your generator application and the application works well. Otherwise you will be not able to login anymore without the two factor token."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:83
@@ -322,9 +278,7 @@ msgid "Avatar"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:85
-msgid ""
-"Here can be changed the image used as avatar image in *Ticket Zoom* "
-"screen and in the main menu."
+msgid "Here can be changed the image used as avatar image in *Ticket Zoom* screen and in the main menu."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:90
@@ -332,11 +286,7 @@ msgid "Avatar Widget"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:92
-msgid ""
-"It is not possible to upload an avatar image directly in OTOBO. You have "
-"to register your email address on `Gravatar "
-"<https://www.gravatar.com/>`__ to use this feature. Otherwise the first "
-"letters of first name and last name will be displayed."
+msgid "It is not possible to upload an avatar image directly in OTOBO. You have to register your email address on `Gravatar <https://www.gravatar.com/>`__ to use this feature. Otherwise the first letters of first name and last name will be displayed."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:96
@@ -353,18 +303,11 @@ msgid "Language Widget"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:105
-msgid ""
-"Only those languages are listed by default, in which OTOBO is translated "
-"more than 95%. To see all available languages, click on the refresh icon "
-"next to the drop-down list."
+msgid "Only those languages are listed by default, in which OTOBO is translated more than 95%. To see all available languages, click on the refresh icon next to the drop-down list."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:109
-msgid ""
-"Translation status of incomplete languages are low, but you can help to "
-"improve the translation. See the `developer manual "
-"<https://doc.otobo.org/manual/developer/10.0/en/content/contributing/translate.html>`__"
-" for more information about translating OTOBO."
+msgid "Translation status of incomplete languages are low, but you can help to improve the translation. See the `developer manual <https://doc.otobo.org/manual/developer/10.0/en/content/contributing/translate.html>`__ for more information about translating OTOBO."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:113
@@ -373,9 +316,7 @@ msgid "Time Zone"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:115
-msgid ""
-"Each agent has to set the timezone of the current location to get proper "
-"date and time calculation in OTOBO."
+msgid "Each agent has to set the timezone of the current location to get proper date and time calculation in OTOBO."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:120
@@ -392,9 +333,7 @@ msgid "Out Of Office Time"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:128
-msgid ""
-"With this widget agents can inform other agents about absence. This is "
-"useful for resource planning and workload balancing."
+msgid "With this widget agents can inform other agents about absence. This is useful for resource planning and workload balancing."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:133
@@ -434,24 +373,15 @@ msgid "My Queues"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:154
-msgid ""
-"In this widget some queues can be selected as preferred queues. Tickets "
-"in this queues will be displayed under the *Tickets in My Queues* filter "
-"of the ticket widgets, and notifications will be sent, if new tickets are"
-" available in one of the selected queues."
+msgid "In this widget some queues can be selected as preferred queues. Tickets in this queues will be displayed under the *Tickets in My Queues* filter of the ticket widgets, and notifications will be sent, if new tickets are available in one of the selected queues."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:156
-msgid ""
-"In :doc:`../tickets/queue-view` only those queues will be displayed under"
-" *My Queues* filter, that are selected in this widget."
+msgid "In :doc:`../tickets/queue-view` only those queues will be displayed under *My Queues* filter, that are selected in this widget."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:158
-msgid ""
-"In case of owner or responsible selection, only agents are listed by "
-"default as potentially owner or responsible, who are set the queue as "
-"preferred queue in this widget."
+msgid "In case of owner or responsible selection, only agents are listed by default as potentially owner or responsible, who are set the queue as preferred queue in this widget."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:163
@@ -468,9 +398,7 @@ msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:173
 #: ../../content/agent/tickets/service-view.rst:16
-msgid ""
-"System configuration ``Ticket::Service`` needs to be activated to use "
-"this feature."
+msgid "System configuration ``Ticket::Service`` needs to be activated to use this feature."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:175
@@ -478,9 +406,7 @@ msgid "In this widget some services can be selected as preferred services."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:177
-msgid ""
-"In :doc:`../tickets/service-view` only those services will be displayed "
-"under *My Services* filter, that are selected in this widget."
+msgid "In :doc:`../tickets/service-view` only those services will be displayed under *My Services* filter, that are selected in this widget."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:182
@@ -496,9 +422,7 @@ msgid "Ticket Notifications"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:190
-msgid ""
-"In this widget can be selected the methods used for any kind of ticket "
-"notifications."
+msgid "In this widget can be selected the methods used for any kind of ticket notifications."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:195
@@ -515,9 +439,7 @@ msgid "Appointment Notifications"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:203
-msgid ""
-"In this widget can be selected the methods used for appointment "
-"notification."
+msgid "In this widget can be selected the methods used for appointment notification."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:208
@@ -531,22 +453,15 @@ msgstr ""
 #: ../../content/agent/avatar/personal-preferences.rst:218
 #: ../../content/agent/chat.rst:19 ../../content/agent/chat/chat.rst:18
 #: ../../content/agent/dashboard/dashboard.rst:37
-msgid ""
-"System configuration ``ChatEngine::Active`` needs to be activated to use "
-"this feature."
+msgid "System configuration ``ChatEngine::Active`` needs to be activated to use this feature."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:220
-msgid ""
-"In this widget some chat channels can be selected as preferred external "
-"chat channels. You will be notified about external chat requests in these"
-" chat channels."
+msgid "In this widget some chat channels can be selected as preferred external chat channels. You will be notified about external chat requests in these chat channels."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:222
-msgid ""
-"In :doc:`../chat/chat` screen only those chat channels will be displayed "
-"under *My Chat Channels* filter, that are selected in this widget."
+msgid "In :doc:`../chat/chat` screen only those chat channels will be displayed under *My Chat Channels* filter, that are selected in this widget."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:227
@@ -554,13 +469,7 @@ msgid "My Chat Channels Widget"
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:229
-msgid ""
-"Select one or more chat channels from the drop-down list. An agent needs "
-"to select in which chat channels want to be available. Customers will "
-"only be able to create a new chat request on a certain channel if at "
-"least one agent with owner permissions has selected this channel in their"
-" preferences and is set as available for external chats by the chat "
-"availability icon in the :doc:`../dashboard/dashboard` header toolbar."
+msgid "Select one or more chat channels from the drop-down list. An agent needs to select in which chat channels want to be available. Customers will only be able to create a new chat request on a certain channel if at least one agent with owner permissions has selected this channel in their preferences and is set as available for external chats by the chat availability icon in the :doc:`../dashboard/dashboard` header toolbar."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:235
@@ -592,9 +501,7 @@ msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:254
 #: ../../content/customer/avatar/personal-preferences.rst:74
-msgid ""
-"It is possible to make overview screens automatically refreshed after a "
-"period of time."
+msgid "It is possible to make overview screens automatically refreshed after a period of time."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:259
@@ -608,9 +515,7 @@ msgid "Select a refresh interval from the drop-down list."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:265
-msgid ""
-"Refreshing the overview screens too often can cause performance issues on"
-" large systems with many agents."
+msgid "Refreshing the overview screens too often can cause performance issues on large systems with many agents."
 msgstr ""
 
 #: ../../content/agent/avatar/personal-preferences.rst:269
@@ -678,20 +583,11 @@ msgid "Calendar"
 msgstr ""
 
 #: ../../content/agent/calendar.rst:14
-msgid ""
-"When working with customers, resource planning and scheduling can be a "
-"complex task. Appointments enable you to meet your customers where and "
-"whenever needed."
+msgid "When working with customers, resource planning and scheduling can be a complex task. Appointments enable you to meet your customers where and whenever needed."
 msgstr ""
 
 #: ../../content/agent/calendar.rst:16
-msgid ""
-"OTOBO supports this requirement with calendars. Calendars allow "
-"management of appointments and resources inside the ticket system. You "
-"can connect your tickets to scheduled tasks and make them available to "
-"all users to see. This feature adds transparency to show your team's "
-"workload and prevent users from promising resources which are not "
-"available."
+msgid "OTOBO supports this requirement with calendars. Calendars allow management of appointments and resources inside the ticket system. You can connect your tickets to scheduled tasks and make them available to all users to see. This feature adds transparency to show your team's workload and prevent users from promising resources which are not available."
 msgstr ""
 
 #: ../../content/agent/calendar/agenda-overview.rst:12
@@ -699,19 +595,12 @@ msgid "Agenda Overview"
 msgstr ""
 
 #: ../../content/agent/calendar/agenda-overview.rst:14
-msgid ""
-"Within the agenda overview, an agent is able to display the appointments "
-"of all available (accessible) calendars in a table-like overview. This "
-"overview is designed to have a detailed list of upcoming appointments in "
-"a structured table. Like in :doc:`calendar-overview` appointments can be "
-"created, edited or deleted."
+msgid "Within the agenda overview, an agent is able to display the appointments of all available (accessible) calendars in a table-like overview. This overview is designed to have a detailed list of upcoming appointments in a structured table. Like in :doc:`calendar-overview` appointments can be created, edited or deleted."
 msgstr ""
 
 #: ../../content/agent/calendar/agenda-overview.rst:18
 #: ../../content/agent/calendar/calendar-overview.rst:18
-msgid ""
-"There are no calendars added by default. Please contact your "
-"administrator to add one ore more calendars."
+msgid "There are no calendars added by default. Please contact your administrator to add one ore more calendars."
 msgstr ""
 
 #: ../../content/agent/calendar/agenda-overview.rst:23
@@ -720,9 +609,7 @@ msgid "No Calendars Found"
 msgstr ""
 
 #: ../../content/agent/calendar/agenda-overview.rst:25
-msgid ""
-"This overview supports a monthly, weekly and daily point of view on "
-"available appointments."
+msgid "This overview supports a monthly, weekly and daily point of view on available appointments."
 msgstr ""
 
 #: ../../content/agent/calendar/agenda-overview.rst:30
@@ -734,17 +621,11 @@ msgid "Calendar Overview"
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:14
-msgid ""
-"Use this screen to get an overview of the added calendars. The overview "
-"screen is available in the *Calendar Overview* menu item of the "
-"*Calendar* menu."
+msgid "Use this screen to get an overview of the added calendars. The overview screen is available in the *Calendar Overview* menu item of the *Calendar* menu."
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:25
-msgid ""
-"This overview works the same like usual calendars. Different time periods"
-" and timelines can be selected to view appointments, and it is possible "
-"to jump between different periods."
+msgid "This overview works the same like usual calendars. Different time periods and timelines can be selected to view appointments, and it is possible to jump between different periods."
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:30
@@ -752,9 +633,7 @@ msgid "Calendar Overview Screen"
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:32
-msgid ""
-"Check or uncheck the checkboxes in the *Calendars* widget to show or hide"
-" appointments in a specific calendar."
+msgid "Check or uncheck the checkboxes in the *Calendars* widget to show or hide appointments in a specific calendar."
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:37
@@ -766,9 +645,7 @@ msgid "To view appointments in external calendar applications:"
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:41
-msgid ""
-"Click on the *Copy public calendar URL* icon in the last column of "
-"*Calendars* widget to copy the URL to clipboard."
+msgid "Click on the *Copy public calendar URL* icon in the last column of *Calendars* widget to copy the URL to clipboard."
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:42
@@ -780,17 +657,11 @@ msgid "Insert the URL into your external calendar application."
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:47
-msgid ""
-"If several calendars are added to the system, use the filter box to find "
-"a particular calendar by just typing the name to filter."
+msgid "If several calendars are added to the system, use the filter box to find a particular calendar by just typing the name to filter."
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:49
-msgid ""
-"Within the calendar overview, an agent is able to display, create, edit "
-"and/or delete appointments of different calendars, depending on their "
-"permission level to the related calendars. Such appointments can be "
-"created or edited via drag and drop within this screen."
+msgid "Within the calendar overview, an agent is able to display, create, edit and/or delete appointments of different calendars, depending on their permission level to the related calendars. Such appointments can be created or edited via drag and drop within this screen."
 msgstr ""
 
 #: ../../content/agent/calendar/calendar-overview.rst:51
@@ -898,13 +769,7 @@ msgid "New Appointment"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:14
-msgid ""
-"Use this menu item to add new appointments to calendars. New appointments"
-" can be also added by clicking on the *Add Appointment* button either in "
-":doc:`calendar-overview` or in :doc:`agenda-overview` screens. It is also"
-" possible to drag over a range of the calendar widget to setup a rough "
-"time span. Right after that, a dialog appears where the data can be "
-"inserted."
+msgid "Use this menu item to add new appointments to calendars. New appointments can be also added by clicking on the *Add Appointment* button either in :doc:`calendar-overview` or in :doc:`agenda-overview` screens. It is also possible to drag over a range of the calendar widget to setup a rough time span. Right after that, a dialog appears where the data can be inserted."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:23
@@ -917,9 +782,7 @@ msgstr ""
 #: ../../content/agent/faq/category-management.rst:65
 #: ../../content/agent/reports/reports.rst:68
 #: ../../content/agent/reports/statistics.rst:118
-msgid ""
-"The following settings are available when adding or editing this "
-"resource. The fields marked with an asterisk are mandatory."
+msgid "The following settings are available when adding or editing this resource. The fields marked with an asterisk are mandatory."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:28
@@ -935,10 +798,7 @@ msgstr ""
 #: ../../content/agent/faq/new.rst:24
 #: ../../content/agent/reports/reports.rst:71
 #: ../../content/agent/reports/statistics.rst:121
-msgid ""
-"The name of this resource. Any type of characters can be entered to this "
-"field including uppercase letters and spaces. The name will be displayed "
-"in the overview table."
+msgid "The name of this resource. Any type of characters can be entered to this field including uppercase letters and spaces. The name will be displayed in the overview table."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:31
@@ -948,10 +808,7 @@ msgid "Description"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:31
-msgid ""
-"Add additional information to this resource. It is recommended to always "
-"fill this field as a description of the resource with a full sentence for"
-" better clarity."
+msgid "Add additional information to this resource. It is recommended to always fill this field as a description of the resource with a full sentence for better clarity."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:38
@@ -959,16 +816,11 @@ msgid "Location"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:34
-msgid ""
-"If the location contains a value, a related link icon will show up next "
-"to the field which by default links to Google map to get a better picture"
-" of the location."
+msgid "If the location contains a value, a related link icon will show up next to the field which by default links to Google map to get a better picture of the location."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:38
-msgid ""
-"This link is configurable through the system configuration option "
-"``AgentAppointmentEdit::Location::Link``."
+msgid "This link is configurable through the system configuration option ``AgentAppointmentEdit::Location::Link``."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:41
@@ -986,10 +838,7 @@ msgstr ""
 #: ../../content/agent/calendar/new-appointment.rst:45
 #: ../../content/agent/calendar/resource-overview.rst:14
 #: ../../content/agent/chat/chat.rst:14
-msgid ""
-"Rother OSS TODO: This feature will be included in one of the next OTOBO "
-"releases. If you need it beforehand, please contact sales@otobo.de, we "
-"will find a solution."
+msgid "Rother OSS TODO: This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otobo.de, we will find a solution."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:48
@@ -1013,10 +862,7 @@ msgid "All-day"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:54
-msgid ""
-"This checkbox indicates that the appointment takes place on the whole "
-"day. If it is checked, time of the start date and the end date will be "
-"disabled and set to 00:00."
+msgid "This checkbox indicates that the appointment takes place on the whole day. If it is checked, time of the start date and the end date will be disabled and set to 00:00."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:57
@@ -1024,9 +870,7 @@ msgid "Repeat"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:57
-msgid ""
-"Define appointment recurrences and will be described separately, see "
-"*Repeating Appointments* below."
+msgid "Define appointment recurrences and will be described separately, see *Repeating Appointments* below."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:64
@@ -1034,15 +878,11 @@ msgid "Notification"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:60
-msgid ""
-"Define time periods an appointment notification should be sent before the"
-" appointment start."
+msgid "Define time periods an appointment notification should be sent before the appointment start."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:64
-msgid ""
-"Appointment notifications can be set in admin interface. Please contact "
-"your administrator."
+msgid "Appointment notifications can be set in admin interface. Please contact your administrator."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:72
@@ -1052,15 +892,11 @@ msgid "Ticket"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:67
-msgid ""
-"Tickets and other objects can be linked to the appointment with this "
-"search field."
+msgid "Tickets and other objects can be linked to the appointment with this search field."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:71
-msgid ""
-"Usage of wildcards (\\*) is also possible. Enter two asterisks (\\*\\*) "
-"to list all tickets."
+msgid "Usage of wildcards (\\*) is also possible. Enter two asterisks (\\*\\*) to list all tickets."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:75
@@ -1069,9 +905,7 @@ msgid "Repeating Appointments"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:77
-msgid ""
-"If appointments need to be created in a recurring manner, it is possible "
-"to setup detailed information about the occurrences of an appointment."
+msgid "If appointments need to be created in a recurring manner, it is possible to setup detailed information about the occurrences of an appointment."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:79
@@ -1083,9 +917,7 @@ msgid "Select *Start date* and *End date* (or check *All day*)."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:82
-msgid ""
-"Select from the pre-defined frequencies of the occurrences or choose "
-"*custom* settings."
+msgid "Select from the pre-defined frequencies of the occurrences or choose *custom* settings."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:83
@@ -1093,11 +925,7 @@ msgid "Choose either a date to repeat until or an amount of times to repeat."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:90
-msgid ""
-"After all decisions are made and the settings are saved successfully, the"
-" appointment will be marked as recurring appointment. The parent "
-"appointment will be marked with circle-arrow-symbol and the child "
-"appointments with a chain-symbol."
+msgid "After all decisions are made and the settings are saved successfully, the appointment will be marked as recurring appointment. The parent appointment will be marked with circle-arrow-symbol and the child appointments with a chain-symbol."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:95
@@ -1105,11 +933,7 @@ msgid "Repeating Appointments Overview"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:97
-msgid ""
-"Future changes to the parent appointment will affect the children "
-"automatically, without any further message. If an agent is about to "
-"change one of the child appointments, a message will ask what would they "
-"like to update."
+msgid "Future changes to the parent appointment will affect the children automatically, without any further message. If an agent is about to change one of the child appointments, a message will ask what would they like to update."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:102
@@ -1117,23 +941,15 @@ msgid "Edit Repeating Appointment"
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:104
-msgid ""
-"If *All occurrences* going to be updated, the behavior will be the same "
-"as with the update of the parent appointment. All options (including the "
-"recurring settings) are changeable."
+msgid "If *All occurrences* going to be updated, the behavior will be the same as with the update of the parent appointment. All options (including the recurring settings) are changeable."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:106
-msgid ""
-"If *Just this occurrence* will be updated, it is not possible to change "
-"the repeating settings, but a related message and a link to the parent "
-"appointment will be provided."
+msgid "If *Just this occurrence* will be updated, it is not possible to change the repeating settings, but a related message and a link to the parent appointment will be provided."
 msgstr ""
 
 #: ../../content/agent/calendar/new-appointment.rst:108
-msgid ""
-"The enabled repeating option will be additionally displayed in the tool-"
-"tip of the related appointments."
+msgid "The enabled repeating option will be additionally displayed in the tool-tip of the related appointments."
 msgstr ""
 
 #: ../../content/agent/calendar/resource-overview.rst:12
@@ -1149,27 +965,15 @@ msgid "Chat"
 msgstr ""
 
 #: ../../content/agent/chat.rst:15
-msgid ""
-"This feature will be included in one of the next OTOBO releases. If you "
-"need it beforehand, please contact sales@otobo.de, we will find a "
-"solution."
+msgid "This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otobo.de, we will find a solution."
 msgstr ""
 
 #: ../../content/agent/chat.rst:21
-msgid ""
-"The chat feature allows for chats between agents and customers using the "
-"OTRS front end. Once enabled, customers or public users can start chats "
-"with agents and vice versa. Finished chats can be archived and attached "
-"to tickets, or can be downloaded as PDF by agents, customers and public "
-"users."
+msgid "The chat feature allows for chats between agents and customers using the OTRS front end. Once enabled, customers or public users can start chats with agents and vice versa. Finished chats can be archived and attached to tickets, or can be downloaded as PDF by agents, customers and public users."
 msgstr ""
 
 #: ../../content/agent/chat.rst:23
-msgid ""
-"Each chat is assigned to a chat channel. Chat channels are like chat "
-"rooms. Each chat channel is assigned to a certain group which controls "
-"the permissions for this channel. If no chat channel is selected when a "
-"chat is created, this chat will be created in the *Default channel*."
+msgid "Each chat is assigned to a chat channel. Chat channels are like chat rooms. Each chat channel is assigned to a certain group which controls the permissions for this channel. If no chat channel is selected when a chat is created, this chat will be created in the *Default channel*."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:12
@@ -1177,17 +981,11 @@ msgid "Manage Chats"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:20
-msgid ""
-"The chat management screen is the central point of the chat feature. Here"
-" an agent can manage the chats as well as see and accept open requests. "
-"This screen provides a list of chat requests from customer users, public "
-"users and other agents, as well as an overview over all active chats."
+msgid "The chat management screen is the central point of the chat feature. Here an agent can manage the chats as well as see and accept open requests. This screen provides a list of chat requests from customer users, public users and other agents, as well as an overview over all active chats."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:22
-msgid ""
-"Use this menu item to manage chats. The chat management screen is "
-"available in the *Chat* menu."
+msgid "Use this menu item to manage chats. The chat management screen is available in the *Chat* menu."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:27
@@ -1195,10 +993,7 @@ msgid "Chat Management Screen"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:29
-msgid ""
-"Each chat channel can be filtered with the options in the top of the "
-"widget to list *All Chat Channels* or only *My Chat Channels* set in "
-":doc:`../avatar/personal-preferences`."
+msgid "Each chat channel can be filtered with the options in the top of the widget to list *All Chat Channels* or only *My Chat Channels* set in :doc:`../avatar/personal-preferences`."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:33
@@ -1218,9 +1013,7 @@ msgid "To start a chat with another agent:"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:43
-msgid ""
-"Use the *Logged-In Users* widget in the dashboard. Agents who are able to"
-" use the chat, will have a chat icon next to their name."
+msgid "Use the *Logged-In Users* widget in the dashboard. Agents who are able to use the chat, will have a chat icon next to their name."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:48
@@ -1240,10 +1033,7 @@ msgid "Start Chat Dialog"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:58 ../../content/agent/chat/chat.rst:104
-msgid ""
-"After the chat request has been sent to the other agent, watch the chat "
-"in the chat management screen. A browser notification is displayed to "
-"inform the agent."
+msgid "After the chat request has been sent to the other agent, watch the chat in the chat management screen. A browser notification is displayed to inform the agent."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:63 ../../content/agent/chat/chat.rst:109
@@ -1251,9 +1041,7 @@ msgid "My Active Chats Widget"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:65
-msgid ""
-"Wait for the answer. The other agent has to accept the chat request with "
-"the *Open Chat* link."
+msgid "Wait for the answer. The other agent has to accept the chat request with the *Open Chat* link."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:70
@@ -1277,9 +1065,7 @@ msgid "To start a chat with a customer user:"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:85
-msgid ""
-"Use the *Logged-In Users* widget in the dashboard. Customer users who are"
-" able to use the chat, will have a chat icon next to their name."
+msgid "Use the *Logged-In Users* widget in the dashboard. Customer users who are able to use the chat, will have a chat icon next to their name."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:90
@@ -1287,9 +1073,7 @@ msgid "Available Customer Users"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:94
-msgid ""
-"Customer users can also be selected in *Customer User Information Center*"
-" or from the *Customer Information* widget of the *Ticket Zoom* screen."
+msgid "Customer users can also be selected in *Customer User Information Center* or from the *Customer Information* widget of the *Ticket Zoom* screen."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:96
@@ -1297,9 +1081,7 @@ msgid "Click on the chat icon next to a customer user name."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:111
-msgid ""
-"Wait for the answer. The customer user has to accept the chat request "
-"which is displayed in the bottom right corner of the external interface."
+msgid "Wait for the answer. The customer user has to accept the chat request which is displayed in the bottom right corner of the external interface."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:116
@@ -1315,9 +1097,7 @@ msgid "Agent to Customer User Chat"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:125
-msgid ""
-"When the customer user closes the chat, it is possible to send the chat "
-"via email or create a ticket from the conversation."
+msgid "When the customer user closes the chat, it is possible to send the chat via email or create a ticket from the conversation."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:130
@@ -1329,9 +1109,7 @@ msgid "Customer User to Agent"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:136
-msgid ""
-"Customer users are not able to start a chat directly with a certain "
-"agent, but only to create generic chat requests."
+msgid "Customer users are not able to start a chat directly with a certain agent, but only to create generic chat requests."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:138
@@ -1339,9 +1117,7 @@ msgid "To receive a chat request from a customer user:"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:140
-msgid ""
-"A customer user clicked on the *New conversation* button within the chat "
-"window in the bottom right corner of the external interface."
+msgid "A customer user clicked on the *New conversation* button within the chat window in the bottom right corner of the external interface."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:145 ../../content/agent/chat/chat.rst:177
@@ -1349,10 +1125,7 @@ msgid "Start Chat Window"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:147
-msgid ""
-"A browser notification is displayed to inform the agent. Go to the chat "
-"management screen, and open the general chat request with the *Open chat*"
-" link."
+msgid "A browser notification is displayed to inform the agent. Go to the chat management screen, and open the general chat request with the *Open chat* link."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:152
@@ -1380,17 +1153,11 @@ msgid "Public User to Agent"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:172
-msgid ""
-"Visitors of the external interface are also not able to start a chat "
-"directly with a certain agent, but only to create generic chat requests. "
-"As they are not logged in, they need to add a name to start the chat."
+msgid "Visitors of the external interface are also not able to start a chat directly with a certain agent, but only to create generic chat requests. As they are not logged in, they need to add a name to start the chat."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:179
-msgid ""
-"The steps are the same as described in *Customer User to Agent* section, "
-"but the chat request is displayed in the *General Chat Requests From "
-"Public Users* widget."
+msgid "The steps are the same as described in *Customer User to Agent* section, but the chat request is displayed in the *General Chat Requests From Public Users* widget."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:184
@@ -1402,24 +1169,15 @@ msgid "Chat Widget"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:190
-msgid ""
-"The chat widget is the main component when chatting with other people. It"
-" provides a history of all messages in the chat as well as a list of "
-"possible actions depending on your permission level."
+msgid "The chat widget is the main component when chatting with other people. It provides a history of all messages in the chat as well as a list of possible actions depending on your permission level."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:192
-msgid ""
-"The messages can be sent using the text field of a chat in *My Active "
-"Chats* widget by either clicking the send icon next to the text field or "
-"hitting the Enter key. Shift + Enter can be used to insert a new line "
-"into the message."
+msgid "The messages can be sent using the text field of a chat in *My Active Chats* widget by either clicking the send icon next to the text field or hitting the Enter key. Shift + Enter can be used to insert a new line into the message."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:194
-msgid ""
-"Every chat participant has a colored circle icon before his/her name in "
-"the chat widget header, which represents the participant availability."
+msgid "Every chat participant has a colored circle icon before his/her name in the chat widget header, which represents the participant availability."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:196
@@ -1427,16 +1185,11 @@ msgid "Green: participant is active (available and online)."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:197
-msgid ""
-"Yellow: participant is away (available, but there was no request sent to "
-"the server from this user for some time set in "
-"``ChatEngine::AgentOnlineThreshold``)."
+msgid "Yellow: participant is away (available, but there was no request sent to the server from this user for some time set in ``ChatEngine::AgentOnlineThreshold``)."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:198
-msgid ""
-"Pink: participant is inactive (chat request is not accepted yet or "
-"participant left the chat)."
+msgid "Pink: participant is inactive (chat request is not accepted yet or participant left the chat)."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:199
@@ -1456,9 +1209,7 @@ msgid "Chat Menu"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:209
-msgid ""
-"The first triangle icon expands and collapses the chat menu. The menu has"
-" several menu items."
+msgid "The first triangle icon expands and collapses the chat menu. The menu has several menu items."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:212
@@ -1467,10 +1218,7 @@ msgid "Phone ticket"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:212
-msgid ""
-"Allows you to create a phone ticket to which the current chat will be "
-"appended to as an article. After the ticket has successfully created, the"
-" chat will get closed automatically."
+msgid "Allows you to create a phone ticket to which the current chat will be appended to as an article. After the ticket has successfully created, the chat will get closed automatically."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:215
@@ -1478,9 +1226,7 @@ msgid "Append"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:215
-msgid ""
-"Allows you to append this chat as an article to a selected ticket. After "
-"the article has been created, the chat will get closed automatically."
+msgid "Allows you to append this chat as an article to a selected ticket. After the article has been created, the chat will get closed automatically."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:218
@@ -1488,14 +1234,7 @@ msgid "Invite"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:218
-msgid ""
-"Allows you to invite another agent to this chat. You can select from a "
-"list of available agents whom you want to invite. Once the agent has "
-"invited, a new agent to agent chat request will be sent to this agent. "
-"After the request has been accepted, a new internal chat will be "
-"established between you and the invited agent. In this internal chat, the"
-" invited agent has two more actions available in the advanced actions "
-"toolbar: *Observer* and *Participant*."
+msgid "Allows you to invite another agent to this chat. You can select from a list of available agents whom you want to invite. Once the agent has invited, a new agent to agent chat request will be sent to this agent. After the request has been accepted, a new internal chat will be established between you and the invited agent. In this internal chat, the invited agent has two more actions available in the advanced actions toolbar: *Observer* and *Participant*."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:221
@@ -1503,10 +1242,7 @@ msgid "Channel change"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:221
-msgid ""
-"Using this link, you can change the channel for this chat. For the "
-"selection of the target channel the same rules apply as for initially "
-"selecting a chat channel."
+msgid "Using this link, you can change the channel for this chat. For the selection of the target channel the same rules apply as for initially selecting a chat channel."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:224
@@ -1522,10 +1258,7 @@ msgid "New window"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:227
-msgid ""
-"Opens this chat in a separate popup window. You can use this window in "
-"the same way as the chat widget and both the widget and the popup can be "
-"used at the same time."
+msgid "Opens this chat in a separate popup window. You can use this window in the same way as the chat widget and both the widget and the popup can be used at the same time."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:234
@@ -1533,27 +1266,15 @@ msgid "Observer"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:230
-msgid ""
-"When you have been invited to a chat by another agent, you can decide if "
-"you want to join the chat as observer or participant depending on your "
-"permission level. Once you click the action from your toolbar, a new chat"
-" widget will be added to the list of your active chats which is the chat "
-"you have been invited to."
+msgid "When you have been invited to a chat by another agent, you can decide if you want to join the chat as observer or participant depending on your permission level. Once you click the action from your toolbar, a new chat widget will be added to the list of your active chats which is the chat you have been invited to."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:232
-msgid ""
-"If you join the chat as observer, you will only be able to read what "
-"others are contributing to the chat and you will be invisible to customer"
-" users or public users. Agents will still receive a message that you "
-"joined the chat as observer."
+msgid "If you join the chat as observer, you will only be able to read what others are contributing to the chat and you will be invisible to customer users or public users. Agents will still receive a message that you joined the chat as observer."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:234
-msgid ""
-"As an observer, you have the possibility to become a participant anytime "
-"by using the advanced action toolbar in your chat widget depending on "
-"your permission level."
+msgid "As an observer, you have the possibility to become a participant anytime by using the advanced action toolbar in your chat widget depending on your permission level."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:237
@@ -1561,18 +1282,11 @@ msgid "Participant"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:237
-msgid ""
-"If you want to contribute something to the chat you have been invited to,"
-" you can join it as a participant. Customer users, public users and "
-"agents will receive a message that you have entered the chat. As a "
-"participant, you can become an observer anytime by using the advanced "
-"action toolbar in your chat widget."
+msgid "If you want to contribute something to the chat you have been invited to, you can join it as a participant. Customer users, public users and agents will receive a message that you have entered the chat. As a participant, you can become an observer anytime by using the advanced action toolbar in your chat widget."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:239
-msgid ""
-"The second circle icon allows the agent to set up a personal monitoring "
-"for this chat, which is a three-way switch:"
+msgid "The second circle icon allows the agent to set up a personal monitoring for this chat, which is a three-way switch:"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:241
@@ -1588,15 +1302,11 @@ msgid "Filled circle with tick icon: monitor all actions."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:245
-msgid ""
-"When monitoring a chat, browser notifications will show up each time "
-"there is a new action in this chat."
+msgid "When monitoring a chat, browser notifications will show up each time there is a new action in this chat."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:247
-msgid ""
-"Finally the third close icon makes it possible to close the chat by "
-"clicking on the *X*."
+msgid "Finally the third close icon makes it possible to close the chat by clicking on the *X*."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:251
@@ -1604,9 +1314,7 @@ msgid "Chat Integration"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:253
-msgid ""
-"The public chat can be easily integrated into a website with the chat "
-"integration configuration and snippet generator."
+msgid "The public chat can be easily integrated into a website with the chat integration configuration and snippet generator."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:255
@@ -1626,15 +1334,11 @@ msgid "Chat Integration – Configuration"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:267
-msgid ""
-"All changes made in the *Configuration* tab will not be saved. Every time"
-" you open this dialog, all fields will be reset to default values."
+msgid "All changes made in the *Configuration* tab will not be saved. Every time you open this dialog, all fields will be reset to default values."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:269
-msgid ""
-"Copy the code snippet from the *Integration Code* tab and paste it into "
-"your website right before the ``</body>`` element."
+msgid "Copy the code snippet from the *Integration Code* tab and paste it into your website right before the ``</body>`` element."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:274
@@ -1650,23 +1354,15 @@ msgid "Chat Integration – Preview"
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:285
-msgid ""
-"The preview uses the real chat module. Other agents have to be available "
-"for chatting to preview all features."
+msgid "The preview uses the real chat module. Other agents have to be available for chatting to preview all features."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:287
-msgid ""
-"If mixed content warning is displayed in the browser console, an "
-"administrator has to check that the system configuration setting "
-"``HttpType`` is properly set. The website must run on the same protocol "
-"for the chat widget to work."
+msgid "If mixed content warning is displayed in the browser console, an administrator has to check that the system configuration setting ``HttpType`` is properly set. The website must run on the same protocol for the chat widget to work."
 msgstr ""
 
 #: ../../content/agent/chat/chat.rst:289
-msgid ""
-"For example, if the website is running OTOBO on SSL, the system "
-"configuration option must be set to ``https``."
+msgid "For example, if the website is running OTOBO on SSL, the system configuration option must be set to ``https``."
 msgstr ""
 
 #: ../../content/agent/customers.rst:12
@@ -1674,9 +1370,7 @@ msgid "Customers"
 msgstr ""
 
 #: ../../content/agent/customers.rst:14
-msgid ""
-"Use this menu to get overview screens for customers and customer users. "
-"Both customers and customer users can be managed here."
+msgid "Use this menu to get overview screens for customers and customer users. Both customers and customer users can be managed here."
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:18
@@ -1684,11 +1378,7 @@ msgid "Customer Administration"
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:20
-msgid ""
-"Use this screen to add customer companies to the system. A fresh OTOBO "
-"installation contains no customers by default. The customer management "
-"screen is available in the *Customer Administration* menu item of the "
-"*Customers* menu."
+msgid "Use this screen to add customer companies to the system. A fresh OTOBO installation contains no customers by default. The customer management screen is available in the *Customer Administration* menu item of the *Customers* menu."
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:25
@@ -1700,10 +1390,7 @@ msgid "Manage Customers"
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:32
-msgid ""
-"Adding or editing a customer is possible only by using database back end."
-" Using external directory services like LDAP will disable the customer "
-"management functionality."
+msgid "Adding or editing a customer is possible only by using database back end. Using external directory services like LDAP will disable the customer management functionality."
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:34
@@ -1719,10 +1406,7 @@ msgid "Add Customer Screen"
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:47
-msgid ""
-"Customers can not be deleted from the system. They can only be "
-"deactivated by setting the *Validity* option to *invalid* or *invalid-"
-"temporarily*."
+msgid "Customers can not be deleted from the system. They can only be deactivated by setting the *Validity* option to *invalid* or *invalid-temporarily*."
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:49
@@ -1759,16 +1443,11 @@ msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:63
 #: ../../content/agent/customers/customer-user-administration.rst:72
-msgid ""
-"Click on the magnifying glass icon in the right part of the field or hit "
-"an ``Enter``."
+msgid "Click on the magnifying glass icon in the right part of the field or hit an ``Enter``."
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:67
-msgid ""
-"If several customers are added to the system, use the search box to find "
-"a particular customer. Only the first 1000 customers are listed by "
-"default."
+msgid "If several customers are added to the system, use the search box to find a particular customer. Only the first 1000 customers are listed by default."
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:71
@@ -1780,9 +1459,7 @@ msgid "Customer ID \\*"
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:76
-msgid ""
-"The internal name of the customer. Should contain only letters, numbers "
-"and some special characters."
+msgid "The internal name of the customer. Should contain only letters, numbers and some special characters."
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:79
@@ -1848,11 +1525,7 @@ msgstr ""
 #: ../../content/agent/faq/category-management.rst:80
 #: ../../content/agent/reports/reports.rst:74
 #: ../../content/agent/reports/statistics.rst:124
-msgid ""
-"Add additional information to this resource. It is recommended to always "
-"fill this field as a description of the resource with a full sentence for"
-" better clarity, because the comment will be also displayed in the "
-"overview table."
+msgid "Add additional information to this resource. It is recommended to always fill this field as a description of the resource with a full sentence for better clarity, because the comment will be also displayed in the overview table."
 msgstr ""
 
 #: ../../content/agent/customers/customer-administration.rst:99
@@ -1867,10 +1540,7 @@ msgstr ""
 #: ../../content/agent/faq/category-management.rst:77
 #: ../../content/agent/faq/new.rst:49
 #: ../../content/agent/reports/reports.rst:77
-msgid ""
-"Set the validity of this resource. Each resource can be used in OTOBO "
-"only, if this field is set to *valid*. Setting this field to *invalid* or"
-" *invalid-temporarily* will disable the use of the resource."
+msgid "Set the validity of this resource. Each resource can be used in OTOBO only, if this field is set to *valid*. Setting this field to *invalid* or *invalid-temporarily* will disable the use of the resource."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:12
@@ -1878,18 +1548,11 @@ msgid "Customer Information Center"
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:14
-msgid ""
-"Customer information center is a dashboard, which displays all relevant "
-"tickets and customer users of a customer. This dashboard has the same "
-"purpose as the agent dashboard: to see all relevant information at a "
-"glance."
+msgid "Customer information center is a dashboard, which displays all relevant tickets and customer users of a customer. This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:16
-msgid ""
-"Use this screen to access the customer dashboard. The dashboard is "
-"available in the *Customer Information Center* menu item of the "
-"*Customers* menu."
+msgid "Use this screen to access the customer dashboard. The dashboard is available in the *Customer Information Center* menu item of the *Customers* menu."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:20
@@ -1897,10 +1560,7 @@ msgid "Manage Customer Tickets"
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:22
-msgid ""
-"Clicking on the *Customer Information Center* menu item will open a "
-"search dialog to search for a customer or a customer user. At least two "
-"characters need to be entered here."
+msgid "Clicking on the *Customer Information Center* menu item will open a search dialog to search for a customer or a customer user. At least two characters need to be entered here."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:27
@@ -1908,31 +1568,21 @@ msgid "Customer or Customer User Search Dialog"
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:31
-msgid ""
-"Usage of wildcards (\\*) is also possible. Enter two asterisks (\\*\\*) "
-"to list all customers or customer users."
+msgid "Usage of wildcards (\\*) is also possible. Enter two asterisks (\\*\\*) to list all customers or customer users."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:33
-msgid ""
-"After a customer or a customer user is selected, the *Customer "
-"Information Center* dashboard will be opened. The dashboard contains many"
-" widgets."
+msgid "After a customer or a customer user is selected, the *Customer Information Center* dashboard will be opened. The dashboard contains many widgets."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:37
 #: ../../content/agent/customers/customer-user-information-center.rst:37
-msgid ""
-"The order of the widgets can be rearranged by drag and drop, and the "
-"widgets can be removed with the close icon on the top right corner of "
-"each widget."
+msgid "The order of the widgets can be rearranged by drag and drop, and the widgets can be removed with the close icon on the top right corner of each widget."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:41
 #: ../../content/agent/customers/customer-user-information-center.rst:41
-msgid ""
-"See chapter :doc:`../dashboard/dashboard` for more detailed explanation "
-"of managing widgets."
+msgid "See chapter :doc:`../dashboard/dashboard` for more detailed explanation of managing widgets."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:46
@@ -1944,10 +1594,7 @@ msgid "Customer Information Center Content Widgets"
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:52
-msgid ""
-"The *Customer Users* widget is used to list all customer users belong to "
-"the customer. It is possible to add or edit customer users, see the "
-"details and create tickets directly from the widget."
+msgid "The *Customer Users* widget is used to list all customer users belong to the customer. It is possible to add or edit customer users, see the details and create tickets directly from the widget."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:57
@@ -1981,9 +1628,7 @@ msgid "Click on the name of a customer user."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:74
-msgid ""
-"See the customer and all relevant tickets in the :doc:`customer-user-"
-"information-center`."
+msgid "See the customer and all relevant tickets in the :doc:`customer-user-information-center`."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:76
@@ -1995,9 +1640,7 @@ msgid "Click on the *Create* link in the *Phone Ticket* or *Email Ticket* column
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:79
-msgid ""
-"Follow the instruction in :doc:`../tickets/new-phone-ticket` or in "
-":doc:`../tickets/new-email-ticket` screen."
+msgid "Follow the instruction in :doc:`../tickets/new-phone-ticket` or in :doc:`../tickets/new-email-ticket` screen."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:81
@@ -2032,9 +1675,7 @@ msgstr ""
 #: ../../content/agent/customers/customer-information-center.rst:91
 #: ../../content/agent/customers/customer-user-information-center.rst:82
 #: ../../content/agent/dashboard/dashboard.rst:64
-msgid ""
-"Tickets in My Queues: tickets which are in queues selected in "
-":doc:`../avatar/personal-preferences`."
+msgid "Tickets in My Queues: tickets which are in queues selected in :doc:`../avatar/personal-preferences`."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:92
@@ -2046,10 +1687,7 @@ msgstr ""
 #: ../../content/agent/customers/customer-information-center.rst:94
 #: ../../content/agent/customers/customer-user-information-center.rst:85
 #: ../../content/agent/dashboard/dashboard.rst:116
-msgid ""
-"The *Reminder Tickets* widget lists the pending tickets. Pending tickets "
-"are set for later work by the agent, and the reminder time is going to "
-"expire soon."
+msgid "The *Reminder Tickets* widget lists the pending tickets. Pending tickets are set for later work by the agent, and the reminder time is going to expire soon."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:99
@@ -2059,10 +1697,7 @@ msgid "Reminder Tickets Widget"
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:101
-msgid ""
-"The *Escalated Tickets* widget lists the escalated tickets. Escalated "
-"tickets are after the time set in service level agreement, and therefore "
-"need to be worked on them immediately."
+msgid "The *Escalated Tickets* widget lists the escalated tickets. Escalated tickets are after the time set in service level agreement, and therefore need to be worked on them immediately."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:106
@@ -2074,9 +1709,7 @@ msgstr ""
 #: ../../content/agent/customers/customer-information-center.rst:108
 #: ../../content/agent/customers/customer-user-information-center.rst:99
 #: ../../content/agent/dashboard/dashboard.rst:130
-msgid ""
-"The *New Tickets* widget lists the recently created tickets. New tickets "
-"are not handled by an agent yet."
+msgid "The *New Tickets* widget lists the recently created tickets. New tickets are not handled by an agent yet."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:113
@@ -2088,9 +1721,7 @@ msgstr ""
 #: ../../content/agent/customers/customer-information-center.rst:115
 #: ../../content/agent/customers/customer-user-information-center.rst:106
 #: ../../content/agent/dashboard/dashboard.rst:137
-msgid ""
-"The *Open Tickets* widget lists the open tickets. Open tickets represent "
-"the current work done by the agent."
+msgid "The *Open Tickets* widget lists the open tickets. Open tickets represent the current work done by the agent."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:120
@@ -2104,10 +1735,7 @@ msgid "Customer Information Center Sidebar Widgets"
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:126
-msgid ""
-"The following widgets are located on the right sidebar. There is a "
-"*Settings* widget to turn other widgets on or off, and some information "
-"widgets are also displayed here."
+msgid "The following widgets are located on the right sidebar. There is a *Settings* widget to turn other widgets on or off, and some information widgets are also displayed here."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:128
@@ -2131,9 +1759,7 @@ msgstr ""
 #: ../../content/agent/customers/customer-information-center.rst:137
 #: ../../content/agent/customers/customer-user-information-center.rst:128
 #: ../../content/agent/dashboard/dashboard.rst:217
-msgid ""
-"Expand the *Settings* widget in the right sidebar by clicking on its "
-"header bar."
+msgid "Expand the *Settings* widget in the right sidebar by clicking on its header bar."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:138
@@ -2151,9 +1777,7 @@ msgid "Click on the *Save settings* button."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:141
-msgid ""
-"The *Company Status* widget displays the number of tickets of the current"
-" customer categorized by state."
+msgid "The *Company Status* widget displays the number of tickets of the current customer categorized by state."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:146
@@ -2162,9 +1786,7 @@ msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:148
 #: ../../content/agent/customers/customer-user-information-center.rst:139
-msgid ""
-"The *Customer Information* widget displays information about the current "
-"customer."
+msgid "The *Customer Information* widget displays information about the current customer."
 msgstr ""
 
 #: ../../content/agent/customers/customer-information-center.rst:153
@@ -2182,25 +1804,15 @@ msgid "Customer User Administration"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:20
-msgid ""
-"A record of who your company deals with requires more information about "
-"that individual: physical location for shipping and billing purposes, as "
-"well as contact information for email and phone contact."
+msgid "A record of who your company deals with requires more information about that individual: physical location for shipping and billing purposes, as well as contact information for email and phone contact."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:22
-msgid ""
-"OTOBO offers a great way to save individual information about contacts "
-"within organizations which your company serves. You can add as many "
-"personal connections into OTOBO as needed."
+msgid "OTOBO offers a great way to save individual information about contacts within organizations which your company serves. You can add as many personal connections into OTOBO as needed."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:24
-msgid ""
-"Use this screen to add a customer user to the system. A fresh OTOBO "
-"installation contains no customer users by default. The customer user "
-"management screen is available in the *Customer User Administration* menu"
-" item of the *Customers* menu."
+msgid "Use this screen to add a customer user to the system. A fresh OTOBO installation contains no customer users by default. The customer user management screen is available in the *Customer User Administration* menu item of the *Customers* menu."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:29
@@ -2212,17 +1824,11 @@ msgid "Manage Customer Users"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:37
-msgid ""
-"A customer user can only be added to the system when at least one "
-"customer exists. Create a customer in :doc:`customer-administration` "
-"first."
+msgid "A customer user can only be added to the system when at least one customer exists. Create a customer in :doc:`customer-administration` first."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:41
-msgid ""
-"Adding or editing a customer user is possible only by using database back"
-" end. Using external directory services like LDAP will disable the "
-"customer user management functionality."
+msgid "Adding or editing a customer user is possible only by using database back end. Using external directory services like LDAP will disable the customer user management functionality."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:43
@@ -2238,10 +1844,7 @@ msgid "Add Customer User Screen"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:56
-msgid ""
-"Customer users can not be deleted from the system. They can only be "
-"deactivated by setting the *Validity* option to *invalid* or *invalid-"
-"temporarily*."
+msgid "Customer users can not be deleted from the system. They can only be deactivated by setting the *Validity* option to *invalid* or *invalid-temporarily*."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:60
@@ -2257,18 +1860,11 @@ msgid "To find a customer user:"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:76
-msgid ""
-"If several customer users are added to the system, use the search box to "
-"find a particular customer user. Only the first 1000 customer users are "
-"listed by default."
+msgid "If several customer users are added to the system, use the search box to find a particular customer user. Only the first 1000 customer users are listed by default."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:78
-msgid ""
-"The customer user permissions can be controlled by adding a customer or a"
-" customer user to groups. This can result a complex matrix of "
-"permissions. The effective permissions for a customer user can be checked"
-" in the bottom of the *Edit Customer User* screen."
+msgid "The customer user permissions can be controlled by adding a customer or a customer user to groups. This can result a complex matrix of permissions. The effective permissions for a customer user can be checked in the bottom of the *Edit Customer User* screen."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:83
@@ -2276,9 +1872,7 @@ msgid "Effective Permissions for Customer User Widget"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:87
-msgid ""
-"Customer group support needs to be enabled to use this feature. Please "
-"contact your administrator."
+msgid "Customer group support needs to be enabled to use this feature. Please contact your administrator."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:91
@@ -2330,9 +1924,7 @@ msgid "Password"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:116
-msgid ""
-"The password of the customer user. This will be auto-generated if left "
-"empty."
+msgid "The password of the customer user. This will be auto-generated if left empty."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:119
@@ -2344,9 +1936,7 @@ msgid "The email address of the customer user."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:122
-msgid ""
-"The customer company the customer user belongs to. Select a customer from"
-" the list. Customers can be added in :doc:`customer-administration`."
+msgid "The customer company the customer user belongs to. Select a customer from the list. Customers can be added in :doc:`customer-administration`."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-administration.rst:125
@@ -2382,18 +1972,11 @@ msgid "Customer User Information Center"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:14
-msgid ""
-"Customer user information center is a dashboard, which displays all "
-"relevant tickets and customers of a customer user. This dashboard has the"
-" same purpose as the agent dashboard: to see all relevant information at "
-"a glance."
+msgid "Customer user information center is a dashboard, which displays all relevant tickets and customers of a customer user. This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:16
-msgid ""
-"Use this screen to access the customer user dashboard. The dashboard is "
-"available in the *Customer User Information Center* menu item of the "
-"*Customers* menu."
+msgid "Use this screen to access the customer user dashboard. The dashboard is available in the *Customer User Information Center* menu item of the *Customers* menu."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:20
@@ -2401,10 +1984,7 @@ msgid "Manage Customer User Tickets"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:22
-msgid ""
-"Clicking on the *Customer User Information Center* menu item will open a "
-"search dialog to search a customer user. At least two characters need to "
-"be entered here."
+msgid "Clicking on the *Customer User Information Center* menu item will open a search dialog to search a customer user. At least two characters need to be entered here."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:27
@@ -2417,15 +1997,11 @@ msgstr ""
 #: ../../content/agent/tickets/ticket-zoom.rst:217
 #: ../../content/agent/tickets/ticket-zoom.rst:489
 #: ../../content/agent/tickets/ticket-zoom.rst:539
-msgid ""
-"Usage of wildcards (\\*) is also possible. Enter two asterisks (\\*\\*) "
-"to list all customer users."
+msgid "Usage of wildcards (\\*) is also possible. Enter two asterisks (\\*\\*) to list all customer users."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:33
-msgid ""
-"After a customer user is selected, the *Customer User Information Center*"
-" dashboard will be opened. The dashboard contains many widgets."
+msgid "After a customer user is selected, the *Customer User Information Center* dashboard will be opened. The dashboard contains many widgets."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:46
@@ -2437,10 +2013,7 @@ msgid "Customer User Information Center Content Widgets"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:52
-msgid ""
-"The *Customer IDs* widget is used to list all customers to whom the "
-"customer user belongs to. It is possible to edit the customer and see the"
-" details directly from the widget."
+msgid "The *Customer IDs* widget is used to list all customers to whom the customer user belongs to. It is possible to edit the customer and see the details directly from the widget."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:57
@@ -2456,9 +2029,7 @@ msgid "Click on the name of a customer."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:68
-msgid ""
-"See the customer users and all relevant tickets in the :doc:`customer-"
-"information-center`."
+msgid "See the customer users and all relevant tickets in the :doc:`customer-information-center`."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:70
@@ -2470,23 +2041,16 @@ msgid "The following widgets display tickets related to a customer user."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:79
-msgid ""
-"Assigned to customer user: tickets which are assigned to the customer "
-"user."
+msgid "Assigned to customer user: tickets which are assigned to the customer user."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:80
-msgid ""
-"Accessible for customer user: tickets which are accessible for customer "
-"user."
+msgid "Accessible for customer user: tickets which are accessible for customer user."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:92
 #: ../../content/agent/dashboard/dashboard.rst:123
-msgid ""
-"The *Escalated Tickets* widget lists the escalated tickets. Escalated "
-"tickets are after the time set in service level agreement, and therefore "
-"needs to be worked on them immediately."
+msgid "The *Escalated Tickets* widget lists the escalated tickets. Escalated tickets are after the time set in service level agreement, and therefore needs to be worked on them immediately."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:115
@@ -2495,16 +2059,11 @@ msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:117
 #: ../../content/agent/dashboard/dashboard.rst:206
-msgid ""
-"The following widgets are located on the right sidebar. There is a "
-"*Settings* widget to turn other widgets on or off, and some information "
-"widgets also displayed here."
+msgid "The following widgets are located on the right sidebar. There is a *Settings* widget to turn other widgets on or off, and some information widgets also displayed here."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:132
-msgid ""
-"The *Customer User Information* widget displays information about the "
-"current customer user."
+msgid "The *Customer User Information* widget displays information about the current customer user."
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:137
@@ -2512,9 +2071,7 @@ msgid "Customer User Information Widget"
 msgstr ""
 
 #: ../../content/agent/customers/customer-user-information-center.rst:148
-msgid ""
-"Customer user information can be changed in :doc:`customer-user-"
-"administration`."
+msgid "Customer user information can be changed in :doc:`customer-user-administration`."
 msgstr ""
 
 #: ../../content/agent/dashboard.rst:12
@@ -2523,10 +2080,7 @@ msgid "Dashboard"
 msgstr ""
 
 #: ../../content/agent/dashboard.rst:14
-msgid ""
-"After login to the agent interface, the agent dashboard will be "
-"displayed. This dashboard is a collection of widgets, which display "
-"customized important information for each agent."
+msgid "After login to the agent interface, the agent dashboard will be displayed. This dashboard is a collection of widgets, which display customized important information for each agent."
 msgstr ""
 
 #: ../../content/agent/dashboard.rst:19
@@ -2534,42 +2088,19 @@ msgid "Agent Dashboard"
 msgstr ""
 
 #: ../../content/agent/dashboard.rst:21
-msgid ""
-"The dashboard is the main page of the system, where you can get an "
-"overview of tickets and other things related to ticket activity. It is "
-"designed to be the starting point for an agent’s daily work. By default, "
-"it provides a quick summary of the tickets that are pending, escalated, "
-"new or open, and more information."
+msgid "The dashboard is the main page of the system, where you can get an overview of tickets and other things related to ticket activity. It is designed to be the starting point for an agent’s daily work. By default, it provides a quick summary of the tickets that are pending, escalated, new or open, and more information."
 msgstr ""
 
 #: ../../content/agent/dashboard.rst:23
-msgid ""
-"One of the most important features about the dashboard is that is "
-"completely customizable. That means that you can configure each part as "
-"you want, showing or hiding elements. It is even possible to relocate "
-"these elements within the same column by clicking on and dragging the "
-"header of an element, and dropping them elsewhere. Each element is named "
-"*widget*. The system has some widgets ready to use out of the box, but "
-"the modular design of the dashboard screen is prepared to integrate "
-"custom widgets easily."
+msgid "One of the most important features about the dashboard is that is completely customizable. That means that you can configure each part as you want, showing or hiding elements. It is even possible to relocate these elements within the same column by clicking on and dragging the header of an element, and dropping them elsewhere. Each element is named *widget*. The system has some widgets ready to use out of the box, but the modular design of the dashboard screen is prepared to integrate custom widgets easily."
 msgstr ""
 
 #: ../../content/agent/dashboard.rst:25
-msgid ""
-"The content of this screen is arranged in two main columns, on the left "
-"column you normally can see information about tickets classified by their"
-" states like: reminder, escalated, new, and open. On each of these "
-"widgets you can filter the results to see all of the tickets that you are"
-" allowed to access, tickets you have locked, the ones that are located in"
-" agent defined queues, among other filters. There are also other kind of "
-"widgets in this column and they are all described below."
+msgid "The content of this screen is arranged in two main columns, on the left column you normally can see information about tickets classified by their states like: reminder, escalated, new, and open. On each of these widgets you can filter the results to see all of the tickets that you are allowed to access, tickets you have locked, the ones that are located in agent defined queues, among other filters. There are also other kind of widgets in this column and they are all described below."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:14
-msgid ""
-"The dashboard is the main overview screen for agents. Use this screen to "
-"get full overview about the most important things: ticket lists, "
-"appointments, statistics, news."
+msgid "The dashboard is the main overview screen for agents. Use this screen to get full overview about the most important things: ticket lists, appointments, statistics, news."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:19
@@ -2593,15 +2124,11 @@ msgid "Toolbar icons"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:27
-msgid ""
-"Icons with numbers indicating some ticket actions with the number of "
-"related tickets. The icons and search boxes are not activated by default."
+msgid "Icons with numbers indicating some ticket actions with the number of related tickets. The icons and search boxes are not activated by default."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:31
-msgid ""
-"Icons and search boxes can be activated in settings under *Frontend* → "
-"*Agent* → *Toolbar*."
+msgid "Icons and search boxes can be activated in settings under *Frontend* → *Agent* → *Toolbar*."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:33
@@ -2609,9 +2136,7 @@ msgid "The last icon is the chat availability status."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:39
-msgid ""
-"The chat availability status icon is a three-way switch, and can be "
-"changed by clicking."
+msgid "The chat availability status icon is a three-way switch, and can be changed by clicking."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:41
@@ -2619,21 +2144,15 @@ msgid "Empty circle: unavailable for chats."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:42
-msgid ""
-"Empty circle with tick sign: available for internal (agent to agent) "
-"chats."
+msgid "Empty circle with tick sign: available for internal (agent to agent) chats."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:43
-msgid ""
-"Filled circle with tick sign: available for internal (agent to agent) and"
-" external (customer to agent, public to agent) chats."
+msgid "Filled circle with tick sign: available for internal (agent to agent) and external (customer to agent, public to agent) chats."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:47
-msgid ""
-"The chat availability status will be changed from external chats to "
-"internal chats each time an agent logs in to OTOBO again."
+msgid "The chat availability status will be changed from external chats to internal chats each time an agent logs in to OTOBO again."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:50
@@ -2645,10 +2164,7 @@ msgid "The main menu of the agent interface."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:52
-msgid ""
-"The dashboard displays so called *widgets*. A widget is a box, that "
-"consists of a header, a filter and a data table. Each widget can be moved"
-" with drag and drop, and can have own settings."
+msgid "The dashboard displays so called *widgets*. A widget is a box, that consists of a header, a filter and a data table. Each widget can be moved with drag and drop, and can have own settings."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:57
@@ -2660,21 +2176,15 @@ msgid "Each ticket widget has own filter for displaying:"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:62
-msgid ""
-"My watched tickets: tickets that the agent has in his/her watched list "
-"(requires ``Ticket::Watcher`` setting to be turned on)."
+msgid "My watched tickets: tickets that the agent has in his/her watched list (requires ``Ticket::Watcher`` setting to be turned on)."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:63
-msgid ""
-"My responsibilities: tickets that the agent is set as responsible "
-"(requires ``Ticket::Responsible`` setting to be turned on)."
+msgid "My responsibilities: tickets that the agent is set as responsible (requires ``Ticket::Responsible`` setting to be turned on)."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:65
-msgid ""
-"Tickets in My Services: tickets that are assigned to services selected in"
-" :doc:`../avatar/personal-preferences`."
+msgid "Tickets in My Services: tickets that are assigned to services selected in :doc:`../avatar/personal-preferences`."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:68
@@ -2703,9 +2213,7 @@ msgid "Deselect the widgets you want to remove."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:84
-msgid ""
-"You can also remove a widget, if you hover the mouse over the widget "
-"header and click on the *×* on the top right corner to close the widget."
+msgid "You can also remove a widget, if you hover the mouse over the widget header and click on the *×* on the top right corner to close the widget."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:86
@@ -2753,15 +2261,11 @@ msgid "Dashboard Content Widgets"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:114
-msgid ""
-"The widgets can be different depending on the installed packages and "
-"system configuration settings."
+msgid "The widgets can be different depending on the installed packages and system configuration settings."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:144
-msgid ""
-"The *Running Process Tickets* widget lists the process tickets, that are "
-"started, but not finished yet."
+msgid "The *Running Process Tickets* widget lists the process tickets, that are started, but not finished yet."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:149
@@ -2769,11 +2273,7 @@ msgid "Running Process Tickets Widget"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:151
-msgid ""
-"The *Ticket Queue Overview* widget gives an overview as a ticket count "
-"matrix, where the rows represent queues and the columns represent the "
-"ticket states. Each cell displays the number of tickets in a defined "
-"state that belongs to a particular queue."
+msgid "The *Ticket Queue Overview* widget gives an overview as a ticket count matrix, where the rows represent queues and the columns represent the ticket states. Each cell displays the number of tickets in a defined state that belongs to a particular queue."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:156
@@ -2781,15 +2281,11 @@ msgid "Ticket Queue Overview Widget"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:158
-msgid ""
-"The *Events Ticket Calendar* widget displays tickets in a calendar, but "
-"this widget does not work out-of-the-box."
+msgid "The *Events Ticket Calendar* widget displays tickets in a calendar, but this widget does not work out-of-the-box."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:160
-msgid ""
-"To display the tickets in this calendar, the following settings need to "
-"be set by an **admin user**:"
+msgid "To display the tickets in this calendar, the following settings need to be set by an **admin user**:"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:162
@@ -2835,18 +2331,11 @@ msgid "Calendar End Time"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:172
-msgid ""
-"Navigate to *Frontend* → *Agent* → *View* and select a view to add the "
-"dynamic field to."
+msgid "Navigate to *Frontend* → *Agent* → *View* and select a view to add the dynamic field to."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:174
-msgid ""
-"For example add these dynamic fields to *New Phone Ticket* screen and "
-"*New Email Ticket* screen to set the dates at ticket creation time, or to"
-" *Ticket Free Fields* screen to set the dates for existing ticket in the "
-"*Miscellaneous* → *Free Fields* menu item of the :doc:`../tickets/ticket-"
-"zoom` screen."
+msgid "For example add these dynamic fields to *New Phone Ticket* screen and *New Email Ticket* screen to set the dates at ticket creation time, or to *Ticket Free Fields* screen to set the dates for existing ticket in the *Miscellaneous* → *Free Fields* menu item of the :doc:`../tickets/ticket-zoom` screen."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:176
@@ -2874,21 +2363,15 @@ msgid "``Ticket::Frontend::AgentTicketFreeText###DynamicField``"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:191
-msgid ""
-"Add more queues to ``DashboardEventsTicketCalendar###Queues`` setting "
-"(default is *Raw* queue only)."
+msgid "Add more queues to ``DashboardEventsTicketCalendar###Queues`` setting (default is *Raw* queue only)."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:193
-msgid ""
-"If the dynamic fields contain values for the tickets, the tickets are "
-"displayed in the widget."
+msgid "If the dynamic fields contain values for the tickets, the tickets are displayed in the widget."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:195
-msgid ""
-"Hover the mouse over an entry to see the details of the ticket, or click "
-"on it to open the ticket in the :doc:`../tickets/ticket-zoom` screen."
+msgid "Hover the mouse over an entry to see the details of the ticket, or click on it to open the ticket in the :doc:`../tickets/ticket-zoom` screen."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:200
@@ -2900,9 +2383,7 @@ msgid "Dashboard Sidebar Widgets"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:221
-msgid ""
-"The *7 Day Stats* widget displays the number of created and closed "
-"tickets in the last seven days."
+msgid "The *7 Day Stats* widget displays the number of created and closed tickets in the last seven days."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:226
@@ -2918,10 +2399,7 @@ msgid "Upcoming Events Widget"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:235
-msgid ""
-"The *Out Of Office* widget displays the agents, who are currently out of "
-"office. This information can be set in the *User Profile* module of the "
-":doc:`../avatar/personal-preferences`."
+msgid "The *Out Of Office* widget displays the agents, who are currently out of office. This information can be set in the *User Profile* module of the :doc:`../avatar/personal-preferences`."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:239
@@ -2934,9 +2412,7 @@ msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:246
 #: ../../content/agent/faq/explorer.rst:59
-msgid ""
-"The *Latest updated FAQ articles* widget displays the FAQ articles, that "
-"are updated recently."
+msgid "The *Latest updated FAQ articles* widget displays the FAQ articles, that are updated recently."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:251
@@ -2945,9 +2421,7 @@ msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:253
 #: ../../content/agent/faq/explorer.rst:57
-msgid ""
-"The *Latest created FAQ articles* widget displays the FAQ articles, that "
-"are created recently."
+msgid "The *Latest created FAQ articles* widget displays the FAQ articles, that are created recently."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:258
@@ -2955,9 +2429,7 @@ msgid "Latest Created FAQ Articles Widget"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:260
-msgid ""
-"The *Logged-In Users* widget displays the currently online agents and "
-"customer users."
+msgid "The *Logged-In Users* widget displays the currently online agents and customer users."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:265
@@ -2969,9 +2441,7 @@ msgid "The *OTOBO News* widget displays news from an RSS feed."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:271
-msgid ""
-"To change the RSS feed source, see ``DashboardBackend###0410-RSS`` "
-"setting."
+msgid "To change the RSS feed source, see ``DashboardBackend###0410-RSS`` setting."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:276
@@ -2979,15 +2449,11 @@ msgid "OTOBO News Widget"
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:278
-msgid ""
-"The *Appointments* widget displays the appointments for today, tomorrow "
-"and for this week."
+msgid "The *Appointments* widget displays the appointments for today, tomorrow and for this week."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:280
-msgid ""
-"Click on the *Add Appointment* button to open the :doc:`../calendar/new-"
-"appointment` dialog."
+msgid "Click on the *Add Appointment* button to open the :doc:`../calendar/new-appointment` dialog."
 msgstr ""
 
 #: ../../content/agent/dashboard/dashboard.rst:285
@@ -2999,18 +2465,11 @@ msgid "FAQ"
 msgstr ""
 
 #: ../../content/agent/faq.rst:14
-msgid ""
-"FAQ articles contain answers for frequently asked questions, or they "
-"contain common knowledge."
+msgid "FAQ articles contain answers for frequently asked questions, or they contain common knowledge."
 msgstr ""
 
 #: ../../content/agent/faq.rst:16
-msgid ""
-"Creating FAQ articles should be done based on customer tickets. A good "
-"knowledge base contains all relevant information, that occurs during "
-"ticket handling. FAQ articles can be easily attached to new tickets in "
-"any ticket or article creation screens. This can help agents to shorten "
-"the time when answering a ticket."
+msgid "Creating FAQ articles should be done based on customer tickets. A good knowledge base contains all relevant information, that occurs during ticket handling. FAQ articles can be easily attached to new tickets in any ticket or article creation screens. This can help agents to shorten the time when answering a ticket."
 msgstr ""
 
 #: ../../content/agent/faq/category-management.rst:12
@@ -3018,11 +2477,7 @@ msgid "Category Management"
 msgstr ""
 
 #: ../../content/agent/faq/category-management.rst:18
-msgid ""
-"Use this screen to manage categories available in FAQ articles. A fresh "
-"OTOBO installation already contains a category by default. The category "
-"management screen is available in the *Category Management* menu item of "
-"the *FAQ* menu."
+msgid "Use this screen to manage categories available in FAQ articles. A fresh OTOBO installation already contains a category by default. The category management screen is available in the *Category Management* menu item of the *FAQ* menu."
 msgstr ""
 
 #: ../../content/agent/faq/category-management.rst:23
@@ -3089,9 +2544,7 @@ msgid "Subcategory of"
 msgstr ""
 
 #: ../../content/agent/faq/category-management.rst:71
-msgid ""
-"It is possible to add the new category under an existing one as sub-"
-"category. This will be displayed as *Parent Category::Child Category*."
+msgid "It is possible to add the new category under an existing one as sub-category. This will be displayed as *Parent Category::Child Category*."
 msgstr ""
 
 #: ../../content/agent/faq/category-management.rst:74
@@ -3116,9 +2569,7 @@ msgid "Explorer"
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:14
-msgid ""
-"Use this screen to browse through the FAQ articles. The FAQ explorer is "
-"available in the *Explorer* menu item of the *FAQ* menu."
+msgid "Use this screen to browse through the FAQ articles. The FAQ explorer is available in the *Explorer* menu item of the *FAQ* menu."
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:19
@@ -3134,9 +2585,7 @@ msgid "FAQ Explorer Content Widgets"
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:27
-msgid ""
-"The *Subcategories* widget lists all categories and displays the number "
-"of subcategories and FAQ articles."
+msgid "The *Subcategories* widget lists all categories and displays the number of subcategories and FAQ articles."
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:29
@@ -3144,11 +2593,7 @@ msgid "To select a category, just click on the name of a category."
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:31
-msgid ""
-"If a category contains at least one FAQ article, the list of FAQ articles"
-" will display in the *FAQ Articles* widget. This widget displays some "
-"information about the FAQ articles, like *Title*, *Language*, *State* and"
-" *Validity*."
+msgid "If a category contains at least one FAQ article, the list of FAQ articles will display in the *FAQ Articles* widget. This widget displays some information about the FAQ articles, like *Title*, *Language*, *State* and *Validity*."
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:36
@@ -3175,9 +2620,7 @@ msgid "FAQ Explorer Sidebar Widgets"
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:50
-msgid ""
-"The right sidebar lists the recently created, updated FAQ articles, as "
-"well as the top 10 FAQ articles."
+msgid "The right sidebar lists the recently created, updated FAQ articles, as well as the top 10 FAQ articles."
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:55
@@ -3185,9 +2628,7 @@ msgid "FAQ Explorer Sidebar"
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:61
-msgid ""
-"The *Top 10 FAQ articles* widget displays the top 10 articles based on "
-"its ratings."
+msgid "The *Top 10 FAQ articles* widget displays the top 10 articles based on its ratings."
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:63
@@ -3207,10 +2648,7 @@ msgid "Click on the *Yes* or *No* button in the *Rating* widget."
 msgstr ""
 
 #: ../../content/agent/faq/explorer.rst:69
-msgid ""
-"Any user can rate an FAQ article only once. The number of positive and "
-"negative ratings will be displayed in the right sidebar of :doc:`faq-"
-"zoom` screen."
+msgid "Any user can rate an FAQ article only once. The number of positive and negative ratings will be displayed in the right sidebar of :doc:`faq-zoom` screen."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:12
@@ -3218,9 +2656,7 @@ msgid "FAQ Zoom"
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:14
-msgid ""
-"Use this screen to see the details of an FAQ article. The *FAQ Zoom* "
-"screen is available, if you click on an FAQ article in any other screens."
+msgid "Use this screen to see the details of an FAQ article. The *FAQ Zoom* screen is available, if you click on an FAQ article in any other screens."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:19
@@ -3289,9 +2725,7 @@ msgstr ""
 #: ../../content/agent/faq/faq-zoom.rst:49
 #: ../../content/agent/tickets/ticket-zoom.rst:53
 #: ../../content/agent/tickets/ticket-zoom.rst:330
-msgid ""
-"This menu item opens a PDF file to show the printer friendly version of "
-"the screen. You can save or print this PDF file."
+msgid "This menu item opens a PDF file to show the printer friendly version of the screen. You can save or print this PDF file."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:57
@@ -3300,10 +2734,7 @@ msgid "Link"
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:52
-msgid ""
-"This menu item opens the standard link screen of OTOBO. FAQ articles can "
-"be linked to other FAQ articles or tickets. Existing links can also be "
-"managed here."
+msgid "This menu item opens the standard link screen of OTOBO. FAQ articles can be linked to other FAQ articles or tickets. Existing links can also be managed here."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:57
@@ -3323,22 +2754,15 @@ msgid "Delete FAQ Dialog"
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:67
-msgid ""
-"The *Symptom*, *Problem*, *Solution* and *Comment* widgets show the "
-"content of the FAQ article."
+msgid "The *Symptom*, *Problem*, *Solution* and *Comment* widgets show the content of the FAQ article."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:69
-msgid ""
-"It is possible to rate an FAQ article in the *Rating* widget, whether the"
-" FAQ article is helpful or not. To rate an FAQ article, click on the "
-"*Yes* or *No* button in this widget."
+msgid "It is possible to rate an FAQ article in the *Rating* widget, whether the FAQ article is helpful or not. To rate an FAQ article, click on the *Yes* or *No* button in this widget."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:71
-msgid ""
-"Any user can rate an FAQ article only once. The number of positive and "
-"negative ratings will be displayed in the right sidebar."
+msgid "Any user can rate an FAQ article only once. The number of positive and negative ratings will be displayed in the right sidebar."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:75
@@ -3350,9 +2774,7 @@ msgid "The following widgets are located on the right sidebar."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:79
-msgid ""
-"The *FAQ information* widget lists all relevant attributes of the FAQ "
-"article."
+msgid "The *FAQ information* widget lists all relevant attributes of the FAQ article."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:84
@@ -3360,9 +2782,7 @@ msgid "FAQ Information Widget"
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:86
-msgid ""
-"FAQ articles can be linked to other objects. Use this widget to see the "
-"links between the FAQ article and other objects."
+msgid "FAQ articles can be linked to other objects. Use this widget to see the links between the FAQ article and other objects."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:91
@@ -3371,9 +2791,7 @@ msgid "Linked Objects Widget"
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:93
-msgid ""
-"New links can be added by the *Link* menu item of the *FAQ Zoom* menu. "
-"Existing links can also be managed there."
+msgid "New links can be added by the *Link* menu item of the *FAQ Zoom* menu. Existing links can also be managed there."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:95
@@ -3383,9 +2801,7 @@ msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:99
 #: ../../content/agent/tickets/ticket-zoom.rst:581
-msgid ""
-"Change setting ``LinkObject::ViewMode`` to *Complex* to display detailed "
-"information about linked objects."
+msgid "Change setting ``LinkObject::ViewMode`` to *Complex* to display detailed information about linked objects."
 msgstr ""
 
 #: ../../content/agent/faq/faq-zoom.rst:104
@@ -3398,9 +2814,7 @@ msgid "Journal"
 msgstr ""
 
 #: ../../content/agent/faq/journal.rst:14
-msgid ""
-"Use this screen to view the history of all FAQ articles. The FAQ history "
-"is available in the *Journal* menu item of the *FAQ* menu."
+msgid "Use this screen to view the history of all FAQ articles. The FAQ history is available in the *Journal* menu item of the *FAQ* menu."
 msgstr ""
 
 #: ../../content/agent/faq/journal.rst:19
@@ -3412,11 +2826,7 @@ msgid "Language Management"
 msgstr ""
 
 #: ../../content/agent/faq/language-management.rst:18
-msgid ""
-"Use this screen to manage languages available in FAQ articles. A fresh "
-"OTOBO installation already contains some languages by default. The "
-"language management screen is available in the *Language Management* menu"
-" item of the *FAQ* menu."
+msgid "Use this screen to manage languages available in FAQ articles. A fresh OTOBO installation already contains some languages by default. The language management screen is available in the *Language Management* menu item of the *FAQ* menu."
 msgstr ""
 
 #: ../../content/agent/faq/language-management.rst:23
@@ -3476,15 +2886,11 @@ msgid "FAQ Language Settings"
 msgstr ""
 
 #: ../../content/agent/faq/language-management.rst:65
-msgid ""
-"The following setting is available when adding or editing this resource. "
-"The fields marked with an asterisk are mandatory."
+msgid "The following setting is available when adding or editing this resource. The fields marked with an asterisk are mandatory."
 msgstr ""
 
 #: ../../content/agent/faq/language-management.rst:68
-msgid ""
-"The `ISO 639-1 code "
-"<https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes>`__ of a language."
+msgid "The `ISO 639-1 code <https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes>`__ of a language."
 msgstr ""
 
 #: ../../content/agent/faq/new.rst:12
@@ -3492,9 +2898,7 @@ msgid "New"
 msgstr ""
 
 #: ../../content/agent/faq/new.rst:14
-msgid ""
-"Use this screen to add new FAQ articles to the system. The FAQ add screen"
-" is available in the *New* menu item of the *FAQ* menu."
+msgid "Use this screen to add new FAQ articles to the system. The FAQ add screen is available in the *New* menu item of the *FAQ* menu."
 msgstr ""
 
 #: ../../content/agent/faq/new.rst:19
@@ -3504,9 +2908,7 @@ msgstr ""
 #: ../../content/agent/faq/new.rst:21
 #: ../../content/agent/tickets/new-email-ticket.rst:21
 #: ../../content/agent/tickets/new-phone-ticket.rst:21
-msgid ""
-"The following settings are available when adding this resource. The "
-"fields marked with an asterisk are mandatory."
+msgid "The following settings are available when adding this resource. The fields marked with an asterisk are mandatory."
 msgstr ""
 
 #: ../../content/agent/faq/new.rst:27
@@ -3543,9 +2945,7 @@ msgid "external (customer)"
 msgstr ""
 
 #: ../../content/agent/faq/new.rst:40
-msgid ""
-"FAQ article is visible for agents and logged in customer users on the "
-"external interface."
+msgid "FAQ article is visible for agents and logged in customer users on the external interface."
 msgstr ""
 
 #: ../../content/agent/faq/new.rst:43
@@ -3577,9 +2977,7 @@ msgid "Attachment"
 msgstr ""
 
 #: ../../content/agent/faq/new.rst:59
-msgid ""
-"It is possible to add attachments to the FAQ article. Click on the field "
-"to add an attachment, or just drop some files here."
+msgid "It is possible to add attachments to the FAQ article. Click on the field to add an attachment, or just drop some files here."
 msgstr ""
 
 #: ../../content/agent/faq/new.rst:62
@@ -3617,10 +3015,7 @@ msgid "Search"
 msgstr ""
 
 #: ../../content/agent/faq/search.rst:14
-msgid ""
-"Use this screen to search for FAQ articles based on various criteria. The"
-" FAQ search screen is available in the *Search* menu item of the *FAQ* "
-"menu."
+msgid "Use this screen to search for FAQ articles based on various criteria. The FAQ search screen is available in the *Search* menu item of the *FAQ* menu."
 msgstr ""
 
 #: ../../content/agent/faq/search.rst:19
@@ -3631,9 +3026,7 @@ msgstr ""
 
 #: ../../content/agent/faq/search.rst:21
 #: ../../content/agent/tickets/search.rst:21
-msgid ""
-"The dialog is divided into three parts: *Templates*, *Filters in use* and"
-" *Additional filters*."
+msgid "The dialog is divided into three parts: *Templates*, *Filters in use* and *Additional filters*."
 msgstr ""
 
 #: ../../content/agent/faq/search.rst:25
@@ -3643,9 +3036,7 @@ msgstr ""
 
 #: ../../content/agent/faq/search.rst:27
 #: ../../content/agent/tickets/search.rst:27
-msgid ""
-"This part of the dialog can be used to save a search template for further"
-" usage."
+msgid "This part of the dialog can be used to save a search template for further usage."
 msgstr ""
 
 #: ../../content/agent/faq/search.rst:29
@@ -3708,9 +3099,7 @@ msgid "Modify some search criteria."
 msgstr ""
 
 #: ../../content/agent/faq/search.rst:54
-msgid ""
-"The results will be opened in *Search Results* screen to see all matched "
-"FAQ articles."
+msgid "The results will be opened in *Search Results* screen to see all matched FAQ articles."
 msgstr ""
 
 #: ../../content/agent/faq/search.rst:59
@@ -3741,10 +3130,7 @@ msgstr ""
 
 #: ../../content/agent/faq/search.rst:78
 #: ../../content/agent/tickets/search.rst:69
-msgid ""
-"Additional filters can be added in the *Additional filters* part of the "
-"screen, and filters can be removed by clicking on the *⊟* button next to "
-"the field."
+msgid "Additional filters can be added in the *Additional filters* part of the screen, and filters can be removed by clicking on the *⊟* button next to the field."
 msgstr ""
 
 #: ../../content/agent/faq/search.rst:82
@@ -3754,9 +3140,7 @@ msgstr ""
 
 #: ../../content/agent/faq/search.rst:84
 #: ../../content/agent/tickets/search.rst:75
-msgid ""
-"This part is for adding more filters and selecting the output format of "
-"the results."
+msgid "This part is for adding more filters and selecting the output format of the results."
 msgstr ""
 
 #: ../../content/agent/faq/search.rst:87
@@ -3766,9 +3150,7 @@ msgstr ""
 
 #: ../../content/agent/faq/search.rst:87
 #: ../../content/agent/tickets/search.rst:78
-msgid ""
-"Select an extra attribute from the drop-down list to be used in the "
-"search."
+msgid "Select an extra attribute from the drop-down list to be used in the search."
 msgstr ""
 
 #: ../../content/agent/faq/search.rst:90
@@ -3792,17 +3174,11 @@ msgid "Reports"
 msgstr ""
 
 #: ../../content/agent/reports.rst:14
-msgid ""
-"Reports are automatically generated statistics. In this menu it is "
-"possible to define new statistics, and set these statistics as reports, "
-"if needed."
+msgid "Reports are automatically generated statistics. In this menu it is possible to define new statistics, and set these statistics as reports, if needed."
 msgstr ""
 
 #: ../../content/agent/reports/reports.rst:15
-msgid ""
-"Use this screen to manage reports. A fresh OTOBO installation contains no"
-" reports by default. The reports management screen is available in the "
-"*Reports* menu item of the *Reports* menu."
+msgid "Use this screen to manage reports. A fresh OTOBO installation contains no reports by default. The reports management screen is available in the *Reports* menu item of the *Reports* menu."
 msgstr ""
 
 #: ../../content/agent/reports/reports.rst:20
@@ -3834,9 +3210,7 @@ msgid "To edit a report:"
 msgstr ""
 
 #: ../../content/agent/reports/reports.rst:40
-msgid ""
-"Click on a report in the list of reports or you are already redirected "
-"here from *Add Report* screen."
+msgid "Click on a report in the list of reports or you are already redirected here from *Add Report* screen."
 msgstr ""
 
 #: ../../content/agent/reports/reports.rst:41
@@ -3893,9 +3267,7 @@ msgid "Specify when the report should be automatically generated in cron format.
 msgstr ""
 
 #: ../../content/agent/reports/reports.rst:88
-msgid ""
-"For more information see the `Cron article on Wikipedia "
-"<https://en.wikipedia.org/wiki/Cron>`__."
+msgid "For more information see the `Cron article on Wikipedia <https://en.wikipedia.org/wiki/Cron>`__."
 msgstr ""
 
 #: ../../content/agent/reports/reports.rst:92
@@ -3997,22 +3369,15 @@ msgid "Add statistic to report"
 msgstr ""
 
 #: ../../content/agent/reports/reports.rst:133
-msgid ""
-"Select one or more :doc:`statistics` to be added to the report. Each "
-"added statistics have an own overview and settings screen."
+msgid "Select one or more :doc:`statistics` to be added to the report. Each added statistics have an own overview and settings screen."
 msgstr ""
 
 #: ../../content/agent/reports/reports.rst:135
-msgid ""
-"After all information is collected and set, click on the *Save* or *Save "
-"and finish* button to save the report."
+msgid "After all information is collected and set, click on the *Save* or *Save and finish* button to save the report."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:14
-msgid ""
-"Use this screen to manage statistics. A fresh OTOBO installation already "
-"contains some statistics by default. The statistics management screen is "
-"available in the *Statistics* menu item of the *Reports* menu."
+msgid "Use this screen to manage statistics. A fresh OTOBO installation already contains some statistics by default. The statistics management screen is available in the *Statistics* menu item of the *Reports* menu."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:19
@@ -4097,9 +3462,7 @@ msgid "Click on the *Import Statistics* button in the left sidebar."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:67
-msgid ""
-"Click on the *Browse…* button and select a previously exported ``.xml`` "
-"file."
+msgid "Click on the *Browse…* button and select a previously exported ``.xml`` file."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:68
@@ -4167,9 +3530,7 @@ msgid "Change the settings to view different type of graphs."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:103
-msgid ""
-"Change the values of *X-axis*, *Y-axis* and *Filter* with the respective "
-"buttons."
+msgid "Change the values of *X-axis*, *Y-axis* and *Filter* with the respective buttons."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:108
@@ -4229,9 +3590,7 @@ msgid "Cache results"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:142
-msgid ""
-"Stores statistics result data in a cache to be used in subsequent views "
-"with the same configuration (requires at least one selected time field)."
+msgid "Stores statistics result data in a cache to be used in subsequent views with the same configuration (requires at least one selected time field)."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:149
@@ -4239,22 +3598,15 @@ msgid "Show as dashboard widget"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:145
-msgid ""
-"Provide the statistics as a widget that agents can activate in their "
-"dashboard."
+msgid "Provide the statistics as a widget that agents can activate in their dashboard."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:149
-msgid ""
-"Enabling the dashboard widget will activate caching for this statistics "
-"in the dashboard."
+msgid "Enabling the dashboard widget will activate caching for this statistics in the dashboard."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:152
-msgid ""
-"Set the validity of this resource. Each resource can be used in OTOBO "
-"only, if this field is set to *valid*. Setting this field to *invalid* "
-"will disable the use of the resource."
+msgid "Set the validity of this resource. Each resource can be used in OTOBO only, if this field is set to *valid*. Setting this field to *invalid* will disable the use of the resource."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:156
@@ -4262,9 +3614,7 @@ msgid "Ticket Attributes for Statistics"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:158
-msgid ""
-"The following ticket attributes can be included in statistics using the "
-"*X-axis* button, if *Dynamic Lists* statistics are selected."
+msgid "The following ticket attributes can be included in statistics using the *X-axis* button, if *Dynamic Lists* statistics are selected."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:161
@@ -4317,9 +3667,7 @@ msgid "Close Time"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:179
-msgid ""
-"The absolute date and time with timezone when the ticket was closed. This"
-" field is empty for open tickets."
+msgid "The absolute date and time with timezone when the ticket was closed. This field is empty for open tickets."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:182
@@ -4337,8 +3685,8 @@ msgstr ""
 #: ../../content/agent/reports/statistics.rst:188
 #: ../../content/agent/tickets/new-email-ticket.rst:86
 #: ../../content/agent/tickets/new-phone-ticket.rst:77
-#: ../../content/agent/tickets/ticket-zoom.rst:64
 #: ../../content/agent/tickets/ticket-zoom.rst:82
+#: ../../content/agent/tickets/ticket-zoom.rst:64
 msgid "Priority"
 msgstr ""
 
@@ -4432,9 +3780,7 @@ msgid "EscalationTimeWorkingTime"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:221
-msgid ""
-"The time in seconds within the defined working time or service time until"
-" an escalation."
+msgid "The time in seconds within the defined working time or service time until an escalation."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:224
@@ -4442,9 +3788,7 @@ msgid "EscalationTime"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:224
-msgid ""
-"The total time in seconds until escalation of nearest escalation time "
-"type: response, update or solution time."
+msgid "The total time in seconds until escalation of nearest escalation time type: response, update or solution time."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:227
@@ -4460,9 +3804,7 @@ msgid "FirstResponseInMin"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:230
-msgid ""
-"The time in minutes from ticket creation to first response (based on "
-"working time)."
+msgid "The time in minutes from ticket creation to first response (based on working time)."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:233
@@ -4470,9 +3812,7 @@ msgid "FirstResponseDiffInMin"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:233
-msgid ""
-"The difference in minutes between the specified response time and the "
-"actual response time."
+msgid "The difference in minutes between the specified response time and the actual response time."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:236
@@ -4480,9 +3820,7 @@ msgid "FirstResponseTimeWorkingTime"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:236
-msgid ""
-"The time in seconds within the defined working time or service time until"
-" an escalation of a first response."
+msgid "The time in seconds within the defined working time or service time until an escalation of a first response."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:239
@@ -4501,9 +3839,7 @@ msgstr ""
 #: ../../content/agent/reports/statistics.rst:242
 #: ../../content/agent/reports/statistics.rst:254
 #: ../../content/agent/reports/statistics.rst:284
-msgid ""
-"Defines, whether the defined escalation notification time is reached or "
-"not."
+msgid "Defines, whether the defined escalation notification time is reached or not."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:245
@@ -4555,9 +3891,7 @@ msgid "UpdateTimeWorkingTime"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:263
-msgid ""
-"The time in seconds within the defined working time or service time until"
-" an update time escalation."
+msgid "The time in seconds within the defined working time or service time until an update time escalation."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:266
@@ -4589,9 +3923,7 @@ msgid "SolutionDiffInMin"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:275
-msgid ""
-"The difference in minutes between the specified solution time and the "
-"actual solution time."
+msgid "The difference in minutes between the specified solution time and the actual solution time."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:278
@@ -4599,9 +3931,7 @@ msgid "SolutionTimeWorkingTime"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:278
-msgid ""
-"The time in seconds within the defined working time or service time until"
-" a solution time escalation."
+msgid "The time in seconds within the defined working time or service time until a solution time escalation."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:281
@@ -4633,9 +3963,7 @@ msgid "First Lock"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:293
-msgid ""
-"The absolute date and time with timezone when the ticket was locked "
-"first. This field is empty for tickets, that are not locked yet."
+msgid "The absolute date and time with timezone when the ticket was locked first. This field is empty for tickets, that are not locked yet."
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:296
@@ -4741,23 +4069,15 @@ msgid "DynamicField_NameX"
 msgstr ""
 
 #: ../../content/agent/reports/statistics.rst:332
-msgid ""
-"The name of the dynamic fields added to the system. The list of dynamic "
-"fields is different in each system."
+msgid "The name of the dynamic fields added to the system. The list of dynamic fields is different in each system."
 msgstr ""
 
 #: ../../content/agent/search.rst:14
-msgid ""
-"Search function can be used to search everything inside OTOBO. This "
-"function looks for the search term in tickets, articles and FAQ articles,"
-" as well as in attached documents."
+msgid "Search function can be used to search everything inside OTOBO. This function looks for the search term in tickets, articles and FAQ articles, as well as in attached documents."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:14
-msgid ""
-"Use this menu item to search for something. The *Search Results* screen "
-"is available, if you click on the magnification glass icon in the main "
-"menu, enter a search term and hit *Enter* key on your keyboard."
+msgid "Use this menu item to search for something. The *Search Results* screen is available, if you click on the magnification glass icon in the main menu, enter a search term and hit *Enter* key on your keyboard."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:21
@@ -4765,9 +4085,7 @@ msgid "If the search has results, a new screen will open."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:28
-msgid ""
-"This screen lists all objects that matches the search term. The objects "
-"are grouped by type."
+msgid "This screen lists all objects that matches the search term. The objects are grouped by type."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:30
@@ -4791,10 +4109,7 @@ msgid "Search Parameters"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:41
-msgid ""
-"The query string consists of *terms* and *operators*. A term can be a "
-"single word or a phrase surrounded by double quotes. Operators allow you "
-"to customize the search."
+msgid "The query string consists of *terms* and *operators*. A term can be a single word or a phrase surrounded by double quotes. Operators allow you to customize the search."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:46
@@ -4802,16 +4117,11 @@ msgid "Single word"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:44
-msgid ""
-"If the query string is a single word (for example ``quick`` or "
-"``brown``), then OTOBO searches for all items containing the given word."
+msgid "If the query string is a single word (for example ``quick`` or ``brown``), then OTOBO searches for all items containing the given word."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:46
-msgid ""
-"If two or more words are given in the query string (for example ``quick "
-"brown``), then OTOBO searches for all items containing the word ``quick``"
-" **or** ``brown``."
+msgid "If two or more words are given in the query string (for example ``quick brown``), then OTOBO searches for all items containing the word ``quick`` **or** ``brown``."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:49
@@ -4819,10 +4129,7 @@ msgid "Phrase surrounded by double quotes"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:49
-msgid ""
-"If the query string contains a phrase surrounded by double quotes (for "
-"example ``\"quick brown\"``), then OTOBO searches for all items "
-"containing the words in the phrase in the same order."
+msgid "If the query string contains a phrase surrounded by double quotes (for example ``\"quick brown\"``), then OTOBO searches for all items containing the words in the phrase in the same order."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:56
@@ -4830,15 +4137,11 @@ msgid "Wildcards"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:52
-msgid ""
-"Use ``?`` to replace a single character, and ``*`` to replace zero or "
-"more characters (for example ``qu?ck bro*``)."
+msgid "Use ``?`` to replace a single character, and ``*`` to replace zero or more characters (for example ``qu?ck bro*``)."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:56
-msgid ""
-"Wildcard queries can lead to performance issues, because many terms need "
-"to be queried to match the query string."
+msgid "Wildcard queries can lead to performance issues, because many terms need to be queried to match the query string."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:63
@@ -4846,18 +4149,11 @@ msgid "Regular expressions"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:59
-msgid ""
-"Regular expression patterns can be embedded in the query string by "
-"wrapping them in slashes (for example ``/joh?n(ath[oa]n)/``)."
+msgid "Regular expression patterns can be embedded in the query string by wrapping them in slashes (for example ``/joh?n(ath[oa]n)/``)."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:63
-msgid ""
-"The supported regular expression syntax is explained in `Regular "
-"expression syntax "
-"<https://www.elastic.co/guide/en/elasticsearch/reference/current/query-"
-"dsl-regexp-query.html#regexp-syntax>`__ chapter of the Elasticsearch "
-"documentation."
+msgid "The supported regular expression syntax is explained in `Regular expression syntax <https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-regexp-query.html#regexp-syntax>`__ chapter of the Elasticsearch documentation."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:70
@@ -4865,24 +4161,15 @@ msgid "Fuzziness"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:66
-msgid ""
-"It is possible to search for terms that are similar to, but not exactly "
-"like the given search terms, using the *fuzzy* operator (for example "
-"``quikc~ brwn~ foks~``)."
+msgid "It is possible to search for terms that are similar to, but not exactly like the given search terms, using the *fuzzy* operator (for example ``quikc~ brwn~ foks~``)."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:68
-#, python-format
-msgid ""
-"The default fuzziness level is 2, but a level of 1 should be sufficient "
-"to catch 80% of all human misspellings. It can be specified as "
-"``quikc~1``."
+msgid "The default fuzziness level is 2, but a level of 1 should be sufficient to catch 80% of all human misspellings. It can be specified as ``quikc~1``."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:70
-msgid ""
-"Fuzziness can be disabled with ``quikc~0`` which will not consider "
-"spelling mistakes."
+msgid "Fuzziness can be disabled with ``quikc~0`` which will not consider spelling mistakes."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:75
@@ -4890,16 +4177,11 @@ msgid "Proximity"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:73
-msgid ""
-"A query string like ``\"quick fox\"`` searches the words in exactly the "
-"same order, but the proximity search allows that some other words can be "
-"included between the given words (for example ``\"fox quick\"~5``)."
+msgid "A query string like ``\"quick fox\"`` searches the words in exactly the same order, but the proximity search allows that some other words can be included between the given words (for example ``\"fox quick\"~5``)."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:75
-msgid ""
-"This operator specifies the maximum edit distance of words. The phrase "
-"*quick fox* would be considered more relevant than *quick brown fox*."
+msgid "This operator specifies the maximum edit distance of words. The phrase *quick fox* would be considered more relevant than *quick brown fox*."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:78
@@ -4907,10 +4189,7 @@ msgid "Ranges"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:78
-msgid ""
-"The query string can contain ranges for date, numeric or string fields. "
-"Inclusive ranges are specified with square brackets ``[min TO max]`` and "
-"exclusive ranges with curly brackets ``{min TO max}``."
+msgid "The query string can contain ranges for date, numeric or string fields. Inclusive ranges are specified with square brackets ``[min TO max]`` and exclusive ranges with curly brackets ``{min TO max}``."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:83
@@ -4918,17 +4197,11 @@ msgid "Boosting"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:81
-msgid ""
-"The *boost* operator ``^`` can be used to make one term more relevant "
-"than another. For example use the query string ``quick^2 fox``, if you "
-"want to find all documents about foxes, but you are especially interested"
-" in quick foxes."
+msgid "The *boost* operator ``^`` can be used to make one term more relevant than another. For example use the query string ``quick^2 fox``, if you want to find all documents about foxes, but you are especially interested in quick foxes."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:83
-msgid ""
-"You can also use boosts for phrases or groups, for example ``\"quick "
-"fox\"^2 AND (brown lazy)^4``."
+msgid "You can also use boosts for phrases or groups, for example ``\"quick fox\"^2 AND (brown lazy)^4``."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:96
@@ -4936,21 +4209,15 @@ msgid "Boolean operators"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:86
-msgid ""
-"The query string ``quick brown fox`` searches for all items containing "
-"one or more of the specified words."
+msgid "The query string ``quick brown fox`` searches for all items containing one or more of the specified words."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:88
-msgid ""
-"The preferred operators are ``+`` (term must be present) and ``-`` (term "
-"must not be present). All other terms are optional."
+msgid "The preferred operators are ``+`` (term must be present) and ``-`` (term must not be present). All other terms are optional."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:90
-msgid ""
-"For example if the query string is ``quick brown +fox -news`` then it "
-"means:"
+msgid "For example if the query string is ``quick brown +fox -news`` then it means:"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:92
@@ -4966,11 +4233,7 @@ msgid "``quick`` and ``brown`` are optional."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:96
-msgid ""
-"The well known logical operators ``AND``, ``OR`` and ``NOT`` (or ``&&``, "
-"``||`` and ``!``) are also supported. The query string ``((quick AND fox)"
-" OR (brown AND fox) OR fox) AND NOT news`` is identical with the previous"
-" example."
+msgid "The well known logical operators ``AND``, ``OR`` and ``NOT`` (or ``&&``, ``||`` and ``!``) are also supported. The query string ``((quick AND fox) OR (brown AND fox) OR fox) AND NOT news`` is identical with the previous example."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:99
@@ -4978,9 +4241,7 @@ msgid "Grouping"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:99
-msgid ""
-"Changing the precedence with parentheses is possible, like ``(quick OR "
-"brown) AND fox``."
+msgid "Changing the precedence with parentheses is possible, like ``(quick OR brown) AND fox``."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:106
@@ -4988,31 +4249,19 @@ msgid "Reserved characters"
 msgstr ""
 
 #: ../../content/agent/search/search.rst:102
-msgid ""
-"There are some reserved characters which function as operators, and they "
-"can not be used in search queries."
+msgid "There are some reserved characters which function as operators, and they can not be used in search queries."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:104
-msgid ""
-"The reserved characters are: ``+ - = && || > < ! ( ) { } [ ] ^ \" ~ * ? :"
-" \\ /``."
+msgid "The reserved characters are: ``+ - = && || > < ! ( ) { } [ ] ^ \" ~ * ? : \\ /``."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:106
-msgid ""
-"If any of these characters need to be used in search queries, then you "
-"should escape them with a leading backslash. For example to search for "
-"the term *(1+1)=2*, you have to use the query string as "
-"``\\(1\\+1\\)\\=2``."
+msgid "If any of these characters need to be used in search queries, then you should escape them with a leading backslash. For example to search for the term *(1+1)=2*, you have to use the query string as ``\\(1\\+1\\)\\=2``."
 msgstr ""
 
 #: ../../content/agent/search/search.rst:110
-msgid ""
-"More information can be found in the `Query string syntax "
-"<https://www.elastic.co/guide/en/elasticsearch/reference/current/query-"
-"dsl-query-string-query.html#query-string-syntax>`__ chapter of the "
-"Elasticsearch documentation."
+msgid "More information can be found in the `Query string syntax <https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#query-string-syntax>`__ chapter of the Elasticsearch documentation."
 msgstr ""
 
 #: ../../content/agent/tickets.rst:12
@@ -5020,28 +4269,11 @@ msgid "Tickets"
 msgstr ""
 
 #: ../../content/agent/tickets.rst:16
-msgid ""
-"A ticket is similar to a medical report created for a hospital patient. "
-"When a patient first visits the hospital, a medical report is created to "
-"hold all necessary personal and medical information on him. Over multiple"
-" visits, as he is attended to by the same or additional doctors, the "
-"attending doctor updates the report by adding new information on the "
-"patient’s health and the ongoing treatment. This allows any other doctors"
-" or the nursing staff to get a complete picture on the case at hand. When"
-" the patient recovers and leaves the hospital, all information from the "
-"medical report is archived and the report is closed."
+msgid "A ticket is similar to a medical report created for a hospital patient. When a patient first visits the hospital, a medical report is created to hold all necessary personal and medical information on him. Over multiple visits, as he is attended to by the same or additional doctors, the attending doctor updates the report by adding new information on the patient’s health and the ongoing treatment. This allows any other doctors or the nursing staff to get a complete picture on the case at hand. When the patient recovers and leaves the hospital, all information from the medical report is archived and the report is closed."
 msgstr ""
 
 #: ../../content/agent/tickets.rst:18
-msgid ""
-"Ticket systems such as OTOBO handle tickets like normal emails. The "
-"messages are saved in the system. When a customer sends a request, a new "
-"ticket is generated by the system which is comparable to a new medical "
-"report being created. The response to this new ticket is comparable to a "
-"doctor’s entry in the medical report. A ticket is closed if an answer is "
-"sent back to the customer, or if the ticket is separately closed by the "
-"system. If a customer responds again on an already closed ticket, the "
-"ticket is reopened with the new information added."
+msgid "Ticket systems such as OTOBO handle tickets like normal emails. The messages are saved in the system. When a customer sends a request, a new ticket is generated by the system which is comparable to a new medical report being created. The response to this new ticket is comparable to a doctor’s entry in the medical report. A ticket is closed if an answer is sent back to the customer, or if the ticket is separately closed by the system. If a customer responds again on an already closed ticket, the ticket is reopened with the new information added."
 msgstr ""
 
 #: ../../content/agent/tickets.rst:23
@@ -5050,14 +4282,7 @@ msgid "Ticket Zoom Screen"
 msgstr ""
 
 #: ../../content/agent/tickets.rst:25
-msgid ""
-"Every ticket is stored and archived with complete information. Since "
-"tickets are handled like normal emails, attachments and contextual "
-"annotations will also be stored with each email. In addition, information"
-" on relevant dates, employees involved, working time needed for ticket "
-"resolution, etc. are also saved. At any later stage, tickets can be "
-"sorted, and it is possible to search through and analyze all information "
-"using different filtering mechanisms."
+msgid "Every ticket is stored and archived with complete information. Since tickets are handled like normal emails, attachments and contextual annotations will also be stored with each email. In addition, information on relevant dates, employees involved, working time needed for ticket resolution, etc. are also saved. At any later stage, tickets can be sorted, and it is possible to search through and analyze all information using different filtering mechanisms."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:12
@@ -5065,20 +4290,14 @@ msgid "Escalation View"
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:14
-msgid ""
-"Use this screen to view tickets in specific escalation time periods. The "
-"*Escalation View* screen is available in the *Escalation View* menu item "
-"of the *Tickets* menu."
+msgid "Use this screen to view tickets in specific escalation time periods. The *Escalation View* screen is available in the *Escalation View* menu item of the *Tickets* menu."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:16
 #: ../../content/agent/tickets/queue-view.rst:16
 #: ../../content/agent/tickets/service-view.rst:20
 #: ../../content/agent/tickets/status-view.rst:16
-msgid ""
-"This screen has three different views: small, medium and large. You can "
-"change the views with the buttons in the right side of the widget: *S* "
-"means *small*, *M* means *medium* and *L* means *large*."
+msgid "This screen has three different views: small, medium and large. You can change the views with the buttons in the right side of the widget: *S* means *small*, *M* means *medium* and *L* means *large*."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:21
@@ -5086,9 +4305,7 @@ msgid "Escalation View Widget Header"
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:23
-msgid ""
-"Each view has a filter in the top of the widget to list tickets only in a"
-" specific escalation time period."
+msgid "Each view has a filter in the top of the widget to list tickets only in a specific escalation time period."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:26
@@ -5185,18 +4402,14 @@ msgstr ""
 #: ../../content/agent/tickets/queue-view.rst:59
 #: ../../content/agent/tickets/service-view.rst:63
 #: ../../content/agent/tickets/status-view.rst:51
-msgid ""
-"Use the filter box to find a particular column in *Available Columns* by "
-"just typing the name to filter."
+msgid "Use the filter box to find a particular column in *Available Columns* by just typing the name to filter."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:62
 #: ../../content/agent/tickets/queue-view.rst:61
 #: ../../content/agent/tickets/service-view.rst:65
 #: ../../content/agent/tickets/status-view.rst:53
-msgid ""
-"It is possible to sort tickets by a specific attribute, but not all "
-"attributes can be used for sort."
+msgid "It is possible to sort tickets by a specific attribute, but not all attributes can be used for sort."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:64
@@ -5224,10 +4437,7 @@ msgstr ""
 #: ../../content/agent/tickets/queue-view.rst:68
 #: ../../content/agent/tickets/service-view.rst:72
 #: ../../content/agent/tickets/status-view.rst:60
-msgid ""
-"It is possible to filter tickets by a specific attribute, but not all "
-"attributes can be used as filter. The filterable attributes are marked "
-"with a filter icon in the column header."
+msgid "It is possible to filter tickets by a specific attribute, but not all attributes can be used as filter. The filterable attributes are marked with a filter icon in the column header."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:71
@@ -5255,19 +4465,14 @@ msgstr ""
 #: ../../content/agent/tickets/queue-view.rst:77
 #: ../../content/agent/tickets/service-view.rst:81
 #: ../../content/agent/tickets/status-view.rst:69
-msgid ""
-"Multiple filters can be set. Active filters are marked with a bold filter"
-" icon in the column header and a trash icon is displayed in the widget "
-"header. Click on this trash icon to remove all active filters."
+msgid "Multiple filters can be set. Active filters are marked with a bold filter icon in the column header and a trash icon is displayed in the widget header. Click on this trash icon to remove all active filters."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:80
 #: ../../content/agent/tickets/queue-view.rst:79
 #: ../../content/agent/tickets/service-view.rst:83
 #: ../../content/agent/tickets/status-view.rst:71
-msgid ""
-"This view has an own menu to manage tickets. Select a checkbox in the row"
-" of a ticket to see this menu."
+msgid "This view has an own menu to manage tickets. Select a checkbox in the row of a ticket to see this menu."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:86
@@ -5281,9 +4486,7 @@ msgstr ""
 #: ../../content/agent/tickets/queue-view.rst:85
 #: ../../content/agent/tickets/service-view.rst:89
 #: ../../content/agent/tickets/status-view.rst:77
-msgid ""
-"Bulk action for the ticket, multiple attributes can be changed (see "
-"below)."
+msgid "Bulk action for the ticket, multiple attributes can be changed (see below)."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:89
@@ -5398,10 +4601,7 @@ msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:126
 #: ../../content/agent/tickets/escalation-view.rst:150
-msgid ""
-"Hover the mouse over the ticket row, and a floating menu will appear. The"
-" floating menu has the same menu items that are already explained in the "
-"*Small Escalation View* section."
+msgid "Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Escalation View* section."
 msgstr ""
 
 #: ../../content/agent/tickets/escalation-view.rst:131
@@ -5447,10 +4647,7 @@ msgid "New Email Ticket"
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:14
-msgid ""
-"Use this screen to create tickets and send them to customer users. The "
-"email ticket screen is available in the *New Email Ticket* menu item of "
-"the *Tickets* menu."
+msgid "Use this screen to create tickets and send them to customer users. The email ticket screen is available in the *New Email Ticket* menu item of the *Tickets* menu."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:19
@@ -5462,9 +4659,7 @@ msgid "To customer user \\*"
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:24
-msgid ""
-"The person, to whom the ticket is created for. This will be the *To* "
-"field of the email."
+msgid "The person, to whom the ticket is created for. This will be the *To* field of the email."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:31
@@ -5500,9 +4695,7 @@ msgid "From queue \\*"
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:37
-msgid ""
-"Select a queue, where the new ticket should be placed to. The queue "
-"address will be the *From* field of the email."
+msgid "Select a queue, where the new ticket should be placed to. The queue address will be the *From* field of the email."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:40
@@ -5538,9 +4731,7 @@ msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:54
 #: ../../content/agent/tickets/new-phone-ticket.rst:48
-msgid ""
-"Enable ``Ticket::Responsible`` setting to set an other agent as "
-"responsible for the ticket."
+msgid "Enable ``Ticket::Responsible`` setting to set an other agent as responsible for the ticket."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:57
@@ -5585,20 +4776,12 @@ msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:63
 #: ../../content/agent/tickets/new-phone-ticket.rst:57
-msgid ""
-"This field is not visible by default, but it displays related "
-":doc:`../faq` articles based on the keywords entered in the *Subject* "
-"and/or the *Text* fields. Clicking on a FAQ article opens the "
-":doc:`../faq/faq-zoom` screen."
+msgid "This field is not visible by default, but it displays related :doc:`../faq` articles based on the keywords entered in the *Subject* and/or the *Text* fields. Clicking on a FAQ article opens the :doc:`../faq/faq-zoom` screen."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:65
 #: ../../content/agent/tickets/new-phone-ticket.rst:59
-msgid ""
-"The related FAQ articles are displayed as the agent types, so the list of"
-" suggested FAQ articles is updated after any word typed into the "
-"*Subject* and/or the *Text* fields. The suggested FAQ articles are sorted"
-" based on the number of matched keywords."
+msgid "The related FAQ articles are displayed as the agent types, so the list of suggested FAQ articles is updated after any word typed into the *Subject* and/or the *Text* fields. The suggested FAQ articles are sorted based on the number of matched keywords."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:68
@@ -5626,9 +4809,7 @@ msgstr ""
 #: ../../content/agent/tickets/ticket-zoom.rst:290
 #: ../../content/agent/tickets/ticket-zoom.rst:495
 #: ../../content/agent/tickets/ticket-zoom.rst:545
-msgid ""
-"It is possible to add other objects like customer users or FAQ articles "
-"to the ticket."
+msgid "It is possible to add other objects like customer users or FAQ articles to the ticket."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:71
@@ -5656,9 +4837,7 @@ msgid "Signature"
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:74
-msgid ""
-"The signature assigned to the selected queue. Please contact your "
-"administrator to change the signature."
+msgid "The signature assigned to the selected queue. Please contact your administrator to change the signature."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:77
@@ -5686,9 +4865,7 @@ msgstr ""
 #: ../../content/agent/tickets/ticket-zoom.rst:296
 #: ../../content/agent/tickets/ticket-zoom.rst:501
 #: ../../content/agent/tickets/ticket-zoom.rst:551
-msgid ""
-"It is possible to add attachments to the ticket. Click on the field to "
-"add an attachment, or just drop some files here."
+msgid "It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:80
@@ -5702,9 +4879,7 @@ msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:80
 #: ../../content/agent/tickets/new-phone-ticket.rst:71
-msgid ""
-"New tickets are in *open* state by default. Select an other state if you "
-"want to change it."
+msgid "New tickets are in *open* state by default. Select an other state if you want to change it."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:83
@@ -5724,16 +4899,12 @@ msgstr ""
 #: ../../content/agent/tickets/ticket-zoom.rst:255
 #: ../../content/agent/tickets/ticket-zoom.rst:507
 #: ../../content/agent/tickets/ticket-zoom.rst:557
-msgid ""
-"Select a date and time as reminder for the ticket. If the pending time is"
-" reached, the ticket can be escalated."
+msgid "Select a date and time as reminder for the ticket. If the pending time is reached, the ticket can be escalated."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:86
 #: ../../content/agent/tickets/new-phone-ticket.rst:77
-msgid ""
-"New tickets have *3 normal* priority by default. Select an other priority"
-" if you want to change it."
+msgid "New tickets have *3 normal* priority by default. Select an other priority if you want to change it."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:89
@@ -5765,10 +4936,7 @@ msgid "Enter any amount of time units for time accounting."
 msgstr ""
 
 #: ../../content/agent/tickets/new-email-ticket.rst:91
-msgid ""
-"After all information is collected and set, click on the *Send mail* "
-"button to create the new ticket and send the email to the selected "
-"customer users."
+msgid "After all information is collected and set, click on the *Send mail* button to create the new ticket and send the email to the selected customer users."
 msgstr ""
 
 #: ../../content/agent/tickets/new-phone-ticket.rst:12
@@ -5776,10 +4944,7 @@ msgid "New Phone Ticket"
 msgstr ""
 
 #: ../../content/agent/tickets/new-phone-ticket.rst:14
-msgid ""
-"Use this screen to create tickets based on phone calls. The phone ticket "
-"screen is available in the *New Phone Ticket* menu item of the *Tickets* "
-"menu."
+msgid "Use this screen to create tickets based on phone calls. The phone ticket screen is available in the *New Phone Ticket* menu item of the *Tickets* menu."
 msgstr ""
 
 #: ../../content/agent/tickets/new-phone-ticket.rst:19
@@ -5804,9 +4969,7 @@ msgid "The queue, where the new ticket will be placed to."
 msgstr ""
 
 #: ../../content/agent/tickets/new-phone-ticket.rst:82
-msgid ""
-"After all information is collected and set, click on the *Create* button "
-"to create the new ticket."
+msgid "After all information is collected and set, click on the *Create* button to create the new ticket."
 msgstr ""
 
 #: ../../content/agent/tickets/new-process-ticket.rst:12
@@ -5816,16 +4979,11 @@ msgstr ""
 #: ../../content/agent/tickets/new-process-ticket.rst:16
 #: ../../content/agent/tickets/ticket-zoom.rst:312
 #: ../../content/agent/tickets/ticket-zoom.rst:463
-msgid ""
-"This option is available only, if at least one process is deployed in the"
-" system."
+msgid "This option is available only, if at least one process is deployed in the system."
 msgstr ""
 
 #: ../../content/agent/tickets/new-process-ticket.rst:18
-msgid ""
-"Use this screen to create tickets from processes. The process ticket "
-"screen is available in the *New Process Ticket* menu item of the "
-"*Tickets* menu."
+msgid "Use this screen to create tickets from processes. The process ticket screen is available in the *New Process Ticket* menu item of the *Tickets* menu."
 msgstr ""
 
 #: ../../content/agent/tickets/new-process-ticket.rst:23
@@ -5833,9 +4991,7 @@ msgid "New Process Ticket Screen"
 msgstr ""
 
 #: ../../content/agent/tickets/new-process-ticket.rst:25
-msgid ""
-"The following setting is available when adding this resource. The fields "
-"marked with an asterisk are mandatory."
+msgid "The following setting is available when adding this resource. The fields marked with an asterisk are mandatory."
 msgstr ""
 
 #: ../../content/agent/tickets/new-process-ticket.rst:32
@@ -5847,15 +5003,11 @@ msgid "A process needs to be selected from the list to continue."
 msgstr ""
 
 #: ../../content/agent/tickets/new-process-ticket.rst:32
-msgid ""
-"Processes can be defined in the *Process Management* module of the "
-"administrator interface."
+msgid "Processes can be defined in the *Process Management* module of the administrator interface."
 msgstr ""
 
 #: ../../content/agent/tickets/new-process-ticket.rst:34
-msgid ""
-"After a process is selected, the screen will be refreshed with the first "
-"activity dialog of the selected process."
+msgid "After a process is selected, the screen will be refreshed with the first activity dialog of the selected process."
 msgstr ""
 
 #: ../../content/agent/tickets/new-process-ticket.rst:39
@@ -5863,9 +5015,7 @@ msgid "Application For Leave Process Activity Dialog"
 msgstr ""
 
 #: ../../content/agent/tickets/new-process-ticket.rst:43
-msgid ""
-"The fields displayed depend on the process, therefore no explanation is "
-"described here for those fields."
+msgid "The fields displayed depend on the process, therefore no explanation is described here for those fields."
 msgstr ""
 
 #: ../../content/agent/tickets/queue-view.rst:12
@@ -5873,9 +5023,7 @@ msgid "Queue View"
 msgstr ""
 
 #: ../../content/agent/tickets/queue-view.rst:14
-msgid ""
-"Use this screen to view tickets in specific queues. The *Queue View* "
-"screen is available in the *Queue View* menu item of the *Tickets* menu."
+msgid "Use this screen to view tickets in specific queues. The *Queue View* screen is available in the *Queue View* menu item of the *Tickets* menu."
 msgstr ""
 
 #: ../../content/agent/tickets/queue-view.rst:21
@@ -5883,10 +5031,7 @@ msgid "Queue View Widget Header"
 msgstr ""
 
 #: ../../content/agent/tickets/queue-view.rst:23
-msgid ""
-"Each view has a filter in the top of the widget to list tickets only in a"
-" specific queue or tickets in *My Queues* set in :doc:`../avatar"
-"/personal-preferences`."
+msgid "Each view has a filter in the top of the widget to list tickets only in a specific queue or tickets in *My Queues* set in :doc:`../avatar/personal-preferences`."
 msgstr ""
 
 #: ../../content/agent/tickets/queue-view.rst:25
@@ -5911,9 +5056,7 @@ msgstr ""
 
 #: ../../content/agent/tickets/queue-view.rst:31
 #: ../../content/agent/tickets/service-view.rst:35
-msgid ""
-"This option lists only open tickets which are available for working with "
-"them."
+msgid "This option lists only open tickets which are available for working with them."
 msgstr ""
 
 #: ../../content/agent/tickets/queue-view.rst:35
@@ -5934,10 +5077,7 @@ msgstr ""
 
 #: ../../content/agent/tickets/queue-view.rst:125
 #: ../../content/agent/tickets/queue-view.rst:149
-msgid ""
-"Hover the mouse over the ticket row, and a floating menu will appear. The"
-" floating menu has the same menu items that are already explained in the "
-"*Small Queue View* section."
+msgid "Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Queue View* section."
 msgstr ""
 
 #: ../../content/agent/tickets/queue-view.rst:130
@@ -5965,23 +5105,15 @@ msgid "Queue View Bulk Action Screen"
 msgstr ""
 
 #: ../../content/agent/tickets/search.rst:14
-msgid ""
-"Use this screen to search for tickets based on various criteria. The "
-"ticket search screen is available in the *Search* menu item of the "
-"*Tickets* menu."
+msgid "Use this screen to search for tickets based on various criteria. The ticket search screen is available in the *Search* menu item of the *Tickets* menu."
 msgstr ""
 
 #: ../../content/agent/tickets/search.rst:46
-msgid ""
-"If only one ticket matches, the :doc:`ticket-zoom` will be opened. "
-"Otherwise you will be redirected to *Search Results* screen to see all "
-"matched tickets."
+msgid "If only one ticket matches, the :doc:`ticket-zoom` will be opened. Otherwise you will be redirected to *Search Results* screen to see all matched tickets."
 msgstr ""
 
 #: ../../content/agent/tickets/search.rst:56
-msgid ""
-"Use the *Profile link* button to go directly to *Search Results* screen. "
-"This is the permanent link of the search template."
+msgid "Use the *Profile link* button to go directly to *Search Results* screen. This is the permanent link of the search template."
 msgstr ""
 
 #: ../../content/agent/tickets/service-view.rst:12
@@ -5989,10 +5121,7 @@ msgid "Service View"
 msgstr ""
 
 #: ../../content/agent/tickets/service-view.rst:18
-msgid ""
-"Use this screen to view tickets in specific services. The *Service View* "
-"screen is available in the *Service View* menu item of the *Tickets* "
-"menu."
+msgid "Use this screen to view tickets in specific services. The *Service View* screen is available in the *Service View* menu item of the *Tickets* menu."
 msgstr ""
 
 #: ../../content/agent/tickets/service-view.rst:25
@@ -6000,10 +5129,7 @@ msgid "Service View Widget Header"
 msgstr ""
 
 #: ../../content/agent/tickets/service-view.rst:27
-msgid ""
-"Each view has a filter in the top of the widget to list tickets only in a"
-" specific service or tickets in *My Services* set in :doc:`../avatar"
-"/personal-preferences`."
+msgid "Each view has a filter in the top of the widget to list tickets only in a specific service or tickets in *My Services* set in :doc:`../avatar/personal-preferences`."
 msgstr ""
 
 #: ../../content/agent/tickets/service-view.rst:39
@@ -6028,10 +5154,7 @@ msgstr ""
 
 #: ../../content/agent/tickets/service-view.rst:129
 #: ../../content/agent/tickets/service-view.rst:153
-msgid ""
-"Hover the mouse over the ticket row, and a floating menu will appear. The"
-" floating menu has the same menu items that are already explained in the "
-"*Small Service View* section."
+msgid "Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Service View* section."
 msgstr ""
 
 #: ../../content/agent/tickets/service-view.rst:134
@@ -6063,9 +5186,7 @@ msgid "Status View"
 msgstr ""
 
 #: ../../content/agent/tickets/status-view.rst:14
-msgid ""
-"Use this screen to view tickets in specific states. The *Status View* "
-"screen is available in the *Status View* menu item of the *Tickets* menu."
+msgid "Use this screen to view tickets in specific states. The *Status View* screen is available in the *Status View* menu item of the *Tickets* menu."
 msgstr ""
 
 #: ../../content/agent/tickets/status-view.rst:21
@@ -6073,9 +5194,7 @@ msgid "Status View Widget Header"
 msgstr ""
 
 #: ../../content/agent/tickets/status-view.rst:23
-msgid ""
-"Each view has a filter in the top of the widget to list tickets only in a"
-" specific state."
+msgid "Each view has a filter in the top of the widget to list tickets only in a specific state."
 msgstr ""
 
 #: ../../content/agent/tickets/status-view.rst:27
@@ -6096,10 +5215,7 @@ msgstr ""
 
 #: ../../content/agent/tickets/status-view.rst:118
 #: ../../content/agent/tickets/status-view.rst:142
-msgid ""
-"Hover the mouse over the ticket row, and a floating menu will appear. The"
-" floating menu has the same menu items that are already explained in the "
-"*Small Status View* section."
+msgid "Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Status View* section."
 msgstr ""
 
 #: ../../content/agent/tickets/status-view.rst:123
@@ -6131,9 +5247,7 @@ msgid "Ticket Zoom"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:14
-msgid ""
-"Use this screen to see the details of a ticket. The *Ticket Zoom* screen "
-"is available, if you click on a ticket in any other screens."
+msgid "Use this screen to see the details of a ticket. The *Ticket Zoom* screen is available, if you click on a ticket in any other screens."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:25
@@ -6159,21 +5273,15 @@ msgid "The name of the menu item depends on the lock state of the ticket."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:43
-msgid ""
-"If the ticket is unlocked, an agent can lock the ticket and the agent "
-"becomes the ticket owner."
+msgid "If the ticket is unlocked, an agent can lock the ticket and the agent becomes the ticket owner."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:46
-msgid ""
-"If the ticket is locked to an agent, the agent can release the ticket and"
-" other agents can lock it."
+msgid "If the ticket is locked to an agent, the agent can release the ticket and other agents can lock it."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:50
-msgid ""
-"This menu item has no confirmation window. Lock or unlock the ticket is "
-"done immediately."
+msgid "This menu item has no confirmation window. Lock or unlock the ticket is done immediately."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:56
@@ -6242,9 +5350,7 @@ msgid "New Owner \\*"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:96
-msgid ""
-"Select the new owner agent from the list. The agent needs *owner* "
-"permission, otherwise the agent is not listed."
+msgid "Select the new owner agent from the list. The agent needs *owner* permission, otherwise the agent is not listed."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:128
@@ -6272,9 +5378,7 @@ msgid "Communication"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:134
-msgid ""
-"This menu item opens a new window to add a note as new article to the "
-"ticket."
+msgid "This menu item opens a new window to add a note as new article to the ticket."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:139
@@ -6286,9 +5390,7 @@ msgid "Phone Call Outbound"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:160
-msgid ""
-"This menu item opens a new window to add a note based on an outgoing "
-"phone call to the ticket."
+msgid "This menu item opens a new window to add a note based on an outgoing phone call to the ticket."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:165
@@ -6307,9 +5409,7 @@ msgid "Phone Call Inbound"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:189
-msgid ""
-"This menu item opens a new window to add a note based on an incoming "
-"phone call to the ticket."
+msgid "This menu item opens a new window to add a note based on an incoming phone call to the ticket."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:191
@@ -6321,10 +5421,7 @@ msgid "E-Mail Outbound"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:194
-msgid ""
-"This menu item opens a new window to send an email and add the email as "
-"article to the ticket. This screen is very similar to an email client "
-"screen."
+msgid "This menu item opens a new window to send an email and add the email as article to the ticket. This screen is very similar to an email client screen."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:199
@@ -6362,9 +5459,7 @@ msgstr ""
 #: ../../content/agent/tickets/ticket-zoom.rst:215
 #: ../../content/agent/tickets/ticket-zoom.rst:487
 #: ../../content/agent/tickets/ticket-zoom.rst:537
-msgid ""
-"You can select a customer user from OTOBO or any valid email address can "
-"be added here."
+msgid "You can select a customer user from OTOBO or any valid email address can be added here."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:238
@@ -6408,9 +5503,7 @@ msgid "Close the ticket by one click."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:308
-msgid ""
-"This menu item opens the :doc:`new-process-ticket` screen to start a "
-"process from this ticket."
+msgid "This menu item opens the :doc:`new-process-ticket` screen to start a process from this ticket."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:318
@@ -6422,9 +5515,7 @@ msgid "Ticket History Screen"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:327
-msgid ""
-"If several entries are added to the history, use the filter box to find a"
-" particular entry by just typing something to filter."
+msgid "If several entries are added to the history, use the filter box to find a particular entry by just typing something to filter."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:333
@@ -6432,9 +5523,7 @@ msgid "Free Fields"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:333
-msgid ""
-"This menu item opens a new window to change the free field values of the "
-"ticket."
+msgid "This menu item opens a new window to change the free field values of the ticket."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:338
@@ -6442,10 +5531,7 @@ msgid "Ticket Free Text Screen"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:344
-msgid ""
-"This menu item opens the standard link screen of OTOBO. Tickets can be "
-"linked to other tickets, FAQ articles or appointments. Existing links can"
-" also be managed here."
+msgid "This menu item opens the standard link screen of OTOBO. Tickets can be linked to other tickets, FAQ articles or appointments. Existing links can also be managed here."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:349
@@ -6461,9 +5547,7 @@ msgid "Select the other object the ticket should be linked to."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:354
-msgid ""
-"The other fields can be used to find the appropriate object to link, and "
-"the fields can be different for each object."
+msgid "The other fields can be used to find the appropriate object to link, and the fields can be different for each object."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:380
@@ -6471,10 +5555,7 @@ msgid "Merge"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:357
-msgid ""
-"This menu item opens a new window to find a destination ticket for the "
-"current ticket. The articles of current ticket will be moved to the "
-"destination ticket, and the current ticket will get the state *merged*."
+msgid "This menu item opens a new window to find a destination ticket for the current ticket. The articles of current ticket will be moved to the destination ticket, and the current ticket will get the state *merged*."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:362
@@ -6494,9 +5575,7 @@ msgid "Inform sender"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:368
-msgid ""
-"Check this box, if you would like to inform sender about ticket merge. If"
-" this box is checked, the following fields must be filled."
+msgid "Check this box, if you would like to inform sender about ticket merge. If this box is checked, the following fields must be filled."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:380
@@ -6504,21 +5583,15 @@ msgid "The body text of the email to be sent."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:383
-msgid ""
-"This menu item opens the :doc:`../calendar/new-appointment` dialog, and "
-"selects the current ticket in the *Ticket* field for linking."
+msgid "This menu item opens the :doc:`../calendar/new-appointment` dialog, and selects the current ticket in the *Ticket* field for linking."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:386
-msgid ""
-"This menu item is only a drop-down list of available queues. Select a "
-"destination queue, if the ticket needs to be moved there."
+msgid "This menu item is only a drop-down list of available queues. Select a destination queue, if the ticket needs to be moved there."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:390
-msgid ""
-"This menu item has no confirmation window. Moving the ticket to an other "
-"queue is done immediately."
+msgid "This menu item has no confirmation window. Moving the ticket to an other queue is done immediately."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:399
@@ -6526,9 +5599,7 @@ msgid "Settings"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:393
-msgid ""
-"Click on the gear icon in the right side of the ticket menu to change the"
-" article view settings. The following options are available:"
+msgid "Click on the gear icon in the right side of the ticket menu to change the article view settings. The following options are available:"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:396
@@ -6536,9 +5607,7 @@ msgid "Show one article"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:396
-msgid ""
-"Only the article is displayed in the *Article Zoom* widget, which is "
-"selected in the *Article Overview* widget."
+msgid "Only the article is displayed in the *Article Zoom* widget, which is selected in the *Article Overview* widget."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:399
@@ -6562,9 +5631,7 @@ msgid "Article Overview Widget"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:411
-msgid ""
-"Most of the columns are sortable by clicking on the header. Click again "
-"to change the sort order."
+msgid "Most of the columns are sortable by clicking on the header. Click again to change the sort order."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:413
@@ -6572,21 +5639,15 @@ msgid "There are three possible colors used to mark the type of article."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:415
-msgid ""
-"White: the article is visible for the customer user in the external "
-"interface and for agents in the agent interface."
+msgid "White: the article is visible for the customer user in the external interface and for agents in the agent interface."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:416
-msgid ""
-"Red: the article is not visible for the customer user in the external "
-"interface, but it is visible for agents in the agent interface."
+msgid "Red: the article is not visible for the customer user in the external interface, but it is visible for agents in the agent interface."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:417
-msgid ""
-"Yellow: the article is a system message and the visibility can be changed"
-" in the system configuration."
+msgid "Yellow: the article is a system message and the visibility can be changed in the system configuration."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:421
@@ -6598,9 +5659,7 @@ msgid "Article Zoom"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:427
-msgid ""
-"This widget displays the details of the article. The widget has an own "
-"menu."
+msgid "This widget displays the details of the article. The widget has an own menu."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:432
@@ -6612,16 +5671,11 @@ msgid "Mark or Unmark"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:437
-msgid ""
-"Use this menu item to mark article as important or to remove the "
-"important flag from the article. Important articles have a red "
-"information flag in the *Article Overview* widget."
+msgid "Use this menu item to mark article as important or to remove the important flag from the article. Important articles have a red information flag in the *Article Overview* widget."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:440
-msgid ""
-"This menu item opens a PDF file to show the printer friendly version of "
-"the current article. You can save or print this PDF file."
+msgid "This menu item opens a PDF file to show the printer friendly version of the current article. You can save or print this PDF file."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:463
@@ -6629,9 +5683,7 @@ msgid "Split"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:443
-msgid ""
-"Use this menu item to split the article to an other ticket. Select the "
-"new ticket type and click on the *Submit* button."
+msgid "Use this menu item to split the article to an other ticket. Select the new ticket type and click on the *Submit* button."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:448
@@ -6647,15 +5699,11 @@ msgid "Email ticket"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:453
-msgid ""
-"Selecting this will open the :doc:`new-email-ticket` screen and fill in "
-"the fields with the current article data."
+msgid "Selecting this will open the :doc:`new-email-ticket` screen and fill in the fields with the current article data."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:456
-msgid ""
-"Selecting this will open the :doc:`new-phone-ticket` screen and fill in "
-"the fields with the current article data."
+msgid "Selecting this will open the :doc:`new-phone-ticket` screen and fill in the fields with the current article data."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:463
@@ -6663,9 +5711,7 @@ msgid "Process ticket"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:459
-msgid ""
-"Selecting this will open the :doc:`new-process-ticket` screen and fill in"
-" the fields with the current article data."
+msgid "Selecting this will open the :doc:`new-process-ticket` screen and fill in the fields with the current article data."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:513
@@ -6685,10 +5731,7 @@ msgid "Reply"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:516
-msgid ""
-"Use this menu item to compose an answer to the article via email. Reply "
-"is created from a response template set in *Templates* module of the "
-"administrator interface."
+msgid "Use this menu item to compose an answer to the article via email. Reply is created from a response template set in *Templates* module of the administrator interface."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:521
@@ -6700,15 +5743,11 @@ msgid "Linked Objects"
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:568
-msgid ""
-"Tickets can be linked to other objects. Use this widget to see the links "
-"between the ticket and other objects."
+msgid "Tickets can be linked to other objects. Use this widget to see the links between the ticket and other objects."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:575
-msgid ""
-"New links can be added by the *Link* menu item of the *Ticket Zoom* menu."
-" Existing links can also be managed there."
+msgid "New links can be added by the *Link* menu item of the *Ticket Zoom* menu. Existing links can also be managed there."
 msgstr ""
 
 #: ../../content/agent/tickets/ticket-zoom.rst:590
@@ -6736,9 +5775,7 @@ msgid "Customer user"
 msgstr ""
 
 #: ../../content/customer.rst:14
-msgid ""
-"In this section you can find information if you are working as a customer"
-" user in OTOBO."
+msgid "In this section you can find information if you are working as a customer user in OTOBO."
 msgstr ""
 
 #: ../../content/customer/avatar.rst:12
@@ -6746,9 +5783,7 @@ msgid "Avatar actions"
 msgstr ""
 
 #: ../../content/customer/avatar.rst:14
-msgid ""
-"By hovering over the *Avatar* you can either :doc:`../avatar/logout` or "
-"change your :doc:`../avatar/personal-preferences`."
+msgid "By hovering over the *Avatar* you can either :doc:`../avatar/logout` or change your :doc:`../avatar/personal-preferences`."
 msgstr ""
 
 #: ../../content/customer/avatar/logout.rst:14
@@ -6760,10 +5795,7 @@ msgid "Clicking on logout icon will logout the user without confirmation."
 msgstr ""
 
 #: ../../content/customer/avatar/personal-preferences.rst:14
-msgid ""
-"Use this screen to set personal preferences in OTOBO. All settings "
-"changed on this site affect only your profile, and does not affect the "
-"behavior of OTOBO for other users."
+msgid "Use this screen to set personal preferences in OTOBO. All settings changed on this site affect only your profile, and does not affect the behavior of OTOBO for other users."
 msgstr ""
 
 #: ../../content/customer/avatar/personal-preferences.rst:19
@@ -6775,9 +5807,7 @@ msgid "Skin selection"
 msgstr ""
 
 #: ../../content/customer/avatar/personal-preferences.rst:31
-msgid ""
-"Here you can change your current password. To change the password, all "
-"fields must be filled."
+msgid "Here you can change your current password. To change the password, all fields must be filled."
 msgstr ""
 
 #: ../../content/customer/avatar/personal-preferences.rst:36
@@ -6797,15 +5827,11 @@ msgid "Language selection"
 msgstr ""
 
 #: ../../content/customer/avatar/personal-preferences.rst:57
-msgid ""
-"Only those languages are listed by default, in which OTOBO is translated "
-"more than 95%."
+msgid "Only those languages are listed by default, in which OTOBO is translated more than 95%."
 msgstr ""
 
 #: ../../content/customer/avatar/personal-preferences.rst:62
-msgid ""
-"Here you can change the timezone to match your current location to get "
-"proper date and time calculation in OTOBO."
+msgid "Here you can change the timezone to match your current location to get proper date and time calculation in OTOBO."
 msgstr ""
 
 #: ../../content/customer/avatar/personal-preferences.rst:67
@@ -6817,9 +5843,7 @@ msgid "Ticket overview"
 msgstr ""
 
 #: ../../content/customer/avatar/personal-preferences.rst:85
-msgid ""
-"Refreshing the overview screens too often can cause performance issues on"
-" large systems with many users."
+msgid "Refreshing the overview screens too often can cause performance issues on large systems with many users."
 msgstr ""
 
 #: ../../content/customer/avatar/personal-preferences.rst:88
@@ -6844,20 +5868,11 @@ msgid "2020 - OTOBO User Tutorial - Rother OSS GmbH (https://otobo.de)"
 msgstr ""
 
 #: ../../content/history.rst:18
-msgid ""
-"Published by: Rother OSS GmbH, (https://otobo.de), Oberwalting 31, 94339 "
-"Leiblfing, Germany. Authors: OTRS AG (original version), Rother OSS GmbH "
-"(https://otobo.de)"
+msgid "Published by: Rother OSS GmbH, (https://otobo.de), Oberwalting 31, 94339 Leiblfing, Germany. Authors: OTRS AG (original version), Rother OSS GmbH (https://otobo.de)"
 msgstr ""
 
 #: ../../content/history.rst:21
-msgid ""
-"Permission is granted to copy, distribute and/or modify this document "
-"under the terms of the GNU Free Documentation License, Version 1.3 or any"
-" later version published by the Free Software Foundation; with no "
-"Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy"
-" of the license can be found on the `GNU website "
-"<https://www.gnu.org/licenses/fdl-1.3.txt>`__."
+msgid "Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license can be found on the `GNU website <https://www.gnu.org/licenses/fdl-1.3.txt>`__."
 msgstr ""
 
 #: ../../content/index.rst:13
@@ -6865,40 +5880,23 @@ msgid "OTOBO User Tutorial"
 msgstr ""
 
 #: ../../content/index.rst:15
-msgid ""
-"This work is copyrighted by OTRS AG (https://otrs.com), Zimmersmühlenweg "
-"11, 61440 Oberursel, Germany."
+msgid "This work is copyrighted by OTRS AG (https://otrs.com), Zimmersmühlenweg 11, 61440 Oberursel, Germany."
 msgstr ""
 
 #: ../../content/index.rst:18
-msgid ""
-"Copyright © for modifications and amendments ROTHER OSS GmbH "
-"(https://otobo.io), Oberwalting 31, 94339 Leiblfing, Germany"
+msgid "Copyright © for modifications and amendments ROTHER OSS GmbH (https://otobo.io), Oberwalting 31, 94339 Leiblfing, Germany"
 msgstr ""
 
 #: ../../content/index.rst:21
-msgid ""
-"Terms and Conditions OTRS: Permission is granted to copy, distribute "
-"and/or modify this document under the terms of the GNU Free Documentation"
-" License, Version 1.3 or any later version published by the Free Software"
-" Foundation; with no Invariant Sections, no Front-Cover Texts, and no "
-"Back-Cover Texts. A copy of the license can be found on the GNU website."
+msgid "Terms and Conditions OTRS: Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license can be found on the GNU website."
 msgstr ""
 
 #: ../../content/index.rst:28
-msgid ""
-"Terms and Conditions Rother OSS: Permission is granted to copy, "
-"distribute and/or modify this document under the terms of the GNU Free "
-"Documentation License, Version 1.3 or any later version published by the "
-"Free Software Foundation; with no Invariant Sections, no Front-Cover "
-"Texts, and no Back-Cover Texts. A copy of the license is included in the "
-"section entitled \"COPYING\"."
+msgid "Terms and Conditions Rother OSS: Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled \"COPYING\"."
 msgstr ""
 
 #: ../../content/index.rst:35
-msgid ""
-"Published by: Rother OSS GmbH, (https://otobo.io), Oberwalting 31, 94339 "
-"Leiblfing, Germany."
+msgid "Published by: Rother OSS GmbH, (https://otobo.io), Oberwalting 31, 94339 Leiblfing, Germany."
 msgstr ""
 
 #: ../../content/index.rst:38
@@ -6910,9 +5908,7 @@ msgid "Introduction"
 msgstr ""
 
 #: ../../content/introduction.rst:14
-msgid ""
-"This manual is intended for use by OTOBO agents. The chapters describe "
-"the usage of the OTOBO software as an agent user."
+msgid "This manual is intended for use by OTOBO agents. The chapters describe the usage of the OTOBO software as an agent user."
 msgstr ""
 
 #: ../../content/introduction.rst:18
@@ -6928,9 +5924,7 @@ msgid "You have to replace ``<OTOBO_HOST>`` with your domain."
 msgstr ""
 
 #: ../../content/introduction.rst:30
-msgid ""
-"You need an agent account to be able to use OTOBO. If you have no account"
-" yet, please contact your administrator."
+msgid "You need an agent account to be able to use OTOBO. If you have no account yet, please contact your administrator."
 msgstr ""
 
 #: ../../content/introduction.rst:35
@@ -6938,9 +5932,7 @@ msgid "Agent Login Screen"
 msgstr ""
 
 #: ../../content/introduction.rst:37 ../../content/introduction.rst:72
-msgid ""
-"If you forget your password, click on the *Lost your password?* link, and"
-" follow the instructions there."
+msgid "If you forget your password, click on the *Lost your password?* link, and follow the instructions there."
 msgstr ""
 
 #: ../../content/introduction.rst:42 ../../content/introduction.rst:77
@@ -6964,10 +5956,7 @@ msgid "The customer interface is available at the following location."
 msgstr ""
 
 #: ../../content/introduction.rst:65
-msgid ""
-"You need a customer account to be able to use OTOBO. If you have no "
-"account yet, please contact your administrator or signup (if enabled by "
-"the administrator)."
+msgid "You need a customer account to be able to use OTOBO. If you have no account yet, please contact your administrator or signup (if enabled by the administrator)."
 msgstr ""
 
 #: ../../content/introduction.rst:70
@@ -6981,10 +5970,3 @@ msgstr ""
 #: ../../content/introduction.rst:84
 msgid "Customer Interface"
 msgstr ""
-
-#~ msgid ""
-#~ "OTOBO offers a high contrast skin "
-#~ "for better accessibility. You can "
-#~ "activate it in your :doc:`../avatar"
-#~ "/personal-preferences`."
-#~ msgstr ""
