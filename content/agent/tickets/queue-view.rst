@@ -3,6 +3,11 @@ Queue View
 
 Use this screen to view tickets in specific queues. The *Queue View* screen is available in the *Queue View* menu item of the *Tickets* menu.
 
+.. warning::
+   In case you are **missing a queue** in the listing of the queues there are two options.
+   * If you never saw the queue, you probably miss permissions to it. Contact your administrator for them to provide you with the necessary role- (or group-)permissions.
+   * If you already saw that queue, it is quite probable that there currently is no open ticket in that queue. If no tickets or only closed tickets are in that queue, by default the queue name is hidden from that list.
+
 This screen has three different views: small, medium and large. You can change the views with the buttons in the right side of the widget: *S* means *small*, *M* means *medium* and *L* means *large*.
 
 .. figure:: images/queue-view-header.png
