@@ -22,7 +22,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTOBO User Tutorial 10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-25 12:04+0000\n"
+"POT-Creation-Date: 2026-06-25 12:38+0000\n"
 "PO-Revision-Date: 2026-03-03 14:54+0000\n"
 "Last-Translator: Stefan Rother <sr@rother-oss.com>\n"
 "Language-Team: German <http://translate.otobo.org/projects/manual-otobo-user-agent/user-manual-otobo-11/de/>\n"
@@ -163,7 +163,7 @@ msgid "Click on the *Submit* button."
 msgstr "Klicken Sie auf die Schaltfläche *Übermitteln*."
 
 #: ../content/agent/avatar/notifications.rst:23
-#: ../content/agent/dashboard/dashboard.rst:96
+#: ../content/agent/dashboard/dashboard.rst:80
 msgid "The order of visible columns can be set by rearrange the columns in the *Visible columns* field."
 msgstr "Die Reihenfolge der sichtbaren Spalten kann auch via Drag&Drop im Bereich *Sichtbare Spalten* festgelegt werden."
 
@@ -465,7 +465,6 @@ msgstr "Meine Chat-Kanäle"
 
 #: ../content/agent/avatar/personal-preferences.rst:208
 #: ../content/agent/chat.rst:9 ../content/agent/chat/chat.rst:8
-#: ../content/agent/dashboard/dashboard.rst:27
 msgid "System configuration ``ChatEngine::Active`` needs to be activated to use this feature."
 msgstr "Die Systemkonfiguration ``ChatEngine::Active`` muss aktiviert sein, damit Sie diese Funktion nutzen können."
 
@@ -905,8 +904,8 @@ msgid "Appointment notifications can be set in admin interface. Please contact y
 msgstr "Terminbenachrichtigungen können im Administrator-Interface definiert werden. Bitte kontaktieren Sie Ihren OTOBO-Administrator."
 
 #: ../content/agent/calendar/new-appointment.rst:62
-#: ../content/agent/dashboard/dashboard.rst:157
-#: ../content/agent/dashboard/dashboard.rst:159
+#: ../content/agent/dashboard/dashboard.rst:141
+#: ../content/agent/dashboard/dashboard.rst:143
 msgid "Ticket"
 msgstr "Ticket"
 
@@ -1697,31 +1696,31 @@ msgstr "Jedes Ticket-Widget hat einen eigenen Filter zur Anzeige:"
 
 #: ../content/agent/customers/customer-information-center.rst:80
 #: ../content/agent/customers/customer-user-information-center.rst:71
-#: ../content/agent/dashboard/dashboard.rst:51
+#: ../content/agent/dashboard/dashboard.rst:35
 msgid "My locked tickets: tickets which are locked by the current agent."
 msgstr "Meine gesperrten Tickets: Tickets, die durch den derzeitigen Agenten gesperrt sind."
 
 #: ../content/agent/customers/customer-information-center.rst:81
 #: ../content/agent/customers/customer-user-information-center.rst:72
-#: ../content/agent/dashboard/dashboard.rst:54
+#: ../content/agent/dashboard/dashboard.rst:38
 msgid "Tickets in My Queues: tickets which are in queues selected in :doc:`../avatar/personal-preferences`."
 msgstr "Tickets in meinen Queues: Tickets, die sich in Queues befinden, die unter :doc:`../avatar/personal-preferences` ausgewählt wurden."
 
 #: ../content/agent/customers/customer-information-center.rst:82
 #: ../content/agent/customers/customer-user-information-center.rst:73
-#: ../content/agent/dashboard/dashboard.rst:56
+#: ../content/agent/dashboard/dashboard.rst:40
 msgid "All tickets: all tickets in this kind of widget."
 msgstr "Alle Tickets: Alle Tickets in dieser Art von Widget, bspw. alle offenen Tickets."
 
 #: ../content/agent/customers/customer-information-center.rst:84
 #: ../content/agent/customers/customer-user-information-center.rst:75
-#: ../content/agent/dashboard/dashboard.rst:106
+#: ../content/agent/dashboard/dashboard.rst:90
 msgid "The *Reminder Tickets* widget lists the pending tickets. Pending tickets are set for later work by the agent, and the reminder time is going to expire soon."
 msgstr "Das Widget \"Erinnerungs-Tickets\" listet alle wartenden Tickets. Wartende Tickets wurden gesetzt, um später durch einen Agenten bearbeitet zu werden und es läuft eine Erinnerungszeit ab."
 
 #: ../content/agent/customers/customer-information-center.rst:89
 #: ../content/agent/customers/customer-user-information-center.rst:80
-#: ../content/agent/dashboard/dashboard.rst:111
+#: ../content/agent/dashboard/dashboard.rst:95
 msgid "Reminder Tickets Widget"
 msgstr "Widget \"Erinnerungs-Tickets\""
 
@@ -1732,31 +1731,31 @@ msgstr "Das Widget \"Eskalierte Tickets\" listet alle eskalierten Tickets auf. E
 
 #: ../content/agent/customers/customer-information-center.rst:96
 #: ../content/agent/customers/customer-user-information-center.rst:87
-#: ../content/agent/dashboard/dashboard.rst:118
+#: ../content/agent/dashboard/dashboard.rst:102
 msgid "Escalated Tickets Widget"
 msgstr "Widget \"Eskalierte Tickets\""
 
 #: ../content/agent/customers/customer-information-center.rst:98
 #: ../content/agent/customers/customer-user-information-center.rst:89
-#: ../content/agent/dashboard/dashboard.rst:120
+#: ../content/agent/dashboard/dashboard.rst:104
 msgid "The *New Tickets* widget lists the recently created tickets. New tickets are not handled by an agent yet."
 msgstr "Das Widget \"Neue Tickets\" listet alle kürzlich erstellten Tickets auf. Neue Tickets werden noch nicht von einem Agenten bearbeitet."
 
 #: ../content/agent/customers/customer-information-center.rst:103
 #: ../content/agent/customers/customer-user-information-center.rst:94
-#: ../content/agent/dashboard/dashboard.rst:125
+#: ../content/agent/dashboard/dashboard.rst:109
 msgid "New Tickets Widget"
 msgstr "Widget \"Neue Tickets\""
 
 #: ../content/agent/customers/customer-information-center.rst:105
 #: ../content/agent/customers/customer-user-information-center.rst:96
-#: ../content/agent/dashboard/dashboard.rst:127
+#: ../content/agent/dashboard/dashboard.rst:111
 msgid "The *Open Tickets* widget lists the open tickets. Open tickets represent the current work done by the agent."
 msgstr "Das Widget \"Offene Tickets\" listet alle offenen Tickets. Offene Tickets repräsentieren die aktuelle Arbeit des Agenten."
 
 #: ../content/agent/customers/customer-information-center.rst:110
 #: ../content/agent/customers/customer-user-information-center.rst:101
-#: ../content/agent/dashboard/dashboard.rst:132
+#: ../content/agent/dashboard/dashboard.rst:116
 msgid "Open Tickets Widget"
 msgstr "Widget \"Offene Tickets\""
 
@@ -1771,39 +1770,39 @@ msgstr "Die folgenden Widgets befinden sich in der rechten Seitenleiste. Es gibt
 
 #: ../content/agent/customers/customer-information-center.rst:118
 #: ../content/agent/customers/customer-user-information-center.rst:109
-#: ../content/agent/dashboard/dashboard.rst:198
+#: ../content/agent/dashboard/dashboard.rst:182
 msgid "The *Settings* widget lists all available widgets on the screen."
 msgstr "Das Widget \"Einstellungen\" listet alle in dieser Ansicht verfügbaren Tickets auf."
 
 #: ../content/agent/customers/customer-information-center.rst:123
 #: ../content/agent/customers/customer-user-information-center.rst:114
-#: ../content/agent/dashboard/dashboard.rst:203
+#: ../content/agent/dashboard/dashboard.rst:187
 msgid "Settings Widget"
 msgstr "Widget \"Einstellungen\""
 
 #: ../content/agent/customers/customer-information-center.rst:125
 #: ../content/agent/customers/customer-user-information-center.rst:116
-#: ../content/agent/dashboard/dashboard.rst:205
+#: ../content/agent/dashboard/dashboard.rst:189
 msgid "To turn on or off a widget:"
 msgstr "So schalten Sie ein Widget ein oder aus:"
 
 #: ../content/agent/customers/customer-information-center.rst:127
 #: ../content/agent/customers/customer-user-information-center.rst:118
-#: ../content/agent/dashboard/dashboard.rst:207
+#: ../content/agent/dashboard/dashboard.rst:191
 msgid "Expand the *Settings* widget in the right sidebar by clicking on its header bar."
 msgstr "Erweitern Sie das Widget \"Einstellungen\" in der rechten Seitenleiste, indem Sie auf die Kopfleiste des Widgets klicken."
 
 #: ../content/agent/customers/customer-information-center.rst:128
 #: ../content/agent/customers/customer-user-information-center.rst:119
-#: ../content/agent/dashboard/dashboard.rst:208
+#: ../content/agent/dashboard/dashboard.rst:192
 msgid "Modify the checked state of a checkbox."
 msgstr "Setzen Sie ein Häkchen in die Kontrollkästchen für die Widgets, die angezeigt werden sollen."
 
 #: ../content/agent/customers/customer-information-center.rst:129
 #: ../content/agent/customers/customer-user-information-center.rst:120
-#: ../content/agent/dashboard/dashboard.rst:64
-#: ../content/agent/dashboard/dashboard.rst:70
-#: ../content/agent/dashboard/dashboard.rst:209
+#: ../content/agent/dashboard/dashboard.rst:48
+#: ../content/agent/dashboard/dashboard.rst:54
+#: ../content/agent/dashboard/dashboard.rst:193
 msgid "Click on the *Save settings* button."
 msgstr "Klicken Sie auf die Schaltfläche *Einstellungen speichern*."
 
@@ -2082,7 +2081,7 @@ msgid "Accessible for customer user: tickets which are accessible for customer u
 msgstr "Zugreifbar für Kundenbenutzer: Tickets, die für den Kundenbenutzer zugänglich sind."
 
 #: ../content/agent/customers/customer-user-information-center.rst:82
-#: ../content/agent/dashboard/dashboard.rst:113
+#: ../content/agent/dashboard/dashboard.rst:97
 msgid "The *Escalated Tickets* widget lists the escalated tickets. Escalated tickets are after the time set in service level agreement, and therefore needs to be worked on them immediately."
 msgstr "Das Widget \"Eskalierte Tickets\" listet alle eskalierten Tickets auf. Eskalierte Tickets liegen nach Ablauf der in einer Service Level Vereinbarung festgelegten Eskalationszeit vor und müssen daher sofort bearbeitet werden."
 
@@ -2091,7 +2090,7 @@ msgid "Customer User Information Center Sidebar Widgets"
 msgstr "Kundenenutzer-Informationszentrum - Seitenleisten-Widgets"
 
 #: ../content/agent/customers/customer-user-information-center.rst:107
-#: ../content/agent/dashboard/dashboard.rst:196
+#: ../content/agent/dashboard/dashboard.rst:180
 msgid "The following widgets are located on the right sidebar. There is a *Settings* widget to turn other widgets on or off, and some information widgets also displayed here."
 msgstr "Die folgenden Widgets befinden sich in der rechten Seitenleiste. Es gibt ein Widget *Einstellungen* in dem Sie die anderen Widgets ein- oder ausschalten können. Es können hier auch einige Informations-Widgets angezeigt werden."
 
@@ -2153,7 +2152,7 @@ msgstr "Avatar-Bild"
 msgid "The :doc:`../avatar` and the :doc:`../avatar/logout` possibilities."
 msgstr "Das :doc:`../avatar` und die Möglichkeiten zum :doc:`../avatar/logout`."
 
-#: ../content/agent/dashboard/dashboard.rst:37
+#: ../content/agent/dashboard/dashboard.rst:21
 msgid "Toolbar icons"
 msgstr "Werkzeugleisten-Icons"
 
@@ -2166,334 +2165,309 @@ msgstr "Symbole mit Zahlen zeigen einige Ticket-Kategorien mit der Anzahl der zu
 msgid "Icons and search boxes can be activated in settings under *Frontend* → *Agent* → *Toolbar*."
 msgstr "Die Symbole und Suchfelder können in den Einstellungen unter *Frontend* → *Agent*  → *Toolbar* aktiviert werden."
 
-#: ../content/agent/dashboard/dashboard.rst:23
-msgid "The last icon is the chat availability status."
-msgstr "Das letzte Symbol ist der Chat-Verfügbarkeitsstatus."
-
-#: ../content/agent/dashboard/dashboard.rst:29
-msgid "The chat availability status icon is a three-way switch, and can be changed by clicking."
-msgstr "Das Statussymbol für die Chatverfügbarkeit ist ein Drei-Wege-Schalter und kann durch Anklicken geändert werden."
-
-#: ../content/agent/dashboard/dashboard.rst:31
-msgid "Empty circle: unavailable for chats."
-msgstr "Leerer Kreis: Nicht verfügbar für Chats."
-
-#: ../content/agent/dashboard/dashboard.rst:32
-msgid "Empty circle with tick sign: available for internal (agent to agent) chats."
-msgstr "Leerer Kreis mit Häkchen: verfügbar für interne (Agent zu Agent) Chats."
-
-#: ../content/agent/dashboard/dashboard.rst:33
-msgid "Filled circle with tick sign: available for internal (agent to agent) and external (customer to agent, public to agent) chats."
-msgstr "Gefüllter Kreis mit Häkchen: verfügbar für interne (Agent zu Agent) und externe (Kunde zu Agent, öffentlich zu Agent) Chats."
-
-#: ../content/agent/dashboard/dashboard.rst:37
-#, fuzzy
-msgid "The chat availability status will be changed from external chats to internal chats each time an agent logs in to OTOBO again."
-msgstr "Der Verfügbarkeitsstatus des Chats wird bei jedem erneuten Anmelden eines Agenten bei OTOBO von externe Chats auf interne Chats geändert."
-
-#: ../content/agent/dashboard/dashboard.rst:40
+#: ../content/agent/dashboard/dashboard.rst:24
 msgid "Main menu"
 msgstr "Hauptmenü"
 
-#: ../content/agent/dashboard/dashboard.rst:40
+#: ../content/agent/dashboard/dashboard.rst:24
 msgid "The main menu of the agent interface."
 msgstr "Das Hauptmenü des Agenten-Interface"
 
-#: ../content/agent/dashboard/dashboard.rst:42
+#: ../content/agent/dashboard/dashboard.rst:26
 msgid "The dashboard displays so called *widgets*. A widget is a box, that consists of a header, a filter and a data table. Each widget can be moved with drag and drop, and can have own settings."
 msgstr "Das Dashboard zeigt so genannte *Widgets* an. Ein Widget ist eine Box, die aus einem Kopfbereich, einem Filter und einer Datentabelle besteht. Jedes Widget kann per Drag&Drop innerhalb des Dashboards verschoben werden und kann eigene Einstellungen haben."
 
-#: ../content/agent/dashboard/dashboard.rst:47
+#: ../content/agent/dashboard/dashboard.rst:31
 msgid "Dashboard Widgets"
 msgstr "Dashboard-Widgets"
 
-#: ../content/agent/dashboard/dashboard.rst:49
+#: ../content/agent/dashboard/dashboard.rst:33
 msgid "Each ticket widget has own filter for displaying:"
 msgstr "Jedes Ticket-Widget hat einen eigenen Filter zur Anzeige:"
 
-#: ../content/agent/dashboard/dashboard.rst:52
+#: ../content/agent/dashboard/dashboard.rst:36
 msgid "My watched tickets: tickets that the agent has in his/her watched list (requires ``Ticket::Watcher`` setting to be turned on)."
 msgstr "Meine beobachteten Tickets: Tickets, die der Agent als \"zu beobachten\" markiert hat. Dazu muss die Systemkonfigurations-Einstellung ``Ticket::Watcher`` eingeschaltet sein. Kontaktieren Sie bitte dazu Ihren OTOBO-Administrator."
 
-#: ../content/agent/dashboard/dashboard.rst:53
+#: ../content/agent/dashboard/dashboard.rst:37
 msgid "My responsibilities: tickets that the agent is set as responsible (requires ``Ticket::Responsible`` setting to be turned on)."
 msgstr "Meine verantwortlichen Tickets: Tickets, denen der Agent als Verantwortlicher zugeordnet ist (Benötigt die aktivierte Einstellung ``Ticket::Responsible``)."
 
-#: ../content/agent/dashboard/dashboard.rst:55
+#: ../content/agent/dashboard/dashboard.rst:39
 msgid "Tickets in My Services: tickets that are assigned to services selected in :doc:`../avatar/personal-preferences`."
 msgstr "Tickets in Meinen Services: Tickets, die zu den Services zugeordnet sind, die in :doc:`../avatar/personal-preferences` ausgewählt wurden."
 
-#: ../content/agent/dashboard/dashboard.rst:58
+#: ../content/agent/dashboard/dashboard.rst:42
 msgid "The numbers indicate the number of tickets in each filter term."
 msgstr "Die Zahlen geben die Anzahl der Tickets in jedem Filterterm an."
 
-#: ../content/agent/dashboard/dashboard.rst:60
+#: ../content/agent/dashboard/dashboard.rst:44
 msgid "To add new widgets:"
 msgstr "So fügen Sie neue Widgets hinzu:"
 
-#: ../content/agent/dashboard/dashboard.rst:62
-#: ../content/agent/dashboard/dashboard.rst:68
+#: ../content/agent/dashboard/dashboard.rst:46
+#: ../content/agent/dashboard/dashboard.rst:52
 msgid "Click on the *Settings* widget in the right sidebar to expand it."
 msgstr "Klicken Sie auf den Kopfbereich des Widgets \"Einstellungen\" in der rechten Seitenleiste um es aufzuklappen."
 
-#: ../content/agent/dashboard/dashboard.rst:63
+#: ../content/agent/dashboard/dashboard.rst:47
 msgid "Select the widgets you want to add."
 msgstr "Wählen Sie durch Setzen eines Hakens die Widgets, die Sie hinzufügen möchten."
 
-#: ../content/agent/dashboard/dashboard.rst:66
+#: ../content/agent/dashboard/dashboard.rst:50
 msgid "To remove widgets:"
 msgstr "So entfernen Sie Widgets:"
 
-#: ../content/agent/dashboard/dashboard.rst:69
+#: ../content/agent/dashboard/dashboard.rst:53
 msgid "Deselect the widgets you want to remove."
 msgstr "De-selektieren Sie die Widgets, die Sie entfernen möchten."
 
-#: ../content/agent/dashboard/dashboard.rst:74
+#: ../content/agent/dashboard/dashboard.rst:58
 msgid "You can also remove a widget, if you hover the mouse over the widget header and click on the *×* on the top right corner to close the widget."
 msgstr "Sie können ein Widget ebenfalls entfernen, wenn Sie die Maus über den Kopfbereich bewegen und dann auf das *x*-Symbol in der oberen, rechten Ecke des Widgets klicken."
 
-#: ../content/agent/dashboard/dashboard.rst:76
+#: ../content/agent/dashboard/dashboard.rst:60
 msgid "To move widgets:"
 msgstr "So verschieben Sie Widgets:"
 
-#: ../content/agent/dashboard/dashboard.rst:78
+#: ../content/agent/dashboard/dashboard.rst:62
 msgid "Click on the widget header and hold down the mouse button."
 msgstr "Klicken Sie auf den Kopfbereich des Widgets und halten Sie die Maustaste gedrückt."
 
-#: ../content/agent/dashboard/dashboard.rst:79
+#: ../content/agent/dashboard/dashboard.rst:63
 msgid "Drag the widget to the desired position."
 msgstr "Verschieben Sie das Widget mit gedrückter Maustaste an die gewünschte Position."
 
-#: ../content/agent/dashboard/dashboard.rst:80
+#: ../content/agent/dashboard/dashboard.rst:64
 msgid "Drop the widget by releasing the mouse button."
 msgstr "Platzieren Sie das Widget durch Loslassen der Maustaste."
 
-#: ../content/agent/dashboard/dashboard.rst:82
+#: ../content/agent/dashboard/dashboard.rst:66
 msgid "Widgets can have own settings. To configure a widget:"
 msgstr "Widgets können eigene Einstellungen haben. So konfigurieren Sie ein Widget:"
 
-#: ../content/agent/dashboard/dashboard.rst:84
+#: ../content/agent/dashboard/dashboard.rst:68
 msgid "Hover the mouse over the widget header."
 msgstr "Führen Sie die Maus über den Kopfbereich des Widgets."
 
-#: ../content/agent/dashboard/dashboard.rst:85
+#: ../content/agent/dashboard/dashboard.rst:69
 msgid "Click on the gear icon in the top right corner."
 msgstr "Klicken Sie auf das Zahnrad-Symbol in der oberen, rechten Ecke."
 
-#: ../content/agent/dashboard/dashboard.rst:86
+#: ../content/agent/dashboard/dashboard.rst:70
 msgid "Change the number and set the visible columns by drag and drop."
 msgstr "Legen Sie in \"Gezeigte Tickets\" die Anzahl der angezeigten Tickets fest. Mit Drag&Drop können Sie die Spalten zwischen den Bereichen \"Verfügbare Spalten\" und \"Angezeigte Spalten\" verschieben. "
 
-#: ../content/agent/dashboard/dashboard.rst:87
+#: ../content/agent/dashboard/dashboard.rst:71
 msgid "Click on the *Save Changes* button."
 msgstr "Klicken Sie auf die Schaltfläche *Änderungen speichern*."
 
-#: ../content/agent/dashboard/dashboard.rst:92
+#: ../content/agent/dashboard/dashboard.rst:76
 msgid "Widget Settings"
 msgstr "Widget-Einstellungen"
 
-#: ../content/agent/dashboard/dashboard.rst:100
+#: ../content/agent/dashboard/dashboard.rst:84
 msgid "Dashboard Content Widgets"
 msgstr "Inhalts-Widgets"
 
-#: ../content/agent/dashboard/dashboard.rst:104
+#: ../content/agent/dashboard/dashboard.rst:88
 msgid "The widgets can be different depending on the installed packages and system configuration settings."
 msgstr "Die Widgets können abhängig von installierten Paketen und Systemeinstellungen unterschiedlich sein."
 
-#: ../content/agent/dashboard/dashboard.rst:134
+#: ../content/agent/dashboard/dashboard.rst:118
 msgid "The *Running Process Tickets* widget lists the process tickets, that are started, but not finished yet."
 msgstr "Das Widget \"Aktive Prozess-Tickets\" listet alle gestarteten, noch nicht beendeten Prozess-Tickets auf."
 
-#: ../content/agent/dashboard/dashboard.rst:139
+#: ../content/agent/dashboard/dashboard.rst:123
 msgid "Running Process Tickets Widget"
 msgstr "Widget \"Aktive Prozess-Tickets\""
 
-#: ../content/agent/dashboard/dashboard.rst:141
+#: ../content/agent/dashboard/dashboard.rst:125
 #, fuzzy
 msgid "The *Ticket Queue Overview* widget gives an overview as a ticket count matrix, where the rows represent queues and the columns represent the ticket states. Each cell displays the number of tickets in a defined state that belongs to a particular queue."
 msgstr "Das Widget \"Ticket-Übersicht nach Queues\" gibt einen Überblick als Ticket-Zählmatrix, wobei die Zeilen Queues und die Spalten die Ticket-Status darstellen. Jede Zelle zeigt die Anzahl der Tickets in einem definierten Status an, die zu einer bestimmten Queue gehören."
 
-#: ../content/agent/dashboard/dashboard.rst:146
+#: ../content/agent/dashboard/dashboard.rst:130
 msgid "Ticket Queue Overview Widget"
 msgstr "Widget \"Ticket-Übersicht nach Queues\""
 
-#: ../content/agent/dashboard/dashboard.rst:148
+#: ../content/agent/dashboard/dashboard.rst:132
 msgid "The *Events Ticket Calendar* widget displays tickets in a calendar, but this widget does not work out-of-the-box."
 msgstr "Das Widget \"Ticket-Ereigniskalender\" zeigt die Tickets in einem Kalender. Das Widget funktioniert aber nicht sofort."
 
-#: ../content/agent/dashboard/dashboard.rst:150
+#: ../content/agent/dashboard/dashboard.rst:134
 msgid "To display the tickets in this calendar, the following settings need to be set by an **admin user**:"
 msgstr "Um Tickets in diesem Kalender anzuzeigen, müssen die folgenden Einstellungen von einem **Admin-Nutzer** vorgenommen werden:"
 
-#: ../content/agent/dashboard/dashboard.rst:152
+#: ../content/agent/dashboard/dashboard.rst:136
 msgid "Create the following dynamic fields:"
 msgstr "Erstellen Sie die folgenden Dynamischen Felder:"
 
-#: ../content/agent/dashboard/dashboard.rst:155
+#: ../content/agent/dashboard/dashboard.rst:139
 msgid "Object"
 msgstr "Objekt"
 
-#: ../content/agent/dashboard/dashboard.rst:155
+#: ../content/agent/dashboard/dashboard.rst:139
 #: ../content/agent/reports/statistics.rst:193
 msgid "Type"
 msgstr "Typ"
 
-#: ../content/agent/dashboard/dashboard.rst:155
+#: ../content/agent/dashboard/dashboard.rst:139
 msgid "Name"
 msgstr "Name"
 
-#: ../content/agent/dashboard/dashboard.rst:155
+#: ../content/agent/dashboard/dashboard.rst:139
 msgid "Label"
 msgstr "Beschriftung"
 
-#: ../content/agent/dashboard/dashboard.rst:157
-#: ../content/agent/dashboard/dashboard.rst:159
+#: ../content/agent/dashboard/dashboard.rst:141
+#: ../content/agent/dashboard/dashboard.rst:143
 msgid "Date / Time"
 msgstr "Datum / Zeit"
 
-#: ../content/agent/dashboard/dashboard.rst:157
+#: ../content/agent/dashboard/dashboard.rst:141
 msgid "``TicketCalendarStartTime``"
 msgstr "``TicketCalendarStartTime``"
 
-#: ../content/agent/dashboard/dashboard.rst:157
+#: ../content/agent/dashboard/dashboard.rst:141
 msgid "Calendar Start Time"
 msgstr "Kalender-Startzeitpunkt"
 
-#: ../content/agent/dashboard/dashboard.rst:159
+#: ../content/agent/dashboard/dashboard.rst:143
 msgid "``TicketCalendarEndTime``"
 msgstr "``TicketCalendarEndTime``"
 
-#: ../content/agent/dashboard/dashboard.rst:159
+#: ../content/agent/dashboard/dashboard.rst:143
 msgid "Calendar End Time"
 msgstr "Kalender-Endzeitpunkt"
 
-#: ../content/agent/dashboard/dashboard.rst:162
+#: ../content/agent/dashboard/dashboard.rst:146
 msgid "Navigate to *Frontend* → *Agent* → *View* and select a view to add the dynamic field to."
 msgstr "Navigieren Sie zu *Frontend* → *Agent* → *View* und wählen Sie eine Ansicht, zu der Sie das Dynamische Feld hinzufügen möchten."
 
-#: ../content/agent/dashboard/dashboard.rst:164
+#: ../content/agent/dashboard/dashboard.rst:148
 msgid "For example add these dynamic fields to *New Phone Ticket* screen and *New Email Ticket* screen to set the dates at ticket creation time, or to *Ticket Free Fields* screen to set the dates for existing ticket in the *Miscellaneous* → *Free Fields* menu item of the :doc:`../tickets/ticket-zoom` screen."
 msgstr "Fügen Sie diese Dynamischen Felder bspw. zu den Ansichten *Neues Telefon-Ticket* und *Neues E-Mail-Ticket*, um die Daten zur Erstellungszeit des Tickets festzulegen. Oder in die Ansicht *Freie Felder*, um die Daten für das bestehende Ticket unter dem Menüpunkt *Verschiedenes* → *Freie Felder* in der :doc:`../tickets/ticket-zoom` einzustellen."
 
-#: ../content/agent/dashboard/dashboard.rst:166
+#: ../content/agent/dashboard/dashboard.rst:150
 msgid "``Ticket::Frontend::AgentTicketPhone###DynamicField``"
 msgstr "``Ticket::Frontend::AgentTicketPhone###DynamicField``"
 
-#: ../content/agent/dashboard/dashboard.rst:168
-#: ../content/agent/dashboard/dashboard.rst:173
-#: ../content/agent/dashboard/dashboard.rst:178
+#: ../content/agent/dashboard/dashboard.rst:152
+#: ../content/agent/dashboard/dashboard.rst:157
+#: ../content/agent/dashboard/dashboard.rst:162
 msgid "``TicketCreateStartTime`` → *1 – Enabled*"
 msgstr "``TicketCreateStartTime`` → *1 – Aktiviert*"
 
-#: ../content/agent/dashboard/dashboard.rst:169
-#: ../content/agent/dashboard/dashboard.rst:174
-#: ../content/agent/dashboard/dashboard.rst:179
+#: ../content/agent/dashboard/dashboard.rst:153
+#: ../content/agent/dashboard/dashboard.rst:158
+#: ../content/agent/dashboard/dashboard.rst:163
 msgid "``TicketCreateEndTime`` → *1 – Enabled*"
 msgstr "``TicketCreateEndTime`` → *1 – Aktiviert*"
 
-#: ../content/agent/dashboard/dashboard.rst:171
+#: ../content/agent/dashboard/dashboard.rst:155
 msgid "``Ticket::Frontend::AgentTicketEmail###DynamicField``"
 msgstr "``Ticket::Frontend::AgentTicketEmail###DynamicField``"
 
-#: ../content/agent/dashboard/dashboard.rst:176
+#: ../content/agent/dashboard/dashboard.rst:160
 msgid "``Ticket::Frontend::AgentTicketFreeText###DynamicField``"
 msgstr "``Ticket::Frontend::AgentTicketFreeText###DynamicField``"
 
-#: ../content/agent/dashboard/dashboard.rst:181
+#: ../content/agent/dashboard/dashboard.rst:165
 msgid "Add more queues to ``DashboardEventsTicketCalendar###Queues`` setting (default is *Raw* queue only)."
 msgstr "Fügen Sie mehr Queues zu der ``DashboardEventsTicketCalendar###Queues`` -Einstellung hinzu. (Standardmäßig ist nur die Queue *Raw* hinzugefügt)."
 
-#: ../content/agent/dashboard/dashboard.rst:183
+#: ../content/agent/dashboard/dashboard.rst:167
 msgid "If the dynamic fields contain values for the tickets, the tickets are displayed in the widget."
 msgstr "Wenn die Dynamischen Felder Werte für Tickets enthalten, werden die Tickets in diesem Widget angezeigt."
 
-#: ../content/agent/dashboard/dashboard.rst:185
+#: ../content/agent/dashboard/dashboard.rst:169
 msgid "Hover the mouse over an entry to see the details of the ticket, or click on it to open the ticket in the :doc:`../tickets/ticket-zoom` screen."
 msgstr "Führen Sie die Maus über einen Eintrag, um die Details eines Tickets zu sehen oder klicken Sie auf ein Ticket, um die :doc:`../tickets/ticket-zoom` dieses Tickets zu öffnen."
 
-#: ../content/agent/dashboard/dashboard.rst:190
+#: ../content/agent/dashboard/dashboard.rst:174
 msgid "Events Ticket Calendar Widget"
 msgstr "Widget \"Ticket-Ereigniskalender\""
 
-#: ../content/agent/dashboard/dashboard.rst:194
+#: ../content/agent/dashboard/dashboard.rst:178
 msgid "Dashboard Sidebar Widgets"
 msgstr "Widgets in der Seitenleiste"
 
-#: ../content/agent/dashboard/dashboard.rst:211
+#: ../content/agent/dashboard/dashboard.rst:195
 msgid "The *7 Day Stats* widget displays the number of created and closed tickets in the last seven days."
 msgstr "Das *7-Tage-Statistik*-Widget zeigt die Anzahl der erstellten und geschlossenen Tickets der letzten sieben Tage an."
 
-#: ../content/agent/dashboard/dashboard.rst:216
+#: ../content/agent/dashboard/dashboard.rst:200
 msgid "7 Day Stats Widget"
 msgstr "Widget \"7-Tage-Statistik\""
 
-#: ../content/agent/dashboard/dashboard.rst:218
+#: ../content/agent/dashboard/dashboard.rst:202
 msgid "The *Upcoming Events* widget displays entries from the :doc:`../calendar`."
 msgstr "Das *Anstehende Ereignisse*-Widget zeigt Einträge aus dem :doc:`../calendar` an."
 
-#: ../content/agent/dashboard/dashboard.rst:223
+#: ../content/agent/dashboard/dashboard.rst:207
 msgid "Upcoming Events Widget"
 msgstr "Widget \"Anstehende Ereignisse\""
 
-#: ../content/agent/dashboard/dashboard.rst:225
+#: ../content/agent/dashboard/dashboard.rst:209
 msgid "The *Out Of Office* widget displays the agents, who are currently out of office. This information can be set in the *User Profile* module of the :doc:`../avatar/personal-preferences`."
 msgstr "Das *Derzeit nicht im Büro*-Widget zeigt die Agenten an, die derzeitig nicht im Büro sind. Diese Information kann ein Agent im Modul *Benutzerprofil* in den :doc:`../avatar/personal-preferences` setzen."
 
-#: ../content/agent/dashboard/dashboard.rst:229
+#: ../content/agent/dashboard/dashboard.rst:213
 msgid "If currently no agents are out of office, this widget is not displayed."
 msgstr "Wenn derzeitig keine Agenten diese Information gesetzt haben, dann wird das Widget nicht angezeigt."
 
-#: ../content/agent/dashboard/dashboard.rst:234
+#: ../content/agent/dashboard/dashboard.rst:218
 msgid "Out Of Office Widget"
 msgstr "Widget \"Derzeit nicht im Büro\""
 
-#: ../content/agent/dashboard/dashboard.rst:236
+#: ../content/agent/dashboard/dashboard.rst:220
 #: ../content/agent/faq/explorer.rst:49
 msgid "The *Latest updated FAQ articles* widget displays the FAQ articles, that are updated recently."
 msgstr "Das Widget *Zuletzt geänderte FAQ-Artikel* zeigt die FAQ-Artikel, die kürzlich geändert wurden."
 
-#: ../content/agent/dashboard/dashboard.rst:241
+#: ../content/agent/dashboard/dashboard.rst:225
 msgid "Latest Updated FAQ Articles Widget"
 msgstr "Widget \"Zuletzt geänderte FAQ-Artikel\""
 
-#: ../content/agent/dashboard/dashboard.rst:243
+#: ../content/agent/dashboard/dashboard.rst:227
 #: ../content/agent/faq/explorer.rst:47
 msgid "The *Latest created FAQ articles* widget displays the FAQ articles, that are created recently."
 msgstr "Das Widget *Zuletzt erstellte FAQ-Artikel* zeigt die FAQ-Artikel, die kürzlich erstellt wurden."
 
-#: ../content/agent/dashboard/dashboard.rst:248
+#: ../content/agent/dashboard/dashboard.rst:232
 msgid "Latest Created FAQ Articles Widget"
 msgstr "Widget \"Zuletzt erstellte FAQ-Artikel\""
 
-#: ../content/agent/dashboard/dashboard.rst:250
+#: ../content/agent/dashboard/dashboard.rst:234
 msgid "The *Logged-In Users* widget displays the currently online agents and customer users."
 msgstr "Das *Angemeldete Nutzer*-Widget zeigt die derzeitig angemeldeten Agenten und Kunden an."
 
-#: ../content/agent/dashboard/dashboard.rst:255
+#: ../content/agent/dashboard/dashboard.rst:239
 msgid "Logged-In Users Widget"
 msgstr "Widget \"Angemeldete Nutzer\""
 
-#: ../content/agent/dashboard/dashboard.rst:257
+#: ../content/agent/dashboard/dashboard.rst:241
 msgid "The *OTOBO News* widget displays news from an RSS feed."
 msgstr "Das *OTOBO-Neuigkeiten*-Widget zeigt Neuigkeiten aus einem RSS-Feed an."
 
-#: ../content/agent/dashboard/dashboard.rst:261
+#: ../content/agent/dashboard/dashboard.rst:245
 msgid "To change the RSS feed source, see ``DashboardBackend###0410-RSS`` setting."
 msgstr "Um die Quelle des RSS-Feeds zu ändern, nutzen Sie die ``DashboardBackend###0410-RSS`` -Einstellung."
 
-#: ../content/agent/dashboard/dashboard.rst:266
+#: ../content/agent/dashboard/dashboard.rst:250
 msgid "OTOBO News Widget"
 msgstr "Widget \"OTOBO-Neuigkeiten\""
 
-#: ../content/agent/dashboard/dashboard.rst:268
+#: ../content/agent/dashboard/dashboard.rst:252
 msgid "The *Appointments* widget displays the appointments for today, tomorrow and for this week."
 msgstr "Das *Termine*-Widget zeigt die Termine für heute, morgen und diese Woche an."
 
-#: ../content/agent/dashboard/dashboard.rst:270
+#: ../content/agent/dashboard/dashboard.rst:254
 msgid "Click on the *Add Appointment* button to open the :doc:`../calendar/new-appointment` dialog."
 msgstr "Klicken Sie auf die *Termin hinzufügen*-Schaltfläche, um den :doc:`../calendar/new-appointment` -Dialog zu öffnen."
 
-#: ../content/agent/dashboard/dashboard.rst:275
+#: ../content/agent/dashboard/dashboard.rst:259
 msgid "Appointments Widget"
 msgstr "Widget \"Termine\""
 
@@ -6178,6 +6152,25 @@ msgstr "Nach der erfolgreichen Anmeldung wird das Agenten-Dashboard angezeigt."
 #, fuzzy
 msgid "Customer Interface"
 msgstr "Kundenbenutzer"
+
+#~ msgid "The last icon is the chat availability status."
+#~ msgstr "Das letzte Symbol ist der Chat-Verfügbarkeitsstatus."
+
+#~ msgid "The chat availability status icon is a three-way switch, and can be changed by clicking."
+#~ msgstr "Das Statussymbol für die Chatverfügbarkeit ist ein Drei-Wege-Schalter und kann durch Anklicken geändert werden."
+
+#~ msgid "Empty circle: unavailable for chats."
+#~ msgstr "Leerer Kreis: Nicht verfügbar für Chats."
+
+#~ msgid "Empty circle with tick sign: available for internal (agent to agent) chats."
+#~ msgstr "Leerer Kreis mit Häkchen: verfügbar für interne (Agent zu Agent) Chats."
+
+#~ msgid "Filled circle with tick sign: available for internal (agent to agent) and external (customer to agent, public to agent) chats."
+#~ msgstr "Gefüllter Kreis mit Häkchen: verfügbar für interne (Agent zu Agent) und externe (Kunde zu Agent, öffentlich zu Agent) Chats."
+
+#, fuzzy
+#~ msgid "The chat availability status will be changed from external chats to internal chats each time an agent logs in to OTOBO again."
+#~ msgstr "Der Verfügbarkeitsstatus des Chats wird bei jedem erneuten Anmelden eines Agenten bei OTOBO von externe Chats auf interne Chats geändert."
 
 #~ msgid "In this section you can find information if you are working as an agent in OTOBO."
 #~ msgstr "In diesem Abschnitt finden Sie Informationen, wenn Sie als Agent in OTOBO arbeiten."
