@@ -40,6 +40,10 @@ This occurs when any of the following are present:
 - Parentheses used to group boolean expressions
 - Field-specific search using ``:`` to specify the field to search in
 
+.. note::
+
+    Boolean operators must be written in capital letters for the Extended Syntax.
+
 In these cases, the search does not automatically perform wildcard (``*``) matching.
 
 To restore greedy behavior, asterisks (``*``) can be manually added to the query string.
