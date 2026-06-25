@@ -42,7 +42,8 @@ This occurs when any of the following are present:
 
 .. note::
 
-    Boolean operators must be written in capital letters for the Extended Syntax.
+    Boolean operators may be used in the extended syntax.
+    Always write boolean operators in capital letters.
 
 In these cases, the search does not automatically perform wildcard (``*``) matching.
 
