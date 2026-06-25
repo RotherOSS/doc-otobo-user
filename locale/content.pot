@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-12 10:57+0000\n"
+"POT-Creation-Date: 2026-06-25 11:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -845,7 +845,6 @@ msgid "Resource"
 msgstr ""
 
 #: ../content/agent/calendar/new-appointment.rst:35
-#: ../content/agent/calendar/resource-overview.rst:4
 #: ../content/agent/chat/chat.rst:4
 msgid "Rother OSS TODO: This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otobo.de, we will find a solution."
 msgstr ""
@@ -959,15 +958,6 @@ msgstr ""
 
 #: ../content/agent/calendar/new-appointment.rst:98
 msgid "The enabled repeating option will be additionally displayed in the tool-tip of the related appointments."
-msgstr ""
-
-#: ../content/agent/calendar/resource-overview.rst:2
-msgid "Resource Overview"
-msgstr ""
-
-#: ../content/agent/calendar/resource-overview.rst:0
-#: ../content/agent/calendar/resource-overview.rst:9
-msgid "Upgrade Dialog"
 msgstr ""
 
 #: ../content/agent/chat.rst:2
