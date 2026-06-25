@@ -11,5 +11,4 @@ OTOBO supports this requirement with calendars. Calendars allow management of ap
 
    calendar/calendar-overview
    calendar/agenda-overview
-   calendar/resource-overview
    calendar/new-appointment
