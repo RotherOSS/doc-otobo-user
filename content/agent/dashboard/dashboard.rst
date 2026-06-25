@@ -20,22 +20,6 @@ Toolbar icons
 
       Icons and search boxes can be activated in settings under *Frontend* → *Agent* → *Toolbar*.
 
-   The last icon is the chat availability status.
-
-   .. seealso::
-
-      System configuration ``ChatEngine::Active`` needs to be activated to use this feature.
-
-   The chat availability status icon is a three-way switch, and can be changed by clicking.
-
-   - Empty circle: unavailable for chats.
-   - Empty circle with tick sign: available for internal (agent to agent) chats.
-   - Filled circle with tick sign: available for internal (agent to agent) and external (customer to agent, public to agent) chats.
-
-   .. note::
-
-      The chat availability status will be changed from external chats to internal chats each time an agent logs in to OTOBO again.
-
 Main menu
    The main menu of the agent interface.
 
