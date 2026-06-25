@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTRS User Manual 7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-25 12:38+0000\n"
+"POT-Creation-Date: 2026-06-25 12:41+0000\n"
 "PO-Revision-Date: 2019-03-25 07:52+0000\n"
 "Last-Translator: Balázs Úr, 2019\n"
 "Language-Team: Hungarian (https://www.transifex.com/otrs/teams/23435/hu/)\n"
@@ -127,10 +127,10 @@ msgstr "Az oldalanként megjelenített értesítések számának korlátozásáh
 #: ../content/agent/tickets/escalation-view.rst:43
 #: ../content/agent/tickets/escalation-view.rst:112
 #: ../content/agent/tickets/escalation-view.rst:136
-#: ../content/agent/tickets/queue-view.rst:36
-#: ../content/agent/tickets/queue-view.rst:42
-#: ../content/agent/tickets/queue-view.rst:111
-#: ../content/agent/tickets/queue-view.rst:135
+#: ../content/agent/tickets/queue-view.rst:41
+#: ../content/agent/tickets/queue-view.rst:47
+#: ../content/agent/tickets/queue-view.rst:116
+#: ../content/agent/tickets/queue-view.rst:140
 #: ../content/agent/tickets/service-view.rst:40
 #: ../content/agent/tickets/service-view.rst:46
 #: ../content/agent/tickets/service-view.rst:115
@@ -713,10 +713,10 @@ msgstr "Töltse ki a szükséges mezőket."
 #: ../content/agent/tickets/escalation-view.rst:46
 #: ../content/agent/tickets/escalation-view.rst:114
 #: ../content/agent/tickets/escalation-view.rst:138
-#: ../content/agent/tickets/queue-view.rst:38
-#: ../content/agent/tickets/queue-view.rst:45
-#: ../content/agent/tickets/queue-view.rst:113
-#: ../content/agent/tickets/queue-view.rst:137
+#: ../content/agent/tickets/queue-view.rst:43
+#: ../content/agent/tickets/queue-view.rst:50
+#: ../content/agent/tickets/queue-view.rst:118
+#: ../content/agent/tickets/queue-view.rst:142
 #: ../content/agent/tickets/service-view.rst:42
 #: ../content/agent/tickets/service-view.rst:49
 #: ../content/agent/tickets/service-view.rst:117
@@ -2717,7 +2717,7 @@ msgstr "GyIK szerkesztése képernyő"
 #: ../content/agent/faq/faq-zoom.rst:36
 #: ../content/agent/tickets/article-edit.rst:152
 #: ../content/agent/tickets/escalation-view.rst:85
-#: ../content/agent/tickets/queue-view.rst:84
+#: ../content/agent/tickets/queue-view.rst:89
 #: ../content/agent/tickets/service-view.rst:88
 #: ../content/agent/tickets/status-view.rst:76
 #: ../content/agent/tickets/ticket-zoom.rst:308
@@ -4406,7 +4406,7 @@ msgid "Use this screen to view tickets in specific escalation time periods. The 
 msgstr "Használja ezt a képernyőt a bizonyos eszkalációs időszakokban lévő jegyek megtekintéséhez. Az *Eszkalációs nézet* képernyő a *Jegyek* menü *Eszkalációs nézet* menüpontjában érhető el."
 
 #: ../content/agent/tickets/escalation-view.rst:6
-#: ../content/agent/tickets/queue-view.rst:6
+#: ../content/agent/tickets/queue-view.rst:11
 #: ../content/agent/tickets/service-view.rst:10
 #: ../content/agent/tickets/status-view.rst:6
 msgid "This screen has three different views: small, medium and large. You can change the views with the buttons in the right side of the widget: *S* means *small*, *M* means *medium* and *L* means *large*."
@@ -4449,7 +4449,7 @@ msgid "Small Escalation View"
 msgstr "Kis eszkalációs nézet"
 
 #: ../content/agent/tickets/escalation-view.rst:28
-#: ../content/agent/tickets/queue-view.rst:27
+#: ../content/agent/tickets/queue-view.rst:32
 #: ../content/agent/tickets/service-view.rst:31
 #: ../content/agent/tickets/status-view.rst:19
 msgid "This view lists tickets in a table format."
@@ -4462,9 +4462,9 @@ msgstr "Kis eszkalációs nézet képernyő"
 #: ../content/agent/tickets/escalation-view.rst:35
 #: ../content/agent/tickets/escalation-view.rst:110
 #: ../content/agent/tickets/escalation-view.rst:134
-#: ../content/agent/tickets/queue-view.rst:34
-#: ../content/agent/tickets/queue-view.rst:109
-#: ../content/agent/tickets/queue-view.rst:133
+#: ../content/agent/tickets/queue-view.rst:39
+#: ../content/agent/tickets/queue-view.rst:114
+#: ../content/agent/tickets/queue-view.rst:138
 #: ../content/agent/tickets/service-view.rst:38
 #: ../content/agent/tickets/service-view.rst:113
 #: ../content/agent/tickets/service-view.rst:137
@@ -4477,9 +4477,9 @@ msgstr "Az oldalanként megjelenített jegyek számának korlátozásához:"
 #: ../content/agent/tickets/escalation-view.rst:38
 #: ../content/agent/tickets/escalation-view.rst:113
 #: ../content/agent/tickets/escalation-view.rst:137
-#: ../content/agent/tickets/queue-view.rst:37
-#: ../content/agent/tickets/queue-view.rst:112
-#: ../content/agent/tickets/queue-view.rst:136
+#: ../content/agent/tickets/queue-view.rst:42
+#: ../content/agent/tickets/queue-view.rst:117
+#: ../content/agent/tickets/queue-view.rst:141
 #: ../content/agent/tickets/service-view.rst:41
 #: ../content/agent/tickets/service-view.rst:116
 #: ../content/agent/tickets/service-view.rst:140
@@ -4490,35 +4490,35 @@ msgid "Select the maximum number of tickets displayed per page."
 msgstr "Válassza ki az oldalanként megjelenített jegyek legnagyobb számát."
 
 #: ../content/agent/tickets/escalation-view.rst:41
-#: ../content/agent/tickets/queue-view.rst:40
+#: ../content/agent/tickets/queue-view.rst:45
 #: ../content/agent/tickets/service-view.rst:44
 #: ../content/agent/tickets/status-view.rst:32
 msgid "To set the displayed columns and adjust order of columns:"
 msgstr "A megjelenített oszlopok beállításához és az oszlopsorrend meghatározásához:"
 
 #: ../content/agent/tickets/escalation-view.rst:44
-#: ../content/agent/tickets/queue-view.rst:43
+#: ../content/agent/tickets/queue-view.rst:48
 #: ../content/agent/tickets/service-view.rst:47
 #: ../content/agent/tickets/status-view.rst:35
 msgid "Move columns from *Available Columns* to *Visible Columns* or vice versa."
 msgstr "Helyezze át az oszlopokat az *Elérhető oszlopokból* a *Látható oszlopokba* vagy fordítva."
 
 #: ../content/agent/tickets/escalation-view.rst:45
-#: ../content/agent/tickets/queue-view.rst:44
+#: ../content/agent/tickets/queue-view.rst:49
 #: ../content/agent/tickets/service-view.rst:48
 #: ../content/agent/tickets/status-view.rst:36
 msgid "Rearrange columns in *Visible Columns* by drag and drop."
 msgstr "Rendezze át a *Látható oszlopokban* lévő oszlopokat fog és vidd módon."
 
 #: ../content/agent/tickets/escalation-view.rst:50
-#: ../content/agent/tickets/queue-view.rst:49
+#: ../content/agent/tickets/queue-view.rst:54
 #: ../content/agent/tickets/service-view.rst:53
 #: ../content/agent/tickets/status-view.rst:41
 msgid "Use the filter box to find a particular column in *Available Columns* by just typing the name to filter."
 msgstr "Használja a szűrődobozt egy bizonyos oszlop megkereséséhez az *Elérhető oszlopokban* azáltal, hogy egyszerűen begépeli a nevét a szűrőbe."
 
 #: ../content/agent/tickets/escalation-view.rst:52
-#: ../content/agent/tickets/queue-view.rst:51
+#: ../content/agent/tickets/queue-view.rst:56
 #: ../content/agent/tickets/service-view.rst:55
 #: ../content/agent/tickets/status-view.rst:43
 #, fuzzy
@@ -4526,7 +4526,7 @@ msgid "It is possible to sort tickets by a specific attribute, but not all attri
 msgstr "Lehetőség van a jegyek szűrésére egy bizonyos attribútum szerint, de nem minden attribútum használható szűrőként. A szűrhető attribútumok egy szűrő ikonnal vannak jelölve az oszlopfejlécben."
 
 #: ../content/agent/tickets/escalation-view.rst:54
-#: ../content/agent/tickets/queue-view.rst:53
+#: ../content/agent/tickets/queue-view.rst:58
 #: ../content/agent/tickets/service-view.rst:57
 #: ../content/agent/tickets/status-view.rst:45
 #, fuzzy
@@ -4534,56 +4534,56 @@ msgid "To sort tickets:"
 msgstr "Jegyek szűréséhez:"
 
 #: ../content/agent/tickets/escalation-view.rst:56
-#: ../content/agent/tickets/queue-view.rst:55
+#: ../content/agent/tickets/queue-view.rst:60
 #: ../content/agent/tickets/service-view.rst:59
 #: ../content/agent/tickets/status-view.rst:47
 msgid "Click on a column header to sort tickets by the selected attribute."
 msgstr "Kattintson egy oszlopfejlécre a jegyek rendezéséhez a kiválasztott attribútum szerint."
 
 #: ../content/agent/tickets/escalation-view.rst:57
-#: ../content/agent/tickets/queue-view.rst:56
+#: ../content/agent/tickets/queue-view.rst:61
 #: ../content/agent/tickets/service-view.rst:60
 #: ../content/agent/tickets/status-view.rst:48
 msgid "Click on the column header again to change the sort order."
 msgstr "Kattintson ismét az oszlopfejlécre a rendezési sorrend megváltoztatásához."
 
 #: ../content/agent/tickets/escalation-view.rst:59
-#: ../content/agent/tickets/queue-view.rst:58
+#: ../content/agent/tickets/queue-view.rst:63
 #: ../content/agent/tickets/service-view.rst:62
 #: ../content/agent/tickets/status-view.rst:50
 msgid "It is possible to filter tickets by a specific attribute, but not all attributes can be used as filter. The filterable attributes are marked with a filter icon in the column header."
 msgstr "Lehetőség van a jegyek szűrésére egy bizonyos attribútum szerint, de nem minden attribútum használható szűrőként. A szűrhető attribútumok egy szűrő ikonnal vannak jelölve az oszlopfejlécben."
 
 #: ../content/agent/tickets/escalation-view.rst:61
-#: ../content/agent/tickets/queue-view.rst:60
+#: ../content/agent/tickets/queue-view.rst:65
 #: ../content/agent/tickets/service-view.rst:64
 #: ../content/agent/tickets/status-view.rst:52
 msgid "To filter tickets:"
 msgstr "Jegyek szűréséhez:"
 
 #: ../content/agent/tickets/escalation-view.rst:63
-#: ../content/agent/tickets/queue-view.rst:62
+#: ../content/agent/tickets/queue-view.rst:67
 #: ../content/agent/tickets/service-view.rst:66
 #: ../content/agent/tickets/status-view.rst:54
 msgid "Click on the filter icon in the column header."
 msgstr "Kattintson a szűrő ikonra az oszlopfejlécben."
 
 #: ../content/agent/tickets/escalation-view.rst:64
-#: ../content/agent/tickets/queue-view.rst:63
+#: ../content/agent/tickets/queue-view.rst:68
 #: ../content/agent/tickets/service-view.rst:67
 #: ../content/agent/tickets/status-view.rst:55
 msgid "Select a value for the filter."
 msgstr "Válasszon egy értéket a szűrőhöz."
 
 #: ../content/agent/tickets/escalation-view.rst:68
-#: ../content/agent/tickets/queue-view.rst:67
+#: ../content/agent/tickets/queue-view.rst:72
 #: ../content/agent/tickets/service-view.rst:71
 #: ../content/agent/tickets/status-view.rst:59
 msgid "Multiple filters can be set. Active filters are marked with a bold filter icon in the column header and a trash icon is displayed in the widget header. Click on this trash icon to remove all active filters."
 msgstr "Több szűrő is beállítható. Az aktív szűrők egy félkövér szűrő ikonnal vannak jelölve az oszlopfejlécben, és egy kuka ikon van megjelenítve a felületi elem fejlécében. Kattintson erre a kuka ikonra az összes aktív szűrő eltávolításához."
 
 #: ../content/agent/tickets/escalation-view.rst:70
-#: ../content/agent/tickets/queue-view.rst:69
+#: ../content/agent/tickets/queue-view.rst:74
 #: ../content/agent/tickets/service-view.rst:73
 #: ../content/agent/tickets/status-view.rst:61
 msgid "This view has an own menu to manage tickets. Select a checkbox in the row of a ticket to see this menu."
@@ -4596,21 +4596,21 @@ msgid "Small Escalation View Menu"
 msgstr "Kis eszkalációs nézet"
 
 #: ../content/agent/tickets/escalation-view.rst:76
-#: ../content/agent/tickets/queue-view.rst:75
+#: ../content/agent/tickets/queue-view.rst:80
 #: ../content/agent/tickets/service-view.rst:79
 #: ../content/agent/tickets/status-view.rst:67
 msgid "Bulk"
 msgstr "Tömeges"
 
 #: ../content/agent/tickets/escalation-view.rst:76
-#: ../content/agent/tickets/queue-view.rst:75
+#: ../content/agent/tickets/queue-view.rst:80
 #: ../content/agent/tickets/service-view.rst:79
 #: ../content/agent/tickets/status-view.rst:67
 msgid "Bulk action for the ticket, multiple attributes can be changed (see below)."
 msgstr "Tömeges művelet a jegyekhez, több attribútum is megváltoztatható (lásd lentebb)."
 
 #: ../content/agent/tickets/escalation-view.rst:79
-#: ../content/agent/tickets/queue-view.rst:78
+#: ../content/agent/tickets/queue-view.rst:83
 #: ../content/agent/tickets/service-view.rst:82
 #: ../content/agent/tickets/status-view.rst:70
 #: ../content/agent/tickets/ticket-zoom.rst:40
@@ -4618,35 +4618,35 @@ msgid "Unlock"
 msgstr "Feloldás"
 
 #: ../content/agent/tickets/escalation-view.rst:79
-#: ../content/agent/tickets/queue-view.rst:78
+#: ../content/agent/tickets/queue-view.rst:83
 #: ../content/agent/tickets/service-view.rst:82
 #: ../content/agent/tickets/status-view.rst:70
 msgid "Unlock a ticket to give it back to the queue."
 msgstr ""
 
 #: ../content/agent/tickets/escalation-view.rst:82
-#: ../content/agent/tickets/queue-view.rst:81
+#: ../content/agent/tickets/queue-view.rst:86
 #: ../content/agent/tickets/service-view.rst:85
 #: ../content/agent/tickets/status-view.rst:73
 msgid "Zoom"
 msgstr "Részletek"
 
 #: ../content/agent/tickets/escalation-view.rst:82
-#: ../content/agent/tickets/queue-view.rst:81
+#: ../content/agent/tickets/queue-view.rst:86
 #: ../content/agent/tickets/service-view.rst:85
 #: ../content/agent/tickets/status-view.rst:73
 msgid "Open the :doc:`ticket-zoom` screen to see all details of the ticket."
 msgstr "A :doc:`ticket-zoom` képernyő megnyitása a jegy összes részletének megtekintéséhez."
 
 #: ../content/agent/tickets/escalation-view.rst:85
-#: ../content/agent/tickets/queue-view.rst:84
+#: ../content/agent/tickets/queue-view.rst:89
 #: ../content/agent/tickets/service-view.rst:88
 #: ../content/agent/tickets/status-view.rst:76
 msgid "A new window will be opened that displays the history of the ticket."
 msgstr "Egy új ablak fog megnyílni, amely megjeleníti a jegy előzményeit."
 
 #: ../content/agent/tickets/escalation-view.rst:88
-#: ../content/agent/tickets/queue-view.rst:87
+#: ../content/agent/tickets/queue-view.rst:92
 #: ../content/agent/tickets/service-view.rst:91
 #: ../content/agent/tickets/status-view.rst:79
 #: ../content/agent/tickets/ticket-zoom.rst:147
@@ -4654,14 +4654,14 @@ msgid "Note"
 msgstr "Jegyzet"
 
 #: ../content/agent/tickets/escalation-view.rst:88
-#: ../content/agent/tickets/queue-view.rst:87
+#: ../content/agent/tickets/queue-view.rst:92
 #: ../content/agent/tickets/service-view.rst:91
 #: ../content/agent/tickets/status-view.rst:79
 msgid "New note can be added to the ticket."
 msgstr "Új jegyzet adható hozzá a jegyhez."
 
 #: ../content/agent/tickets/escalation-view.rst:91
-#: ../content/agent/tickets/queue-view.rst:90
+#: ../content/agent/tickets/queue-view.rst:95
 #: ../content/agent/tickets/service-view.rst:94
 #: ../content/agent/tickets/status-view.rst:82
 #: ../content/agent/tickets/ticket-zoom.rst:292
@@ -4669,7 +4669,7 @@ msgid "Close"
 msgstr "Lezárás"
 
 #: ../content/agent/tickets/escalation-view.rst:91
-#: ../content/agent/tickets/queue-view.rst:90
+#: ../content/agent/tickets/queue-view.rst:95
 #: ../content/agent/tickets/service-view.rst:94
 #: ../content/agent/tickets/status-view.rst:82
 #, fuzzy
@@ -4677,7 +4677,7 @@ msgid "Close this ticket."
 msgstr "A jegy zárolási állapota."
 
 #: ../content/agent/tickets/escalation-view.rst:94
-#: ../content/agent/tickets/queue-view.rst:93
+#: ../content/agent/tickets/queue-view.rst:98
 #: ../content/agent/tickets/service-view.rst:97
 #: ../content/agent/tickets/status-view.rst:85
 #: ../content/agent/tickets/ticket-zoom.rst:295
@@ -4685,14 +4685,14 @@ msgid "Quick Close"
 msgstr ""
 
 #: ../content/agent/tickets/escalation-view.rst:94
-#: ../content/agent/tickets/queue-view.rst:93
+#: ../content/agent/tickets/queue-view.rst:98
 #: ../content/agent/tickets/service-view.rst:97
 #: ../content/agent/tickets/status-view.rst:85
 msgid "Close this ticket by one click."
 msgstr ""
 
 #: ../content/agent/tickets/escalation-view.rst:98
-#: ../content/agent/tickets/queue-view.rst:97
+#: ../content/agent/tickets/queue-view.rst:102
 #: ../content/agent/tickets/service-view.rst:101
 #: ../content/agent/tickets/status-view.rst:90
 #: ../content/agent/tickets/ticket-zoom.rst:380
@@ -4700,7 +4700,7 @@ msgid "Move"
 msgstr "Áthelyezés"
 
 #: ../content/agent/tickets/escalation-view.rst:97
-#: ../content/agent/tickets/queue-view.rst:96
+#: ../content/agent/tickets/queue-view.rst:101
 #: ../content/agent/tickets/status-view.rst:88
 msgid "The ticket can be moved to an other queue."
 msgstr "A jegy áthelyezhető egy másik várólistába."
@@ -4710,7 +4710,7 @@ msgid "Medium Escalation View"
 msgstr "Közepes eszkalációs nézet"
 
 #: ../content/agent/tickets/escalation-view.rst:103
-#: ../content/agent/tickets/queue-view.rst:102
+#: ../content/agent/tickets/queue-view.rst:107
 #: ../content/agent/tickets/service-view.rst:106
 #: ../content/agent/tickets/status-view.rst:95
 msgid "This view lists tickets in a list view format."
@@ -4734,7 +4734,7 @@ msgid "Large Escalation View"
 msgstr "Nagy eszkalációs nézet"
 
 #: ../content/agent/tickets/escalation-view.rst:127
-#: ../content/agent/tickets/queue-view.rst:126
+#: ../content/agent/tickets/queue-view.rst:131
 #: ../content/agent/tickets/service-view.rst:130
 #: ../content/agent/tickets/status-view.rst:119
 msgid "This view lists tickets in a detailed format."
@@ -4753,7 +4753,7 @@ msgid "Escalation View Bulk Actions"
 msgstr "Eszkalációs nézet tömeges műveletek"
 
 #: ../content/agent/tickets/escalation-view.rst:151
-#: ../content/agent/tickets/queue-view.rst:150
+#: ../content/agent/tickets/queue-view.rst:155
 #: ../content/agent/tickets/service-view.rst:154
 #: ../content/agent/tickets/status-view.rst:143
 msgid "Multiple attributes can be changed in this screen at the same time."
@@ -5136,44 +5136,48 @@ msgstr "Várólista nézet"
 msgid "Use this screen to view tickets in specific queues. The *Queue View* screen is available in the *Queue View* menu item of the *Tickets* menu."
 msgstr "Használja ezt a képernyőt a bizonyos várólistákban lévő jegyek megtekintéséhez. A *Várólista nézet* képernyő a *Jegyek* menü *Várólista nézet* menüpontjában érhető el."
 
-#: ../content/agent/tickets/queue-view.rst:11
+#: ../content/agent/tickets/queue-view.rst:7
+msgid "In case you are **missing a queue** in the listing of the queues there are two options. * If you never saw the queue, you probably miss permissions to it. Contact your administrator for them to provide you with the necessary role- (or group-)permissions. * If you already saw that queue, it is quite probable that there currently is no open ticket in that queue. If no tickets or only closed tickets are in that queue, by default the queue name is hidden from that list."
+msgstr ""
+
+#: ../content/agent/tickets/queue-view.rst:16
 msgid "Queue View Widget Header"
 msgstr "Várólista nézet felületi elem fejléce"
 
-#: ../content/agent/tickets/queue-view.rst:13
+#: ../content/agent/tickets/queue-view.rst:18
 msgid "Each view has a filter in the top of the widget to list tickets only in a specific queue or tickets in *My Queues* set in :doc:`../avatar/personal-preferences`."
 msgstr "Minden nézetnek van egy szűrője a felületi elem tetején, hogy csak egy adott várólistában vagy a :doc:`../avatar/personal-preferences` képernyőn megadott *Saját várólistákban* lévő jegyeket sorolja fel."
 
-#: ../content/agent/tickets/queue-view.rst:15
+#: ../content/agent/tickets/queue-view.rst:20
 #: ../content/agent/tickets/service-view.rst:19
 msgid "There are also filters to view *All tickets* or only *Available tickets*."
 msgstr "Vannak szűrők az *Összes jegy* vagy csak az *Elérhető jegyek* megtekintéséhez is."
 
-#: ../content/agent/tickets/queue-view.rst:18
+#: ../content/agent/tickets/queue-view.rst:23
 #: ../content/agent/tickets/service-view.rst:22
 msgid "All tickets"
 msgstr "Összes jegy"
 
-#: ../content/agent/tickets/queue-view.rst:18
+#: ../content/agent/tickets/queue-view.rst:23
 #: ../content/agent/tickets/service-view.rst:22
 msgid "This option lists all tickets in the selected queue."
 msgstr "Ez a lehetőség a kiválasztott várólistában lévő összes jegyet felsorolja."
 
-#: ../content/agent/tickets/queue-view.rst:22
+#: ../content/agent/tickets/queue-view.rst:27
 #: ../content/agent/tickets/service-view.rst:26
 msgid "Available tickets"
 msgstr "Elérhető jegyek"
 
-#: ../content/agent/tickets/queue-view.rst:21
+#: ../content/agent/tickets/queue-view.rst:26
 #: ../content/agent/tickets/service-view.rst:25
 msgid "This option lists only open tickets which are available for working with them."
 msgstr "Ez a lehetőség csak azokat a nyitott jegyeket sorolja fel, amelyek elérhetők a velők történő munkavégzéshez."
 
-#: ../content/agent/tickets/queue-view.rst:25
+#: ../content/agent/tickets/queue-view.rst:30
 msgid "Small Queue View"
 msgstr "Kis várólista nézet"
 
-#: ../content/agent/tickets/queue-view.rst:32
+#: ../content/agent/tickets/queue-view.rst:37
 msgid "Small Queue View Screen"
 msgstr "Kis várólista nézet képernyő"
 
@@ -5183,40 +5187,40 @@ msgstr "Kis várólista nézet képernyő"
 msgid "Small Queue View Menu"
 msgstr "Kis várólista nézet"
 
-#: ../content/agent/tickets/queue-view.rst:100
+#: ../content/agent/tickets/queue-view.rst:105
 msgid "Medium Queue View"
 msgstr "Közepes várólista nézet"
 
-#: ../content/agent/tickets/queue-view.rst:107
+#: ../content/agent/tickets/queue-view.rst:112
 msgid "Medium Queue View Screen"
 msgstr "Közepes várólista nézet képernyő"
 
-#: ../content/agent/tickets/queue-view.rst:115
-#: ../content/agent/tickets/queue-view.rst:139
+#: ../content/agent/tickets/queue-view.rst:120
+#: ../content/agent/tickets/queue-view.rst:144
 msgid "Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Queue View* section."
 msgstr "Vigye az egeret a jegy sora fölé, és egy lebegő menü fog megjelenni. A lebegő menü ugyanazokkal a menüpontokkal rendelkezik, mint amelyek a *Kis várólista nézet* szakaszban kerültek bemutatásra."
 
-#: ../content/agent/tickets/queue-view.rst:120
+#: ../content/agent/tickets/queue-view.rst:125
 msgid "Floating Menu of Medium Queue View"
 msgstr "Közepes várólista nézet lebegő menüje"
 
-#: ../content/agent/tickets/queue-view.rst:124
+#: ../content/agent/tickets/queue-view.rst:129
 msgid "Large Queue View"
 msgstr "Nagy várólista nézet"
 
-#: ../content/agent/tickets/queue-view.rst:131
+#: ../content/agent/tickets/queue-view.rst:136
 msgid "Large Queue View Screen"
 msgstr "Nagy várólista nézet képernyő"
 
-#: ../content/agent/tickets/queue-view.rst:144
+#: ../content/agent/tickets/queue-view.rst:149
 msgid "Floating Menu of Large Queue View"
 msgstr "Nagy várólista nézet lebegő menüje"
 
-#: ../content/agent/tickets/queue-view.rst:148
+#: ../content/agent/tickets/queue-view.rst:153
 msgid "Queue View Bulk Actions"
 msgstr "Várólista nézet tömeges műveletek"
 
-#: ../content/agent/tickets/queue-view.rst:155
+#: ../content/agent/tickets/queue-view.rst:160
 msgid "Queue View Bulk Action Screen"
 msgstr "Várólista nézet tömeges művelet képernyő"
 
