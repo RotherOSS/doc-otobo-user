@@ -37,13 +37,13 @@ When Extended Syntax is used, the search behavior is no longer greedy by default
 This occurs when any of the following are present:
 
 - Boolean operators: ``AND``, ``OR``, ``NOT``
-- Parentheses used to group boolean expressions
+- Parentheses used to group Boolean expressions
 - Field-specific search using ``:`` to specify the field to search in
 
 .. note::
 
     Boolean operators may be used in the extended syntax.
-    Always write boolean operators in capital letters.
+    Always write Boolean operators in capital letters.
 
 In these cases, the search does not automatically perform wildcard (``*``) matching.
 
