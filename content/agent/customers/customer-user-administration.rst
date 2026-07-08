@@ -2,16 +2,21 @@
    |  ATTENTION: The following content and images were copied from Admin Manual.
    |             Check doc-admin/content/users-groups-roles/customer-users.rst for more information.
    |
-   |             DO NOT EDIT the following content! Edit it in Admin Manual, then copy it here!
+   |             DO NOT EDIT the following content!
+   |             Edit it in Admin Manual, then copy it here!
 
 Customer User Administration
 ============================
 
-A record of who your company deals with requires more information about that individual: physical location for shipping and billing purposes, as well as contact information for email and phone contact.
+A record of who your company deals with requires more information about that individual:
+physical location for shipping and billing purposes, as well as contact information for email and phone contact.
 
-OTOBO offers a great way to save individual information about contacts within organizations which your company serves. You can add as many personal connections into OTOBO as needed.
+OTOBO offers a great way to save individual information about contacts within organizations which your company serves.
+You can add as many personal connections into OTOBO as needed.
 
-Use this screen to add a customer user to the system. A fresh OTOBO installation contains no customer users by default. The customer user management screen is available in the *Customer User Administration* menu item of the *Customers* menu.
+Use this screen to add a customer user to the system.
+A fresh OTOBO installation contains no customer users by default.
+The customer user management screen is available in the *Customer User Administration* menu item of the *Customers* menu.
 
 .. figure:: images/customer-user-management.png
    :alt: Customer User Management Screen
@@ -24,11 +29,13 @@ Manage Customer Users
 
 .. warning::
 
-   A customer user can only be added to the system when at least one customer exists. Create a customer in :doc:`customer-administration` first.
+   A customer user can only be added to the system when at least one customer exists.
+   Create a customer in :doc:`customer-administration` first.
 
 .. note::
 
-   Adding or editing a customer user is possible only by using database back end. Using external directory services like LDAP will disable the customer user management functionality.
+   Adding or editing a customer user is possible only by using database back end.
+   Using external directory services like LDAP will disable the customer user management functionality.
 
 To add a customer user:
 
@@ -43,7 +50,8 @@ To add a customer user:
 
 .. warning::
 
-   Customer users can not be deleted from the system. They can only be deactivated by setting the *Validity* option to *invalid* or *invalid-temporarily*.
+   Customer users can not be deleted from the system.
+   They can only be deactivated by setting the *Validity* option to *invalid* or *invalid-temporarily*.
 
 To edit a customer user:
 
@@ -63,9 +71,12 @@ To find a customer user:
 
 .. note::
 
-   If several customer users are added to the system, use the search box to find a particular customer user. Only the first 1000 customer users are listed by default.
+   If several customer users are added to the system, use the search box to find a particular customer user.
+   Only the first 1000 customer users are listed by default.
 
-The customer user permissions can be controlled by adding a customer or a customer user to groups. This can result a complex matrix of permissions. The effective permissions for a customer user can be checked in the bottom of the *Edit Customer User* screen.
+The customer user permissions can be controlled by adding a customer or a customer user to groups.
+This can result a complex matrix of permissions.
+The effective permissions for a customer user can be checked in the bottom of the *Edit Customer User* screen.
 
 .. figure:: images/customer-user-effective-permission.png
    :alt: Effective Permissions for Customer User Widget
@@ -74,7 +85,8 @@ The customer user permissions can be controlled by adding a customer or a custom
 
 .. seealso::
 
-   Customer group support needs to be enabled to use this feature. Please contact your administrator.
+   Customer group support needs to be enabled to use this feature.
+   Please contact your administrator.
 
 .. note::
 
@@ -84,7 +96,8 @@ The customer user permissions can be controlled by adding a customer or a custom
 Customer User Settings
 ----------------------
 
-The following settings are available when adding or editing this resource. The fields marked with an asterisk are mandatory.
+The following settings are available when adding or editing this resource.
+The fields marked with an asterisk are mandatory.
 
 .. note::
 
@@ -103,13 +116,16 @@ Username \*
    The username of the customer user to login to the system.
 
 Password
-   The password of the customer user. This will be auto-generated if left empty.
+   The password of the customer user.
+   This will be auto-generated if left empty.
 
 Email \*
    The email address of the customer user.
 
 Customer \*
-   The customer company the customer user belongs to. Select a customer from the list. Customers can be added in :doc:`customer-administration`.
+   The customer company the customer user belongs to.
+   Select a customer from the list.
+   Customers can be added in :doc:`customer-administration`.
 
 Phone
    The phone number of the customer user.
@@ -133,7 +149,10 @@ Country
    The country of the customer user.
 
 Comment
-   Add additional information to this resource. It is recommended to always fill this field as a description of the resource with a full sentence for better clarity, because the comment will be also displayed in the overview table.
+   Add additional information to this resource.
+   It is recommended to always fill this field as a description of the resource with a full sentence for better clarity, because the comment will be also displayed in the overview table.
 
 Validity \*
-   Set the validity of this resource. Each resource can be used in OTOBO only, if this field is set to *valid*. Setting this field to *invalid* or *invalid-temporarily* will disable the use of the resource.
+   Set the validity of this resource.
+   Each resource can be used in OTOBO only, if this field is set to *valid*.
+   Setting this field to *invalid* or *invalid-temporarily* will disable the use of the resource.

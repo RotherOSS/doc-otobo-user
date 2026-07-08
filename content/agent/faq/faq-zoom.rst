@@ -1,7 +1,8 @@
 FAQ Zoom
 ========
 
-Use this screen to see the details of an FAQ article. The *FAQ Zoom* screen is available, if you click on an FAQ article in any other screens.
+Use this screen to see the details of an FAQ article.
+The *FAQ Zoom* screen is available, if you click on an FAQ article in any other screens.
 
 .. figure:: images/faq-zoom.png
    :alt: FAQ Zoom Screen
@@ -36,10 +37,13 @@ History
       FAQ History Screen
 
 Print
-   This menu item opens a PDF file to show the printer friendly version of the screen. You can save or print this PDF file.
+   This menu item opens a PDF file to show the printer friendly version of the screen.
+   You can save or print this PDF file.
 
 Link
-   This menu item opens the standard link screen of OTOBO. FAQ articles can be linked to other FAQ articles or tickets. Existing links can also be managed here.
+   This menu item opens the standard link screen of OTOBO.
+   FAQ articles can be linked to other FAQ articles or tickets.
+   Existing links can also be managed here.
 
    .. figure:: images/faq-zoom-link.png
       :alt: Link FAQ Screen
@@ -56,9 +60,11 @@ Delete
 
 The *Symptom*, *Problem*, *Solution* and *Comment* widgets show the content of the FAQ article.
 
-It is possible to rate an FAQ article in the *Rating* widget, whether the FAQ article is helpful or not. To rate an FAQ article, click on the *Yes* or *No* button in this widget.
+It is possible to rate an FAQ article in the *Rating* widget, whether the FAQ article is helpful or not.
+To rate an FAQ article, click on the *Yes* or *No* button in this widget.
 
-Any user can rate an FAQ article only once. The number of positive and negative ratings will be displayed in the right sidebar.
+Any user can rate an FAQ article only once.
+The number of positive and negative ratings will be displayed in the right sidebar.
 
 
 FAQ Sidebar Widgets
@@ -73,14 +79,16 @@ The *FAQ information* widget lists all relevant attributes of the FAQ article.
 
    FAQ Information Widget
 
-FAQ articles can be linked to other objects. Use this widget to see the links between the FAQ article and other objects.
+FAQ articles can be linked to other objects.
+Use this widget to see the links between the FAQ article and other objects.
 
 .. figure:: images/faq-zoom-linked-objects.png
    :alt: Linked Objects Widget
 
    Linked Objects Widget
 
-New links can be added by the *Link* menu item of the *FAQ Zoom* menu. Existing links can also be managed there.
+New links can be added by the *Link* menu item of the *FAQ Zoom* menu.
+Existing links can also be managed there.
 
 To see the linked object details, click on an entry in this widget.
 

@@ -1,18 +1,21 @@
 Calendar Overview
 =================
 
-Use this screen to get an overview of the added calendars. The overview screen is available in the *Calendar Overview* menu item of the *Calendar* menu.
+Use this screen to get an overview of the added calendars.
+The overview screen is available in the *Calendar Overview* menu item of the *Calendar* menu.
 
 .. note::
 
-   There are no calendars added by default. Please contact your administrator to add one ore more calendars.
+   There are no calendars added by default.
+   Please contact your administrator to add one ore more calendars.
 
    .. figure:: images/calendar-no-calendar.png
       :alt: No Calendars Found
 
       No Calendars Found
 
-This overview works the same like usual calendars. Different time periods and timelines can be selected to view appointments, and it is possible to jump between different periods.
+This overview works the same like usual calendars.
+Different time periods and timelines can be selected to view appointments, and it is possible to jump between different periods.
 
 .. figure:: images/calendar-overview.png
    :alt: Calendar Overview Screen
@@ -36,7 +39,8 @@ To view appointments in external calendar applications:
 
    If several calendars are added to the system, use the filter box to find a particular calendar by just typing the name to filter.
 
-Within the calendar overview, an agent is able to display, create, edit and/or delete appointments of different calendars, depending on their permission level to the related calendars. Such appointments can be created or edited via drag and drop within this screen.
+Within the calendar overview, an agent is able to display, create, edit and/or delete appointments of different calendars, depending on their permission level to the related calendars.
+Such appointments can be created or edited via drag and drop within this screen.
 
 To add a new appointment:
 

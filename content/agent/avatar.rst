@@ -1,7 +1,8 @@
 Personal Menu
 =============
 
-Use this menu to customize your profile in OTOBO. The personal menu is available via your avatar in the top left corner.
+Use this menu to customize your profile in OTOBO.
+The personal menu is available via your avatar in the top left corner.
 
 All settings changed in this menu affect only your profile, and does not affect the behavior of OTOBO for other agents.
 
