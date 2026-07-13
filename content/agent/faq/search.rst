@@ -1,5 +1,5 @@
-Search
-======
+FAQ Search
+==========
 
 Use this screen to search for FAQ articles based on various criteria.
 The FAQ search screen is available in the *Search* menu item of the *FAQ* menu.

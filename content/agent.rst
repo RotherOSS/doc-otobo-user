@@ -9,13 +9,13 @@ Please note that some of the features described here may not be available in you
    :maxdepth: 3
    :caption: Contents
 
-   agent/dashboard
+   agent/dashboard/index
    agent/avatar
    agent/customers
    agent/calendar
    agent/tickets
    agent/faq
-   agent/reports
+   agent/reports/index
    agent/admin
    agent/search
    agent/accessibility

@@ -1,5 +1,5 @@
-Reports
-=======
+Reports and Statistics
+======================
 
 Reports are automatically generated statistics.
 In this menu it is possible to define new statistics, and set these statistics as reports, if needed.
@@ -8,5 +8,5 @@ In this menu it is possible to define new statistics, and set these statistics a
    :maxdepth: 3
    :caption: Contents
 
-   reports/reports
-   reports/statistics
+   ./reports
+   ./statistics

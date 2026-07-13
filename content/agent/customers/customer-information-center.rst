@@ -33,7 +33,7 @@ The dashboard contains many widgets.
 
 .. seealso::
 
-   See chapter :doc:`../dashboard/dashboard` for more detailed explanation of managing widgets.
+   See chapter :doc:`../dashboard/index` for more detailed explanation of managing widgets.
 
 .. figure:: images/customer-information-center-dashboard.png
    :alt: Customer Information Center Dashboard
