@@ -8,21 +8,8 @@
 # Peter Matyas <mr.peter.matyas@gmail.com>, 2019
 # Martin Gruner <martin.gruner@otrs.com>, 2019
 # Balázs Úr, 2019
-#, fuzzy
 msgid ""
-msgstr ""
-"Project-Id-Version: OTRS User Manual 7.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-08 08:01+0200\n"
-"PO-Revision-Date: 2019-03-25 07:52+0000\n"
-"Last-Translator: Balázs Úr, 2019\n"
-"Language-Team: Hungarian (https://www.transifex.com/otrs/teams/23435/hu/)\n"
-"Language: hu\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"Generated-By: Babel 2.4.0\n"
+msgstr "Project-Id-Version: OTRS User Manual 7.0\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2024-10-08 08:01+0200\nPO-Revision-Date: 2026-07-13 13:14+0000\nLast-Translator: Balázs Úr <balazs@urbalazs.hu>\nLanguage-Team: Hungarian <http://translate.otobo.org/projects/otobo-11-1/manuals/otobo-user-manual/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16\nGenerated-By: Babel 2.4.0\n"
 
 #: ../../content/agent.rst:12
 msgid "Agent"
@@ -6067,9 +6054,8 @@ msgid "After a successful login, the customer dashboard will be displayed."
 msgstr "A sikeres bejelentkezés után az ügyintézői vezérlőpult jelenik meg."
 
 #: ../../content/introduction.rst:84
-#, fuzzy
 msgid "Customer Interface"
-msgstr "Ügyfél-felhasználó"
+msgstr "Ügyfélfelület"
 
 #~ msgid "`Resource planning <https://otrs.com/otrs-feature/resource-planning/>`__ is not part of the OTRS framework. Please contact us at sales@otrs.com for an upgrade."
 #~ msgstr "Az `erőforrás-tervezés <https://otrs.com/otrs-feature/resource-planning/>`__ nem része az OTRS keretrendszernek. Vegye fel a kapcsolatot velünk a sales@otrs.com címen a frissítéshez."
