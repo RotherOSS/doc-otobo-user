@@ -9,7 +9,20 @@
 # Martin Gruner <martin.gruner@otrs.com>, 2019
 # Balázs Úr, 2019
 msgid ""
-msgstr "Project-Id-Version: OTRS User Manual 7.0\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-07-14 04:00+0000\nPO-Revision-Date: 2026-07-14 13:26+0000\nLast-Translator: Balázs Úr <balazs@urbalazs.hu>\nLanguage-Team: Hungarian <http://translate.otobo.org/projects/otobo-11-1/manuals/otobo-user-manual/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16\nGenerated-By: Babel 2.4.0\n"
+msgstr ""
+"Project-Id-Version: OTRS User Manual 7.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-14 13:26+0000\n"
+"PO-Revision-Date: 2026-07-14 13:26+0000\n"
+"Last-Translator: Balázs Úr <balazs@urbalazs.hu>\n"
+"Language-Team: Hungarian <http://translate.otobo.org/projects/otobo-11-1/manuals/otobo-user-manual/hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.16\n"
+"Generated-By: Babel 2.4.0\n"
 
 #: ../content/agent.rst:8 ../content/agent/avatar.rst:9
 #: ../content/agent/calendar.rst:12 ../content/agent/customers.rst:7
