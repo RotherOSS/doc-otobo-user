@@ -9,20 +9,7 @@
 # Martin Gruner <martin.gruner@otrs.com>, 2019
 # Balázs Úr, 2019
 msgid ""
-msgstr ""
-"Project-Id-Version: OTRS User Manual 7.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-14 13:36+0000\n"
-"PO-Revision-Date: 2026-07-14 13:26+0000\n"
-"Last-Translator: Balázs Úr <balazs@urbalazs.hu>\n"
-"Language-Team: Hungarian <http://translate.otobo.org/projects/otobo-11-1/manuals/otobo-user-manual/hu/>\n"
-"Language: hu\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16\n"
-"Generated-By: Babel 2.4.0\n"
+msgstr "Project-Id-Version: OTRS User Manual 7.0\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-07-14 13:36+0000\nPO-Revision-Date: 2026-07-16 14:13+0000\nLast-Translator: Balázs Úr <balazs@urbalazs.hu>\nLanguage-Team: Hungarian <http://translate.otobo.org/projects/otobo-11-1/manuals/otobo-user-manual/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16\nGenerated-By: Babel 2.4.0\n"
 
 #: ../content/agent.rst:8 ../content/agent/avatar.rst:9
 #: ../content/agent/calendar.rst:12 ../content/agent/customers.rst:7
@@ -35,7 +22,7 @@ msgstr "Tartalom"
 
 #: ../content/agent.rst:2
 msgid "Agent"
-msgstr ""
+msgstr "Ügyintéző"
 
 #: ../content/agent.rst:4
 msgid "In this section you can find information if you are working as an agent in OTOBO. Please note that some of the features described here may not be available in your OTOBO system, depending on the configuration and permissions set by your administrator."
@@ -84,7 +71,7 @@ msgstr "Az ebben a menüben megváltoztatott összes beállítás csak az Ön pr
 #: ../content/agent/avatar/logout.rst:2 ../content/customer/avatar/logout.rst:2
 #: ../content/customer/avatar/logout.rst:9
 msgid "Logout"
-msgstr "Kilépés"
+msgstr "Kijelentkezés"
 
 #: ../content/agent/avatar/logout.rst:4
 #, fuzzy
@@ -279,7 +266,7 @@ msgstr "Győződjön meg arról, hogy hozzáadta-e a megosztott titkot az előá
 
 #: ../content/agent/avatar/personal-preferences.rst:80
 msgid "Avatar"
-msgstr "Avatár"
+msgstr "Profilkép"
 
 #: ../content/agent/avatar/personal-preferences.rst:82
 msgid "Here can be changed the image used as avatar image in *Ticket Zoom* screen and in the main menu."
@@ -2075,7 +2062,7 @@ msgstr "Időpontok felületi elem"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:2
 msgid "Elasticsearch"
-msgstr ""
+msgstr "Elasticsearch"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:4
 msgid "Search with Elasticsearch is especially useful when:"
@@ -2192,10 +2179,8 @@ msgid "Title"
 msgstr "Cím"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:73
-#, fuzzy
-#| msgid "The ticket number."
 msgid "TicketNumber"
-msgstr "A jegy száma."
+msgstr "Jegyszám"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:74
 #, fuzzy
@@ -2238,8 +2223,6 @@ msgid "**CustomerCompany:**"
 msgstr "Ügyfél-információk"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:84
-#, fuzzy
-#| msgid "Customer ID"
 msgid "CustomerID"
 msgstr "Ügyfél-azonosító"
 
@@ -2284,26 +2267,20 @@ msgid "**CustomerUser:**"
 msgstr "Ügyfél-felhasználó"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:96
-#, fuzzy
-#| msgid "Firstname \\*"
 msgid "Firstname"
-msgstr "Keresztnév \\*"
+msgstr "Keresztnév"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:97
-#, fuzzy
-#| msgid "Lastname \\*"
 msgid "Lastname"
-msgstr "Vezetéknév \\*"
+msgstr "Vezetéknév"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:98
-#, fuzzy
-#| msgid "Email \\*"
 msgid "Email"
-msgstr "E-mail \\*"
+msgstr "E-mail"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:99
 msgid "Login"
-msgstr ""
+msgstr "Belépés"
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:100
 #, fuzzy
@@ -3218,7 +3195,7 @@ msgstr "Ez a rész a további szűrők hozzáadásához és az eredmények kimen
 
 #: ../content/agent/faq/search.rst:78 ../content/agent/tickets/search.rst:71
 msgid "Add another attribute"
-msgstr "További jellemző hozzáadása"
+msgstr "További attribútum hozzáadása"
 
 #: ../content/agent/faq/search.rst:78 ../content/agent/tickets/search.rst:71
 msgid "Select an extra attribute from the drop-down list to be used in the search."
@@ -3377,7 +3354,7 @@ msgstr "E-mail címzettjei"
 
 #: ../content/agent/reports/reports.rst:102
 msgid "Specify recipient email addresses (comma separated)."
-msgstr "A címzett e-mail címeinek megadása (vesszővel elválasztva)."
+msgstr "A címzett e-mail-címeinek megadása (vesszővel elválasztva)."
 
 #: ../content/agent/reports/reports.rst:106
 msgid "Output settings"
@@ -3871,7 +3848,7 @@ msgstr "A legközelebbi eszkalációs idő típusának eszkalálódásáig hátr
 
 #: ../content/agent/reports/statistics.rst:228
 msgid "FirstResponse"
-msgstr "FirstResponse"
+msgstr "Első válasz"
 
 #: ../content/agent/reports/statistics.rst:228
 msgid "The timestamp of first response."
@@ -3879,7 +3856,7 @@ msgstr "Az első válasz időbélyege."
 
 #: ../content/agent/reports/statistics.rst:231
 msgid "FirstResponseInMin"
-msgstr "FirstResponseInMin"
+msgstr "Első válasz percben"
 
 #: ../content/agent/reports/statistics.rst:231
 msgid "The time in minutes from ticket creation to first response (based on working time)."
@@ -3887,7 +3864,7 @@ msgstr "A jegy létrehozásától az első válaszig eltelt idő percben (munkai
 
 #: ../content/agent/reports/statistics.rst:234
 msgid "FirstResponseDiffInMin"
-msgstr "FirstResponseDiffInMin"
+msgstr "Első válasz különbsége percben"
 
 #: ../content/agent/reports/statistics.rst:234
 msgid "The difference in minutes between the specified response time and the actual response time."
@@ -3990,7 +3967,7 @@ msgstr "A megoldási idő eszkalációjáig hátralévő teljes idő másodpercb
 
 #: ../content/agent/reports/statistics.rst:273
 msgid "SolutionInMin"
-msgstr "SolutionInMin"
+msgstr "Megoldás percben"
 
 #: ../content/agent/reports/statistics.rst:273
 msgid "The total time in minutes until a solution time escalation."
@@ -3998,7 +3975,7 @@ msgstr "A megoldási idő eszkalációjáig hátralévő teljes idő percben."
 
 #: ../content/agent/reports/statistics.rst:276
 msgid "SolutionDiffInMin"
-msgstr "SolutionDiffInMin"
+msgstr "Megoldás különbsége percben"
 
 #: ../content/agent/reports/statistics.rst:276
 msgid "The difference in minutes between the specified solution time and the actual solution time."
@@ -4502,7 +4479,7 @@ msgstr "A jegy zárolási állapota."
 #: ../content/agent/tickets/status-view.rst:91
 #: ../content/agent/tickets/ticket-zoom.rst:311
 msgid "Quick Close"
-msgstr ""
+msgstr "Gyors lezárás"
 
 #: ../content/agent/tickets/escalation-view.rst:100
 #: ../content/agent/tickets/queue-view.rst:107
@@ -4622,7 +4599,7 @@ msgstr "Egyéb ügyfél-felhasználók kiválasztása az e-mail másolataként, 
 #: ../content/agent/tickets/ticket-zoom.rst:502
 #: ../content/agent/tickets/ticket-zoom.rst:556
 msgid "Bcc"
-msgstr "Titkos másolat"
+msgstr "Rejtett másolat"
 
 #: ../content/agent/tickets/new-email-ticket.rst:28
 #: ../content/agent/tickets/ticket-zoom.rst:211
@@ -4653,7 +4630,7 @@ msgstr ""
 #: ../content/agent/tickets/new-email-ticket.rst:42
 #: ../content/agent/tickets/new-phone-ticket.rst:34
 msgid "Service Level Agreement"
-msgstr ""
+msgstr "Szolgáltatási megállapodás"
 
 #: ../content/agent/tickets/new-email-ticket.rst:42
 #: ../content/agent/tickets/new-phone-ticket.rst:34
@@ -5814,14 +5791,12 @@ msgid "Here you can change your current password. To change the password, all fi
 msgstr "Ezen a felületi elemen a jelenlegi jelszó változtatható meg. A jelszó megváltoztatásához az összes mezőt ki kell tölteni."
 
 #: ../content/customer/avatar/personal-preferences.rst:28
-#, fuzzy
 msgid "Change Password"
 msgstr "Jelszó megváltoztatása"
 
 #: ../content/customer/avatar/personal-preferences.rst:40
-#, fuzzy
 msgid "Interface language"
-msgstr "Egy nyelv törléséhez:"
+msgstr "Felület nyelve"
 
 #: ../content/customer/avatar/personal-preferences.rst:42
 msgid "Here you can change the language of your OTOBO interface."
@@ -5847,9 +5822,8 @@ msgid "Time Zone selection"
 msgstr ""
 
 #: ../content/customer/avatar/personal-preferences.rst:64
-#, fuzzy
 msgid "Ticket overview"
-msgstr "Bejegyzés áttekintő"
+msgstr "Jegyáttekintő"
 
 #: ../content/customer/avatar/personal-preferences.rst:77
 #, fuzzy
@@ -5858,9 +5832,8 @@ msgstr "Az áttekintő képernyők túl gyakran történő frissítése teljesí
 
 #: ../content/customer/avatar/personal-preferences.rst:80
 #: ../content/customer/avatar/personal-preferences.rst:87
-#, fuzzy
 msgid "Number of displayed tickets"
-msgstr "Az oldalanként megjelenített jegyek számának korlátozásához:"
+msgstr "Megjelenített jegyek száma"
 
 #: ../content/customer/avatar/personal-preferences.rst:82
 msgid "Here you can select how many tickets should be shown by default."
