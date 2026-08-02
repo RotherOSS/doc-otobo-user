@@ -1,7 +1,8 @@
 Notifications
 =============
 
-Use this screen to get an overview of notifications. The notification overview screen is available in the *Notifications* menu item of the *Avatar* menu.
+Use this screen to get an overview of notifications.
+The notification overview screen is available in the *Notifications* menu item of the *Avatar* menu.
 
 If unread notifications are in this screen, a flag icon with number also indicates the number of unread notifications in the toolbar.
 
@@ -10,7 +11,9 @@ If unread notifications are in this screen, a flag icon with number also indicat
 
    Notification Web View Screen
 
-Notifications can be filtered by clicking on a state name in the header of the overview widget. There is an option *All Notifications* to see all notifications. The numbers after the state names indicate how many notifications are in each state.
+Notifications can be filtered by clicking on a state name in the header of the overview widget.
+There is an option *All Notifications* to see all notifications.
+The numbers after the state names indicate how many notifications are in each state.
 
 To limit the number of displayed notifications per page and adjust visible columns:
 

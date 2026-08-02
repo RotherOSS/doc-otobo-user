@@ -1,7 +1,9 @@
 Statistics
 ==========
 
-Use this screen to manage statistics. A fresh OTOBO installation already contains some statistics by default. The statistics management screen is available in the *Statistics* menu item of the *Reports* menu.
+Use this screen to manage statistics.
+A fresh OTOBO installation already contains some statistics by default.
+The statistics management screen is available in the *Statistics* menu item of the *Reports* menu.
 
 .. figure:: images/statistics-overview.png
    :alt: Statistics Overview Screen
@@ -105,13 +107,17 @@ To preview statistics:
 General Statistics Specification
 --------------------------------
 
-The following settings are available when adding or editing this resource. The fields marked with an asterisk are mandatory.
+The following settings are available when adding or editing this resource.
+The fields marked with an asterisk are mandatory.
 
 Title \*
-   The name of this resource. Any type of characters can be entered to this field including uppercase letters and spaces. The name will be displayed in the overview table.
+   The name of this resource.
+   Any type of characters can be entered to this field including uppercase letters and spaces.
+   The name will be displayed in the overview table.
 
 Description
-   Add additional information to this resource. It is recommended to always fill this field as a description of the resource with a full sentence for better clarity, because the comment will be also displayed in the overview table.
+   Add additional information to this resource.
+   It is recommended to always fill this field as a description of the resource with a full sentence for better clarity, because the comment will be also displayed in the overview table.
 
 Permissions \*
    You can select one or more groups to define access for different agents.
@@ -139,7 +145,9 @@ Show as dashboard widget
       Enabling the dashboard widget will activate caching for this statistics in the dashboard.
 
 Validity \*
-   Set the validity of this resource. Each resource can be used in OTOBO only, if this field is set to *valid*. Setting this field to *invalid* will disable the use of the resource.
+   Set the validity of this resource.
+   Each resource can be used in OTOBO only, if this field is set to *valid*.
+   Setting this field to *invalid* will disable the use of the resource.
 
 
 Ticket Attributes for Statistics
@@ -166,7 +174,8 @@ Last Changed
    The absolute date and time with timezone when the ticket was changed.
 
 Close Time
-   The absolute date and time with timezone when the ticket was closed. This field is empty for open tickets.
+   The absolute date and time with timezone when the ticket was closed.
+   This field is empty for open tickets.
 
 Queue
    The queue in which the ticket is located.
@@ -184,10 +193,12 @@ Customer ID
    The customer of the customer user of the ticket.
 
 Service
-   The service of the ticket. If no service is assigned, this field is empty.
+   The service of the ticket.
+   If no service is assigned, this field is empty.
 
 SLA
-   The SLA of the ticket. If no SLA is assigned, this field is empty.
+   The SLA of the ticket.
+   If no SLA is assigned, this field is empty.
 
 Type
    The type of the ticket.
@@ -280,7 +291,8 @@ SolutionTimeDestinationDate
    The absolute date of a solution time escalation.
 
 First Lock
-   The absolute date and time with timezone when the ticket was locked first. This field is empty for tickets, that are not locked yet.
+   The absolute date and time with timezone when the ticket was locked first.
+   This field is empty for tickets, that are not locked yet.
 
 Lock
    The lock state of the ticket.
@@ -319,4 +331,5 @@ Activity Status
    The status of the activity in the process.
 
 DynamicField_NameX
-   The name of the dynamic fields added to the system. The list of dynamic fields is different in each system.
+   The name of the dynamic fields added to the system.
+   The list of dynamic fields is different in each system.

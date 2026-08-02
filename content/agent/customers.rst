@@ -1,7 +1,8 @@
 Customers
 =========
 
-Use this menu to get overview screens for customers and customer users. Both customers and customer users can be managed here.
+Use this menu to get overview screens for customers and customer users.
+Both customers and customer users can be managed here.
 
 .. toctree::
    :maxdepth: 3

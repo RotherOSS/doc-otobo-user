@@ -1,17 +1,21 @@
 New
 ===
 
-Use this screen to add new FAQ articles to the system. The FAQ add screen is available in the *New* menu item of the *FAQ* menu.
+Use this screen to add new FAQ articles to the system.
+The FAQ add screen is available in the *New* menu item of the *FAQ* menu.
 
 .. figure:: images/faq-new.png
    :alt: Add FAQ Article Screen
 
    Add FAQ Article Screen
 
-The following settings are available when adding this resource. The fields marked with an asterisk are mandatory.
+The following settings are available when adding this resource.
+The fields marked with an asterisk are mandatory.
 
 Title \*
-   The name of this resource. Any type of characters can be entered to this field including uppercase letters and spaces. The name will be displayed in the overview table.
+   The name of this resource.
+   Any type of characters can be entered to this field including uppercase letters and spaces.
+   The name will be displayed in the overview table.
 
 Keyword
    Add some keywords to make it easily to find the FAQ article.
@@ -24,7 +28,8 @@ Category \*
       Categories can be managed on the :doc:`category-management` screen.
 
 State
-   Select the state of the FAQ article. Possible options are:
+   Select the state of the FAQ article.
+   Possible options are:
 
    external (customer)
       FAQ article is visible for agents and logged in customer users on the external interface.
@@ -36,7 +41,9 @@ State
       FAQ article is visible for everyone.
 
 Validity
-   Set the validity of this resource. Each resource can be used in OTOBO only, if this field is set to *valid*. Setting this field to *invalid* or *invalid-temporarily* will disable the use of the resource.
+   Set the validity of this resource.
+   Each resource can be used in OTOBO only, if this field is set to *valid*.
+   Setting this field to *invalid* or *invalid-temporarily* will disable the use of the resource.
 
 Language
    Select a language from the available languages.
@@ -46,7 +53,8 @@ Language
       Languages can be managed on the :doc:`language-management` screen.
 
 Attachment
-   It is possible to add attachments to the FAQ article. Click on the field to add an attachment, or just drop some files here.
+   It is possible to add attachments to the FAQ article.
+   Click on the field to add an attachment, or just drop some files here.
 
 Symptom
    Add a description here, that explains the current situation.

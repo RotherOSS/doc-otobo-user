@@ -1,7 +1,8 @@
 Explorer
 ========
 
-Use this screen to browse through the FAQ articles. The FAQ explorer is available in the *Explorer* menu item of the *FAQ* menu.
+Use this screen to browse through the FAQ articles.
+The FAQ explorer is available in the *Explorer* menu item of the *FAQ* menu.
 
 .. figure:: images/faq-explorer.png
    :alt: FAQ Explorer Screen
@@ -18,7 +19,8 @@ The *Subcategories* widget lists all categories and displays the number of subca
 
 To select a category, just click on the name of a category.
 
-If a category contains at least one FAQ article, the list of FAQ articles will display in the *FAQ Articles* widget. This widget displays some information about the FAQ articles, like *Title*, *Language*, *State* and *Validity*.
+If a category contains at least one FAQ article, the list of FAQ articles will display in the *FAQ Articles* widget.
+This widget displays some information about the FAQ articles, like *Title*, *Language*, *State* and *Validity*.
 
 .. figure:: images/faq-explorer-subcategories.png
    :alt: FAQ Articles Widget
@@ -56,4 +58,5 @@ To rate an FAQ article:
 2. Scroll down to the bottom of the screen.
 3. Click on the *Yes* or *No* button in the *Rating* widget.
 
-Any user can rate an FAQ article only once. The number of positive and negative ratings will be displayed in the right sidebar of :doc:`faq-zoom` screen.
+Any user can rate an FAQ article only once.
+The number of positive and negative ratings will be displayed in the right sidebar of :doc:`faq-zoom` screen.

@@ -1,15 +1,19 @@
 Manage Chats
 ============
 
-.. note:: Rother OSS TODO: This feature will be included in one of the next OTOBO releases. If you need it beforehand, please contact sales@otobo.de, we will find a solution.
+.. note:: Rother OSS TODO: This feature will be included in one of the next OTOBO releases.
+   If you need it beforehand, please contact sales@otobo.de, we will find a solution.
 
 .. seealso::
 
    System configuration ``ChatEngine::Active`` needs to be activated to use this feature.
 
-The chat management screen is the central point of the chat feature. Here an agent can manage the chats as well as see and accept open requests. This screen provides a list of chat requests from customer users, public users and other agents, as well as an overview over all active chats.
+The chat management screen is the central point of the chat feature.
+Here an agent can manage the chats as well as see and accept open requests.
+This screen provides a list of chat requests from customer users, public users and other agents, as well as an overview over all active chats.
 
-Use this menu item to manage chats. The chat management screen is available in the *Chat* menu.
+Use this menu item to manage chats.
+The chat management screen is available in the *Chat* menu.
 
 .. figure:: images/chat-management.png
    :alt: Chat Management Screen
@@ -30,7 +34,8 @@ Agent to Agent
 
 To start a chat with another agent:
 
-1. Use the *Logged-In Users* widget in the dashboard. Agents who are able to use the chat, will have a chat icon next to their name.
+1. Use the *Logged-In Users* widget in the dashboard.
+Agents who are able to use the chat, will have a chat icon next to their name.
 
    .. figure:: images/chat-logged-in-agents.png
       :alt: Available Agents
@@ -45,14 +50,16 @@ To start a chat with another agent:
 
       Start Chat Dialog
 
-4. After the chat request has been sent to the other agent, watch the chat in the chat management screen. A browser notification is displayed to inform the agent.
+4. After the chat request has been sent to the other agent, watch the chat in the chat management screen.
+A browser notification is displayed to inform the agent.
 
    .. figure:: images/chat-agent-my-active-chats.png
       :alt: My Active Chats Widget
 
       My Active Chats Widget
 
-5. Wait for the answer. The other agent has to accept the chat request with the *Open Chat* link.
+5. Wait for the answer.
+The other agent has to accept the chat request with the *Open Chat* link.
 
    .. figure:: images/chat-personal-chat-request.png
       :alt: Personal Chat Requests For You Widget
@@ -72,7 +79,8 @@ Agent to Customer User
 
 To start a chat with a customer user:
 
-1. Use the *Logged-In Users* widget in the dashboard. Customer users who are able to use the chat, will have a chat icon next to their name.
+1. Use the *Logged-In Users* widget in the dashboard.
+Customer users who are able to use the chat, will have a chat icon next to their name.
 
    .. figure:: images/chat-logged-in-customers.png
       :alt: Available Customer Users
@@ -91,14 +99,16 @@ To start a chat with a customer user:
 
       Start Chat Dialog
 
-4. After the chat request has been sent to the other agent, watch the chat in the chat management screen. A browser notification is displayed to inform the agent.
+4. After the chat request has been sent to the other agent, watch the chat in the chat management screen.
+A browser notification is displayed to inform the agent.
 
    .. figure:: images/chat-customer-my-active-chats.png
       :alt: My Active Chats Widget
 
       My Active Chats Widget
 
-5. Wait for the answer. The customer user has to accept the chat request which is displayed in the bottom right corner of the external interface.
+5. Wait for the answer.
+The customer user has to accept the chat request which is displayed in the bottom right corner of the external interface.
 
    .. figure:: images/chat-request-external-interface.png
       :alt: Chat Request on External Interface
@@ -134,7 +144,8 @@ To receive a chat request from a customer user:
 
       Start Chat Window
 
-2. A browser notification is displayed to inform the agent. Go to the chat management screen, and open the general chat request with the *Open chat* link.
+2. A browser notification is displayed to inform the agent.
+Go to the chat management screen, and open the general chat request with the *Open chat* link.
 
    .. figure:: images/chat-customer-general-chat-request.png
       :alt: General Chat Requests From Customers Widget
@@ -159,7 +170,8 @@ To receive a chat request from a customer user:
 Public User to Agent
 ~~~~~~~~~~~~~~~~~~~~
 
-Visitors of the external interface are also not able to start a chat directly with a certain agent, but only to create generic chat requests. As they are not logged in, they need to add a name to start the chat.
+Visitors of the external interface are also not able to start a chat directly with a certain agent, but only to create generic chat requests.
+As they are not logged in, they need to add a name to start the chat.
 
 .. figure:: images/chat-public-to-agent-start.png
    :alt: Start Chat Window
@@ -177,9 +189,11 @@ The steps are the same as described in *Customer User to Agent* section, but the
 Chat Widget
 -----------
 
-The chat widget is the main component when chatting with other people. It provides a history of all messages in the chat as well as a list of possible actions depending on your permission level.
+The chat widget is the main component when chatting with other people.
+It provides a history of all messages in the chat as well as a list of possible actions depending on your permission level.
 
-The messages can be sent using the text field of a chat in *My Active Chats* widget by either clicking the send icon next to the text field or hitting the Enter key. Shift + Enter can be used to insert a new line into the message.
+The messages can be sent using the text field of a chat in *My Active Chats* widget by either clicking the send icon next to the text field or hitting the Enter key.
+Shift + Enter can be used to insert a new line into the message.
 
 Every chat participant has a colored circle icon before his/her name in the chat widget header, which represents the participant availability.
 
@@ -196,35 +210,48 @@ The chat widget has some icons in the top right corner.
 
    Chat Menu
 
-The first triangle icon expands and collapses the chat menu. The menu has several menu items.
+The first triangle icon expands and collapses the chat menu.
+The menu has several menu items.
 
 Phone ticket
-   Allows you to create a phone ticket to which the current chat will be appended to as an article. After the ticket has successfully created, the chat will get closed automatically.
+   Allows you to create a phone ticket to which the current chat will be appended to as an article.
+   After the ticket has successfully created, the chat will get closed automatically.
 
 Append
-   Allows you to append this chat as an article to a selected ticket. After the article has been created, the chat will get closed automatically.
+   Allows you to append this chat as an article to a selected ticket.
+   After the article has been created, the chat will get closed automatically.
 
 Invite
-   Allows you to invite another agent to this chat. You can select from a list of available agents whom you want to invite. Once the agent has invited, a new agent to agent chat request will be sent to this agent. After the request has been accepted, a new internal chat will be established between you and the invited agent. In this internal chat, the invited agent has two more actions available in the advanced actions toolbar: *Observer* and *Participant*.
+   Allows you to invite another agent to this chat.
+   You can select from a list of available agents whom you want to invite.
+   Once the agent has invited, a new agent to agent chat request will be sent to this agent.
+   After the request has been accepted, a new internal chat will be established between you and the invited agent.
+   In this internal chat, the invited agent has two more actions available in the advanced actions toolbar: *Observer* and *Participant*.
 
 Channel change
-   Using this link, you can change the channel for this chat. For the selection of the target channel the same rules apply as for initially selecting a chat channel.
+   Using this link, you can change the channel for this chat.
+   For the selection of the target channel the same rules apply as for initially selecting a chat channel.
 
 Download
    Lets you download the complete history of this chat as PDF.
 
 New window
-   Opens this chat in a separate popup window. You can use this window in the same way as the chat widget and both the widget and the popup can be used at the same time.
+   Opens this chat in a separate popup window.
+   You can use this window in the same way as the chat widget and both the widget and the popup can be used at the same time.
 
 Observer
-   When you have been invited to a chat by another agent, you can decide if you want to join the chat as observer or participant depending on your permission level. Once you click the action from your toolbar, a new chat widget will be added to the list of your active chats which is the chat you have been invited to.
+   When you have been invited to a chat by another agent, you can decide if you want to join the chat as observer or participant depending on your permission level.
+   Once you click the action from your toolbar, a new chat widget will be added to the list of your active chats which is the chat you have been invited to.
 
-   If you join the chat as observer, you will only be able to read what others are contributing to the chat and you will be invisible to customer users or public users. Agents will still receive a message that you joined the chat as observer.
+   If you join the chat as observer, you will only be able to read what others are contributing to the chat and you will be invisible to customer users or public users.
+   Agents will still receive a message that you joined the chat as observer.
 
    As an observer, you have the possibility to become a participant anytime by using the advanced action toolbar in your chat widget depending on your permission level.
 
 Participant
-   If you want to contribute something to the chat you have been invited to, you can join it as a participant. Customer users, public users and agents will receive a message that you have entered the chat. As a participant, you can become an observer anytime by using the advanced action toolbar in your chat widget.
+   If you want to contribute something to the chat you have been invited to, you can join it as a participant.
+   Customer users, public users and agents will receive a message that you have entered the chat.
+   As a participant, you can become an observer anytime by using the advanced action toolbar in your chat widget.
 
 The second circle icon allows the agent to set up a personal monitoring for this chat, which is a three-way switch:
 
@@ -254,7 +281,8 @@ To configure the chat and generate the code snippet:
 
    .. note::
 
-      All changes made in the *Configuration* tab will not be saved. Every time you open this dialog, all fields will be reset to default values.
+      All changes made in the *Configuration* tab will not be saved.
+      Every time you open this dialog, all fields will be reset to default values.
 
 3. Copy the code snippet from the *Integration Code* tab and paste it into your website right before the ``</body>`` element.
 
@@ -272,8 +300,10 @@ To configure the chat and generate the code snippet:
 
    .. note::
 
-      The preview uses the real chat module. Other agents have to be available for chatting to preview all features.
+      The preview uses the real chat module.
+      Other agents have to be available for chatting to preview all features.
 
-If mixed content warning is displayed in the browser console, an administrator has to check that the system configuration setting ``HttpType`` is properly set. The website must run on the same protocol for the chat widget to work.
+If mixed content warning is displayed in the browser console, an administrator has to check that the system configuration setting ``HttpType`` is properly set.
+The website must run on the same protocol for the chat widget to work.
 
 For example, if the website is running OTOBO on SSL, the system configuration option must be set to ``https``.

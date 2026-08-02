@@ -1,7 +1,8 @@
 Ticket Zoom
 ===========
 
-Use this screen to see the details of a ticket. The *Ticket Zoom* screen is available, if you click on a ticket in any other screens.
+Use this screen to see the details of a ticket.
+The *Ticket Zoom* screen is available, if you click on a ticket in any other screens.
 
 .. figure:: images/ticket-zoom.png
    :alt: Ticket Zoom Screen
@@ -37,10 +38,12 @@ Lock or Unlock
 
       .. warning::
 
-         This menu item has no confirmation window. Lock or unlock the ticket is done immediately.
+         This menu item has no confirmation window.
+         Lock or unlock the ticket is done immediately.
 
 Print
-   This menu item opens a PDF file to show the printer friendly version of the screen. You can save or print this PDF file.
+   This menu item opens a PDF file to show the printer friendly version of the screen.
+   You can save or print this PDF file.
 
 Priority
    This menu item opens a new window to change the priority of the ticket.
@@ -63,7 +66,8 @@ Priority
       The body text of the note to be added to the ticket.
 
    Attachments
-      It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here.
+      It is possible to add attachments to the ticket.
+      Click on the field to add an attachment, or just drop some files here.
 
    Is visible for customer
       Define, if the note is an internal note or customer can view it.
@@ -83,7 +87,8 @@ People
          Change Owner Screen
 
       New Owner \*
-         Select the new owner agent from the list. The agent needs *owner* permission, otherwise the agent is not listed.
+         Select the new owner agent from the list.
+         The agent needs *owner* permission, otherwise the agent is not listed.
 
       Subject \*
          The subject of the ticket like the subject of an email.
@@ -95,7 +100,8 @@ People
          The body text of the note to be added to the ticket.
 
       Attachments
-         It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here.
+         It is possible to add attachments to the ticket.
+         Click on the field to add an attachment, or just drop some files here.
 
       Is visible for customer
          Define, if the note is an internal note or customer can view it.
@@ -138,7 +144,8 @@ Communication
          The body text of the note to be added to the ticket.
 
       Attachments
-         It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here.
+         It is possible to add attachments to the ticket.
+         Click on the field to add an attachment, or just drop some files here.
 
       Is visible for customer
          Define, if the note is an internal note or customer can view it.
@@ -164,13 +171,15 @@ Communication
          The body text of the note to be added to the ticket.
 
       Attachments
-         It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here.
+         It is possible to add attachments to the ticket.
+         Click on the field to add an attachment, or just drop some files here.
 
       Next ticket state
          Select an other state if you want to change it.
 
       Pending date
-         Select a date and time as reminder for the ticket. If the pending time is reached, the ticket can be escalated.
+         Select a date and time as reminder for the ticket.
+         If the pending time is reached, the ticket can be escalated.
 
       Time units (work units)
          Enter any amount of time units for time accounting.
@@ -181,7 +190,8 @@ Communication
       This screen is the same as *Phone Call Outbound* screen.
 
    E-Mail Outbound
-      This menu item opens a new window to send an email and add the email as article to the ticket. This screen is very similar to an email client screen.
+      This menu item opens a new window to send an email and add the email as article to the ticket.
+      This screen is very similar to an email client screen.
 
       .. figure:: images/ticket-zoom-email.png
          :alt: Outbound Email Screen
@@ -204,7 +214,8 @@ Communication
 
          You can select a customer user from OTOBO or any valid email address can be added here.
 
-         Usage of wildcards (\*) is also possible. Enter two asterisks (\*\*) to list all customer users.
+         Usage of wildcards (\*) is also possible.
+         Enter two asterisks (\*\*) to list all customer users.
 
       Subject \*
          The subject of the ticket like the subject of an email.
@@ -216,13 +227,15 @@ Communication
          The body text of the note to be added to the ticket.
 
       Attachments
-         It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here.
+         It is possible to add attachments to the ticket.
+         Click on the field to add an attachment, or just drop some files here.
 
       Next ticket state
          Select an other state if you want to change it.
 
       Pending date
-         Select a date and time as reminder for the ticket. If the pending time is reached, the ticket can be escalated.
+         Select a date and time as reminder for the ticket.
+         If the pending time is reached, the ticket can be escalated.
 
       Visible for customer
          Define, if the note is an internal note or customer can view it.
@@ -242,7 +255,8 @@ Pending
       Select the pending state of the ticket.
 
    Pending date
-      Select a date and time as reminder for the ticket. If the pending time is reached, the ticket can be escalated.
+      Select a date and time as reminder for the ticket.
+      If the pending time is reached, the ticket can be escalated.
 
    Subject \*
       The subject of the ticket like the subject of an email.
@@ -254,7 +268,8 @@ Pending
       The body text of the note to be added to the ticket.
 
    Attachments
-      It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here.
+      It is possible to add attachments to the ticket.
+      Click on the field to add an attachment, or just drop some files here.
 
    Is visible for customer
       Define, if the note is an internal note or customer can view it.
@@ -283,7 +298,8 @@ Close
       The body text of the note to be added to the ticket.
 
    Attachments
-      It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here.
+      It is possible to add attachments to the ticket.
+      Click on the field to add an attachment, or just drop some files here.
 
    Is visible for customer
       Define, if the note is an internal note or customer can view it.
@@ -317,7 +333,8 @@ Miscellaneous
       If several entries are added to the history, use the filter box to find a particular entry by just typing something to filter.
 
    Print
-      This menu item opens a PDF file to show the printer friendly version of the screen. You can save or print this PDF file.
+      This menu item opens a PDF file to show the printer friendly version of the screen.
+      You can save or print this PDF file.
 
    Free Fields
       This menu item opens a new window to change the free field values of the ticket.
@@ -331,7 +348,9 @@ Miscellaneous
          The title of the ticket.
 
    Link
-      This menu item opens the standard link screen of OTOBO. Tickets can be linked to other tickets, FAQ articles or appointments. Existing links can also be managed here.
+      This menu item opens the standard link screen of OTOBO.
+      Tickets can be linked to other tickets, FAQ articles or appointments.
+      Existing links can also be managed here.
 
       .. figure:: images/ticket-zoom-link.png
          :alt: Link Ticket Screen
@@ -344,7 +363,8 @@ Miscellaneous
       The other fields can be used to find the appropriate object to link, and the fields can be different for each object.
 
    Merge
-      This menu item opens a new window to find a destination ticket for the current ticket. The articles of current ticket will be moved to the destination ticket, and the current ticket will get the state *merged*.
+      This menu item opens a new window to find a destination ticket for the current ticket.
+      The articles of current ticket will be moved to the destination ticket, and the current ticket will get the state *merged*.
 
       .. figure:: images/ticket-zoom-merge.png
          :alt: Ticket Merge Screen
@@ -355,7 +375,8 @@ Miscellaneous
          Try typing part of the ticket number or title in order to search by it.
 
       Inform sender
-         Check this box, if you would like to inform sender about ticket merge. If this box is checked, the following fields must be filled.
+         Check this box, if you would like to inform sender about ticket merge.
+         If this box is checked, the following fields must be filled.
 
       From
          This field is read only and holds the queue address.
@@ -373,14 +394,17 @@ Miscellaneous
       This menu item opens the :doc:`../calendar/new-appointment` dialog, and selects the current ticket in the *Ticket* field for linking.
 
 Move
-   This menu item is only a drop-down list of available queues. Select a destination queue, if the ticket needs to be moved there.
+   This menu item is only a drop-down list of available queues.
+   Select a destination queue, if the ticket needs to be moved there.
 
    .. warning::
 
-      This menu item has no confirmation window. Moving the ticket to an other queue is done immediately.
+      This menu item has no confirmation window.
+      Moving the ticket to an other queue is done immediately.
 
 Settings
-   Click on the gear icon in the right side of the ticket menu to change the article view settings. The following options are available:
+   Click on the gear icon in the right side of the ticket menu to change the article view settings.
+   The following options are available:
 
    Show one article
       Only the article is displayed in the *Article Zoom* widget, which is selected in the *Article Overview* widget.
@@ -416,7 +440,8 @@ This widget lists all articles of the ticket in a table.
 
    Article Overview Widget
 
-Most of the columns are sortable by clicking on the header. Click again to change the sort order.
+Most of the columns are sortable by clicking on the header.
+Click again to change the sort order.
 
 There are three possible colors used to mark the type of article.
 
@@ -432,7 +457,8 @@ There are three possible colors used to mark the type of article.
 Article Zoom
 ------------
 
-This widget displays the details of the article. The widget has an own menu.
+This widget displays the details of the article.
+The widget has an own menu.
 
 .. figure:: images/ticket-zoom-article-zoom.png
    :alt: Article Zoom Widget
@@ -442,13 +468,16 @@ This widget displays the details of the article. The widget has an own menu.
 The menu is extensible and menu items can be grouped into drop-down lists.
 
 Mark or Unmark
-   Use this menu item to mark article as important or to remove the important flag from the article. Important articles have a red information flag in the *Article Overview* widget.
+   Use this menu item to mark article as important or to remove the important flag from the article.
+   Important articles have a red information flag in the *Article Overview* widget.
 
 Print
-   This menu item opens a PDF file to show the printer friendly version of the current article. You can save or print this PDF file.
+   This menu item opens a PDF file to show the printer friendly version of the current article.
+   You can save or print this PDF file.
 
 Split
-   Use this menu item to split the article to an other ticket. Select the new ticket type and click on the *Submit* button.
+   Use this menu item to split the article to another ticket.
+   Select the new ticket type and click on the *Submit* button.
 
    .. figure:: images/ticket-zoom-article-split.png
       :alt: Article Split Dialog
@@ -494,7 +523,8 @@ Forward
 
       You can select a customer user from OTOBO or any valid email address can be added here.
 
-      Usage of wildcards (\*) is also possible. Enter two asterisks (\*\*) to list all customer users.
+      Usage of wildcards (\*) is also possible.
+      Enter two asterisks (\*\*) to list all customer users.
 
    Subject \*
       The subject of the ticket like the subject of an email.
@@ -506,13 +536,15 @@ Forward
       The body text of the note to be added to the ticket.
 
    Attachments
-      It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here.
+      It is possible to add attachments to the ticket.
+      Click on the field to add an attachment, or just drop some files here.
 
    Next ticket state
       Select an other state if you want to change it.
 
    Pending date
-      Select a date and time as reminder for the ticket. If the pending time is reached, the ticket can be escalated.
+      Select a date and time as reminder for the ticket.
+      If the pending time is reached, the ticket can be escalated.
 
    Visible for customer
       Define, if the note is an internal note or customer can view it.
@@ -521,7 +553,8 @@ Forward
       Enter any amount of time units for time accounting.
 
 Reply
-   Use this menu item to compose an answer to the article via email. Reply is created from a response template set in *Templates* module of the administrator interface.
+   Use this menu item to compose an answer to the article via email.
+   Reply is created from a response template set in *Templates* module of the administrator interface.
 
    .. figure:: images/ticket-zoom-article-reply.png
       :alt: Compose Answer Screen
@@ -544,7 +577,8 @@ Reply
 
       You can select a customer user from OTOBO or any valid email address can be added here.
 
-      Usage of wildcards (\*) is also possible. Enter two asterisks (\*\*) to list all customer users.
+      Usage of wildcards (\*) is also possible.
+      Enter two asterisks (\*\*) to list all customer users.
 
    Subject \*
       The subject of the ticket like the subject of an email.
@@ -556,13 +590,15 @@ Reply
       The body text of the note to be added to the ticket.
 
    Attachments
-      It is possible to add attachments to the ticket. Click on the field to add an attachment, or just drop some files here.
+      It is possible to add attachments to the ticket.
+      Click on the field to add an attachment, or just drop some files here.
 
    Next ticket state
       Select an other state if you want to change it.
 
    Pending date
-      Select a date and time as reminder for the ticket. If the pending time is reached, the ticket can be escalated.
+      Select a date and time as reminder for the ticket.
+      If the pending time is reached, the ticket can be escalated.
 
    Visible for customer
       Define, if the note is an internal note or customer can view it.
@@ -573,14 +609,16 @@ Reply
 Linked Objects
 --------------
 
-Tickets can be linked to other objects. Use this widget to see the links between the ticket and other objects.
+Tickets can be linked to other objects.
+Use this widget to see the links between the ticket and other objects.
 
 .. figure:: images/ticket-zoom-linked-objects.png
    :alt: Linked Objects Widget
 
    Linked Objects Widget
 
-New links can be added by the *Link* menu item of the *Ticket Zoom* menu. Existing links can also be managed there.
+New links can be added by the *Link* menu item of the *Ticket Zoom* menu.
+Existing links can also be managed there.
 
 To see the linked object details, click on an entry in this widget.
 

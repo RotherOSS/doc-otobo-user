@@ -1,7 +1,8 @@
 Dashboard
 =========
 
-The dashboard is the main overview screen for agents. Use this screen to get full overview about the most important things: ticket lists, appointments, statistics, news.
+The dashboard is the main overview screen for agents.
+Use this screen to get full overview about the most important things: ticket lists, appointments, statistics, news.
 
 .. figure:: images/dashboard-header.png
    :alt: Dashboard Header
@@ -14,7 +15,8 @@ Avatar image
    The :doc:`../avatar` and the :doc:`../avatar/logout` possibilities.
 
 Toolbar icons
-   Icons with numbers indicating some ticket actions with the number of related tickets. The icons and search boxes are not activated by default.
+   Icons with numbers indicating some ticket actions with the number of related tickets.
+   The icons and search boxes are not activated by default.
 
    .. seealso::
 
@@ -23,7 +25,9 @@ Toolbar icons
 Main menu
    The main menu of the agent interface.
 
-The dashboard displays so called *widgets*. A widget is a box, that consists of a header, a filter and a data table. Each widget can be moved with drag and drop, and can have own settings.
+The dashboard displays so called *widgets*.
+A widget is a box, that consists of a header, a filter and a data table.
+Each widget can be moved with drag and drop, and can have own settings.
 
 .. figure:: images/dashboard-widgets.png
    :alt: Dashboard Widgets
@@ -63,7 +67,8 @@ To move widgets:
 2. Drag the widget to the desired position.
 3. Drop the widget by releasing the mouse button.
 
-Widgets can have own settings. To configure a widget:
+Widgets can have own settings.
+To configure a widget:
 
 1. Hover the mouse over the widget header.
 2. Click on the gear icon in the top right corner.
@@ -87,28 +92,32 @@ Dashboard Content Widgets
 
    The widgets can be different depending on the installed packages and system configuration settings.
 
-The *Reminder Tickets* widget lists the pending tickets. Pending tickets are set for later work by the agent, and the reminder time is going to expire soon.
+The *Reminder Tickets* widget lists the pending tickets.
+Pending tickets are set for later work by the agent, and the reminder time is going to expire soon.
 
 .. figure:: images/dashboard-reminder-tickets.png
    :alt: Reminder Tickets Widget
 
    Reminder Tickets Widget
 
-The *Escalated Tickets* widget lists the escalated tickets. Escalated tickets are after the time set in service level agreement, and therefore needs to be worked on them immediately.
+The *Escalated Tickets* widget lists the escalated tickets.
+Escalated tickets are after the time set in service level agreement, and therefore needs to be worked on them immediately.
 
 .. figure:: images/dashboard-escalated-tickets.png
    :alt: Escalated Tickets Widget
 
    Escalated Tickets Widget
 
-The *New Tickets* widget lists the recently created tickets. New tickets are not handled by an agent yet.
+The *New Tickets* widget lists the recently created tickets.
+New tickets are not handled by an agent yet.
 
 .. figure:: images/dashboard-new-tickets.png
    :alt: New Tickets Widget
 
    New Tickets Widget
 
-The *Open Tickets* widget lists the open tickets. Open tickets represent the current work done by the agent.
+The *Open Tickets* widget lists the open tickets.
+Open tickets represent the current work done by the agent.
 
 .. figure:: images/dashboard-open-tickets.png
    :alt: Open Tickets Widget
@@ -122,7 +131,8 @@ The *Running Process Tickets* widget lists the process tickets, that are started
 
    Running Process Tickets Widget
 
-The *Ticket Queue Overview* widget gives an overview as a ticket count matrix, where the rows represent queues and the columns represent the ticket states. Each cell displays the number of tickets in a defined state that belongs to a particular queue.
+The *Ticket Queue Overview* widget gives an overview as a ticket count matrix, where the rows represent queues and the columns represent the ticket states.
+Each cell displays the number of tickets in a defined state that belongs to a particular queue.
 
 .. figure:: images/dashboard-ticket-queue-overview.png
    :alt: Ticket Queue Overview Widget
@@ -177,7 +187,8 @@ Hover the mouse over an entry to see the details of the ticket, or click on it t
 Dashboard Sidebar Widgets
 -------------------------
 
-The following widgets are located on the right sidebar. There is a *Settings* widget to turn other widgets on or off, and some information widgets also displayed here.
+The following widgets are located on the right sidebar.
+There is a *Settings* widget to turn other widgets on or off, and some information widgets also displayed here.
 
 The *Settings* widget lists all available widgets on the screen.
 
@@ -206,7 +217,8 @@ The *Upcoming Events* widget displays entries from the :doc:`../calendar`.
 
    Upcoming Events Widget
 
-The *Out Of Office* widget displays the agents, who are currently out of office. This information can be set in the *User Profile* module of the :doc:`../avatar/personal-preferences`.
+The *Out Of Office* widget displays the agents, who are currently out of office.
+This information can be set in the *User Profile* module of the :doc:`../avatar/personal-preferences`.
 
 .. note::
 

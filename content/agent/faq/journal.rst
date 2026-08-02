@@ -1,7 +1,8 @@
 Journal
 =======
 
-Use this screen to view the history of all FAQ articles. The FAQ history is available in the *Journal* menu item of the *FAQ* menu.
+Use this screen to view the history of all FAQ articles.
+The FAQ history is available in the *Journal* menu item of the *FAQ* menu.
 
 .. figure:: images/faq-journal.png
    :alt: FAQ Journal Screen

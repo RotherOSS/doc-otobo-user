@@ -5,14 +5,16 @@ New Process Ticket
 
    This option is available only, if at least one process is deployed in the system.
 
-Use this screen to create tickets from processes. The process ticket screen is available in the *New Process Ticket* menu item of the *Tickets* menu.
+Use this screen to create tickets from processes.
+The process ticket screen is available in the *New Process Ticket* menu item of the *Tickets* menu.
 
 .. figure:: images/new-process-ticket.png
    :alt: New Process Ticket Screen
 
    New Process Ticket Screen
 
-The following setting is available when adding this resource. The fields marked with an asterisk are mandatory.
+The following setting is available when adding this resource.
+The fields marked with an asterisk are mandatory.
 
 Process \*
    A process needs to be selected from the list to continue.

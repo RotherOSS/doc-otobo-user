@@ -2,7 +2,9 @@ Reports
 =======
 
 
-Use this screen to manage reports. A fresh OTOBO installation contains no reports by default. The reports management screen is available in the *Reports* menu item of the *Reports* menu.
+Use this screen to manage reports.
+A fresh OTOBO installation contains no reports by default.
+The reports management screen is available in the *Reports* menu item of the *Reports* menu.
 
 .. figure:: images/reports-overview.png
    :alt: Reports Overview Screen
@@ -55,16 +57,22 @@ To run a report immediately:
 General Report Settings
 -----------------------
 
-The following settings are available when adding or editing this resource. The fields marked with an asterisk are mandatory.
+The following settings are available when adding or editing this resource.
+The fields marked with an asterisk are mandatory.
 
 Name \*
-   The name of this resource. Any type of characters can be entered to this field including uppercase letters and spaces. The name will be displayed in the overview table.
+   The name of this resource.
+   Any type of characters can be entered to this field including uppercase letters and spaces.
+   The name will be displayed in the overview table.
 
 Description
-   Add additional information to this resource. It is recommended to always fill this field as a description of the resource with a full sentence for better clarity, because the comment will be also displayed in the overview table.
+   Add additional information to this resource.
+   It is recommended to always fill this field as a description of the resource with a full sentence for better clarity, because the comment will be also displayed in the overview table.
 
 Validity \*
-   Set the validity of this resource. Each resource can be used in OTOBO only, if this field is set to *valid*. Setting this field to *invalid* or *invalid-temporarily* will disable the use of the resource.
+   Set the validity of this resource.
+   Each resource can be used in OTOBO only, if this field is set to *valid*.
+   Setting this field to *invalid* or *invalid-temporarily* will disable the use of the resource.
 
 
 Automatic Generation Settings
@@ -120,6 +128,7 @@ Statistics
 ----------
 
 Add statistic to report
-   Select one or more :doc:`statistics` to be added to the report. Each added statistics have an own overview and settings screen.
+   Select one or more :doc:`statistics` to be added to the report.
+   Each added statistics have an own overview and settings screen.
 
 After all information is collected and set, click on the *Save* or *Save and finish* button to save the report.

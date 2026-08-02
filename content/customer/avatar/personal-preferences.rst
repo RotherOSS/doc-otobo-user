@@ -1,7 +1,8 @@
 Personal Preferences
 ====================
 
-Use this screen to set personal preferences in OTOBO. All settings changed on this site affect only your profile, and does not affect the behavior of OTOBO for other users.
+Use this screen to set personal preferences in OTOBO.
+All settings changed on this site affect only your profile, and does not affect the behavior of OTOBO for other users.
 
 Skin
 ----
@@ -18,7 +19,8 @@ Select a skin from the drop-down list.
 Change password
 ---------------
 
-Here you can change your current password. To change the password, all fields must be filled.
+Here you can change your current password.
+To change the password, all fields must be filled.
 
 .. figure:: images/preferences-password.png
    :alt: Change Password

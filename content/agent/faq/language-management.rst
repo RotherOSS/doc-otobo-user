@@ -5,7 +5,9 @@ Language Management
 
    This menu item is only available for agents who have administrator privileges.
 
-Use this screen to manage languages available in FAQ articles. A fresh OTOBO installation already contains some languages by default. The language management screen is available in the *Language Management* menu item of the *FAQ* menu.
+Use this screen to manage languages available in FAQ articles.
+A fresh OTOBO installation already contains some languages by default.
+The language management screen is available in the *Language Management* menu item of the *FAQ* menu.
 
 .. figure:: images/faq-language-management.png
    :alt: FAQ Language Management Screen
@@ -52,7 +54,8 @@ To delete a language:
 FAQ Language Settings
 ---------------------
 
-The following setting is available when adding or editing this resource. The fields marked with an asterisk are mandatory.
+The following setting is available when adding or editing this resource.
+The fields marked with an asterisk are mandatory.
 
 Name \*
    The `ISO 639-1 code <https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes>`__ of a language.
