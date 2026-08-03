@@ -86,7 +86,7 @@ Here can be changed the image used as avatar image in *Ticket Zoom* screen and i
    Avatar Widget
 
 It is not possible to upload an avatar image directly in OTOBO.
-You have to register your email address on `Gravatar <https://www.gravatar.com/>`__ to use this feature.
+You have to register your email address on `Gravatar <https://gravatar.com/>`__ to use this feature.
 Otherwise the first letters of first name and last name will be displayed.
 
 
@@ -105,7 +105,7 @@ Only those languages are listed by default, in which OTOBO is translated more th
 .. seealso::
 
    Translation status of incomplete languages are low, but you can help to improve the translation.
-   See the `developer manual <https://doc.otobo.org/manual/developer/10.0/en/content/contributing/translate.html>`__ for more information about translating OTOBO.
+   See the `developer manual <https://doc.otobo.org/manual/dev/11.0/en/content/contributing/translate.html>`__ for more information about translating OTOBO.
 
 
 Time Zone
