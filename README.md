@@ -3,12 +3,14 @@ About
 
 This repository stores the source of the _OTOBO User Guide_.
 
-The content of the documentation is in [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) format and uses [Sphinx](https://www.sphinx-doc.org) to generate HTML and EPUB outputs. The various outputs can be seen on the [OTOBO Documentation page](https://doc.otobo.de/).
+The content of the documentation is in [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) format and uses [Sphinx](https://www.sphinx-doc.org) to generate HTML and EPUB outputs.
+The various outputs can be seen on the [OTOBO Documentation page](https://doc.otobo.de/).
 
 🛠  Local Preview and Development
 ====================
 
-To verify changes to the documentation before submitting them, you can generate a local HTML preview. This helps identify syntax errors in ReStructuredText (RST) or layout issues early in the process.
+To verify changes to the documentation before submitting them, you can generate a local HTML preview.
+This helps identify syntax errors in ReStructuredText (RST) or layout issues early in the process.
 
 Clone the repository
 --------------------
@@ -48,7 +50,8 @@ make help
 Contribution
 ============
 
-Contribution to documentation is very welcomed. You can add new pages or edit the existing text.
+Contribution to documentation is very welcomed.
+You can add new pages or edit the existing text.
 
 To edit the documentation:
 

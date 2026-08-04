@@ -5,9 +5,11 @@ Service View
 
    System configuration ``Ticket::Service`` needs to be activated to use this feature.
 
-Use this screen to view tickets in specific services. The *Service View* screen is available in the *Service View* menu item of the *Tickets* menu.
+Use this screen to view tickets in specific services.
+The *Service View* screen is available in the *Service View* menu item of the *Tickets* menu.
 
-This screen has three different views: small, medium and large. You can change the views with the buttons in the right side of the widget: *S* means *small*, *M* means *medium* and *L* means *large*.
+This screen has three different views: small, medium and large.
+You can change the views with the buttons in the right side of the widget: *S* means *small*, *M* means *medium* and *L* means *large*.
 
 .. figure:: images/service-view-header.png
    :alt: Service View Widget Header
@@ -59,7 +61,8 @@ To sort tickets:
 1. Click on a column header to sort tickets by the selected attribute.
 2. Click on the column header again to change the sort order.
 
-It is possible to filter tickets by a specific attribute, but not all attributes can be used as filter. The filterable attributes are marked with a filter icon in the column header.
+It is possible to filter tickets by a specific attribute, but not all attributes can be used as filter.
+The filterable attributes are marked with a filter icon in the column header.
 
 To filter tickets:
 
@@ -68,9 +71,12 @@ To filter tickets:
 
 .. note::
 
-   Multiple filters can be set. Active filters are marked with a bold filter icon in the column header and a trash icon is displayed in the widget header. Click on this trash icon to remove all active filters.
+   Multiple filters can be set.
+   Active filters are marked with a bold filter icon in the column header and a trash icon is displayed in the widget header.
+   Click on this trash icon to remove all active filters.
 
-This view has an own menu to manage tickets. Select a checkbox in the row of a ticket to see this menu.
+This view has an own menu to manage tickets.
+Select a checkbox in the row of a ticket to see this menu.
 
 .. figure:: images/service-view-small-menu.png
    :alt: Small Service View Menu
@@ -116,7 +122,8 @@ To limit the number of displayed tickets per page:
 2. Select the maximum number of tickets displayed per page.
 3. Click on the *Save* button.
 
-Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Service View* section.
+Hover the mouse over the ticket row, and a floating menu will appear.
+The floating menu has the same menu items that are already explained in the *Small Service View* section.
 
 .. figure:: images/service-view-medium-hover.png
    :alt: Floating Menu of Medium Service View
@@ -140,7 +147,8 @@ To limit the number of displayed tickets per page:
 2. Select the maximum number of tickets displayed per page.
 3. Click on the *Save* button.
 
-Hover the mouse over the ticket row, and a floating menu will appear. The floating menu has the same menu items that are already explained in the *Small Service View* section.
+Hover the mouse over the ticket row, and a floating menu will appear.
+The floating menu has the same menu items that are already explained in the *Small Service View* section.
 
 .. figure:: images/service-view-large-hover.png
    :alt: Floating Menu of Large Service View

@@ -1,15 +1,18 @@
 Customer Information Center
 ===========================
 
-Customer information center is a dashboard, which displays all relevant tickets and customer users of a customer. This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance.
+Customer information center is a dashboard, which displays all relevant tickets and customer users of a customer.
+This dashboard has the same purpose as the agent dashboard: to see all relevant information at a glance.
 
-Use this screen to access the customer dashboard. The dashboard is available in the *Customer Information Center* menu item of the *Customers* menu.
+Use this screen to access the customer dashboard.
+The dashboard is available in the *Customer Information Center* menu item of the *Customers* menu.
 
 
 Manage Customer Tickets
 -----------------------
 
-Clicking on the *Customer Information Center* menu item will open a search dialog to search for a customer or a customer user. At least two characters need to be entered here.
+Clicking on the *Customer Information Center* menu item will open a search dialog to search for a customer or a customer user.
+At least two characters need to be entered here.
 
 .. figure:: images/customer-information-center-search.png
    :alt: Customer or Customer User Search Dialog
@@ -18,9 +21,11 @@ Clicking on the *Customer Information Center* menu item will open a search dialo
 
 .. note::
 
-   Usage of wildcards (\*) is also possible. Enter two asterisks (\*\*) to list all customers or customer users.
+   Usage of wildcards (\*) is also possible.
+   Enter two asterisks (\*\*) to list all customers or customer users.
 
-After a customer or a customer user is selected, the *Customer Information Center* dashboard will be opened. The dashboard contains many widgets.
+After a customer or a customer user is selected, the *Customer Information Center* dashboard will be opened.
+The dashboard contains many widgets.
 
 .. note::
 
@@ -39,7 +44,8 @@ After a customer or a customer user is selected, the *Customer Information Cente
 Customer Information Center Content Widgets
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The *Customer Users* widget is used to list all customer users belong to the customer. It is possible to add or edit customer users, see the details and create tickets directly from the widget.
+The *Customer Users* widget is used to list all customer users belong to the customer.
+It is possible to add or edit customer users, see the details and create tickets directly from the widget.
 
 .. figure:: images/customer-information-center-customer-users.png
    :alt: Customer Users Widget
@@ -81,28 +87,32 @@ Each ticket widget has an own filter for displaying:
 - Tickets in My Queues: tickets which are in queues selected in :doc:`../avatar/personal-preferences`.
 - All tickets: all tickets in this kind of widget.
 
-The *Reminder Tickets* widget lists the pending tickets. Pending tickets are set for later work by the agent, and the reminder time is going to expire soon.
+The *Reminder Tickets* widget lists the pending tickets.
+Pending tickets are set for later work by the agent, and the reminder time is going to expire soon.
 
 .. figure:: ../dashboard/images/dashboard-reminder-tickets.png
    :alt: Reminder Tickets Widget
 
    Reminder Tickets Widget
 
-The *Escalated Tickets* widget lists the escalated tickets. Escalated tickets are after the time set in service level agreement, and therefore need to be worked on them immediately.
+The *Escalated Tickets* widget lists the escalated tickets.
+Escalated tickets are after the time set in service level agreement, and therefore need to be worked on them immediately.
 
 .. figure:: ../dashboard/images/dashboard-escalated-tickets.png
    :alt: Escalated Tickets Widget
 
    Escalated Tickets Widget
 
-The *New Tickets* widget lists the recently created tickets. New tickets are not handled by an agent yet.
+The *New Tickets* widget lists the recently created tickets.
+New tickets are not handled by an agent yet.
 
 .. figure:: ../dashboard/images/dashboard-new-tickets.png
    :alt: New Tickets Widget
 
    New Tickets Widget
 
-The *Open Tickets* widget lists the open tickets. Open tickets represent the current work done by the agent.
+The *Open Tickets* widget lists the open tickets.
+Open tickets represent the current work done by the agent.
 
 .. figure:: ../dashboard/images/dashboard-open-tickets.png
    :alt: Open Tickets Widget
@@ -113,7 +123,8 @@ The *Open Tickets* widget lists the open tickets. Open tickets represent the cur
 Customer Information Center Sidebar Widgets
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The following widgets are located on the right sidebar. There is a *Settings* widget to turn other widgets on or off, and some information widgets are also displayed here.
+The following widgets are located on the right sidebar.
+There is a *Settings* widget to turn other widgets on or off, and some information widgets are also displayed here.
 
 The *Settings* widget lists all available widgets on the screen.
 

@@ -1,7 +1,8 @@
 Personal Preferences
 ====================
 
-Use this screen to set personal preferences in OTOBO. The personal preferences screen is available in the *Personal Preferences* menu item of the *Avatar* menu.
+Use this screen to set personal preferences in OTOBO.
+The personal preferences screen is available in the *Personal Preferences* menu item of the *Avatar* menu.
 
 This overview screen consists of three modules.
 
@@ -14,7 +15,8 @@ This overview screen consists of three modules.
 
    Preferences Modules
 
-Each module consists of widgets, which have two columns. In the first column is the setting, and in the second column is a description for the setting.
+Each module consists of widgets, which have two columns.
+In the first column is the setting, and in the second column is a description for the setting.
 
 .. note::
 
@@ -30,7 +32,8 @@ This is the agent profile, where the account related settings can be changed.
 Change password
 ~~~~~~~~~~~~~~~
 
-In this widget the current password can be changed. To change the password, all fields must be filled.
+In this widget the current password can be changed.
+To change the password, all fields must be filled.
 
 .. figure:: images/preferences-user-profile-password.png
    :alt: Change Password Widget
@@ -54,7 +57,8 @@ Google Authenticator
 
    System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey`` needs to be activated to use this feature.
 
-This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used.
+This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security.
+`Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used.
 
 .. figure:: images/preferences-user-profile-google.png
    :alt: Google Authenticator Widget
@@ -62,11 +66,13 @@ This is a two factor authentication token described in `RFC6238 <https://tools.i
    Google Authenticator Widget
 
 Shared Secret
-   This is a string to use for token generation. It must contain only uppercase letters (A-Z) and numbers (2-7). Click on the *Generate* button to generate a secret.
+   This is a string to use for token generation.
+   It must contain only uppercase letters (A-Z) and numbers (2-7). Click on the *Generate* button to generate a secret.
 
    .. warning::
 
-      Make sure that you add the shared secret to your generator application and the application works well. Otherwise you will be not able to login anymore without the two factor token.
+      Make sure that you add the shared secret to your generator application and the application works well.
+      Otherwise you will be not able to login anymore without the two factor token.
 
 
 Avatar
@@ -79,7 +85,9 @@ Here can be changed the image used as avatar image in *Ticket Zoom* screen and i
 
    Avatar Widget
 
-It is not possible to upload an avatar image directly in OTOBO. You have to register your email address on `Gravatar <https://www.gravatar.com/>`__ to use this feature. Otherwise the first letters of first name and last name will be displayed.
+It is not possible to upload an avatar image directly in OTOBO.
+You have to register your email address on `Gravatar <https://gravatar.com/>`__ to use this feature.
+Otherwise the first letters of first name and last name will be displayed.
 
 
 Language
@@ -96,7 +104,8 @@ Only those languages are listed by default, in which OTOBO is translated more th
 
 .. seealso::
 
-   Translation status of incomplete languages are low, but you can help to improve the translation. See the `developer manual <https://doc.otobo.org/manual/developer/10.0/en/content/contributing/translate.html>`__ for more information about translating OTOBO.
+   Translation status of incomplete languages are low, but you can help to improve the translation.
+   See the `developer manual <https://doc.otobo.org/manual/dev/11.0/en/content/contributing/translate.html>`__ for more information about translating OTOBO.
 
 
 Time Zone
@@ -115,7 +124,8 @@ Select the location where you are currently in.
 Out Of Office Time
 ~~~~~~~~~~~~~~~~~~
 
-With this widget agents can inform other agents about absence. This is useful for resource planning and workload balancing.
+With this widget agents can inform other agents about absence.
+This is useful for resource planning and workload balancing.
 
 .. figure:: images/preferences-user-profile-out-of-office.png
    :alt: Out Of Office Time Widget
@@ -141,7 +151,8 @@ These settings are for customizing personal notifications.
 My Queues
 ~~~~~~~~~
 
-In this widget some queues can be selected as preferred queues. Tickets in this queues will be displayed under the *Tickets in My Queues* filter of the ticket widgets, and notifications will be sent, if new tickets are available in one of the selected queues.
+In this widget some queues can be selected as preferred queues.
+Tickets in this queues will be displayed under the *Tickets in My Queues* filter of the ticket widgets, and notifications will be sent, if new tickets are available in one of the selected queues.
 
 In :doc:`../tickets/queue-view` only those queues will be displayed under *My Queues* filter, that are selected in this widget.
 
@@ -207,7 +218,8 @@ My Chat Channels
 
    System configuration ``ChatEngine::Active`` needs to be activated to use this feature.
 
-In this widget some chat channels can be selected as preferred external chat channels. You will be notified about external chat requests in these chat channels.
+In this widget some chat channels can be selected as preferred external chat channels.
+You will be notified about external chat requests in these chat channels.
 
 In :doc:`../chat/chat` screen only those chat channels will be displayed under *My Chat Channels* filter, that are selected in this widget.
 
@@ -216,7 +228,9 @@ In :doc:`../chat/chat` screen only those chat channels will be displayed under *
 
    My Chat Channels Widget
 
-Select one or more chat channels from the drop-down list. An agent needs to select in which chat channels want to be available. Customers will only be able to create a new chat request on a certain channel if at least one agent with owner permissions has selected this channel in their preferences and is set as available for external chats by the chat availability icon in the :doc:`../dashboard/dashboard` header toolbar.
+Select one or more chat channels from the drop-down list.
+An agent needs to select in which chat channels want to be available.
+Customers will only be able to create a new chat request on a certain channel if at least one agent with owner permissions has selected this channel in their preferences and is set as available for external chats by the chat availability icon in the :doc:`../dashboard/dashboard` header toolbar.
 
 
 Miscellaneous

@@ -1,7 +1,8 @@
 Introduction
 ============
 
-This manual is intended for use by OTOBO agents. The chapters describe the usage of the OTOBO software as an agent user.
+This manual is intended for use by OTOBO agents.
+The chapters describe the usage of the OTOBO software as an agent user.
 
 
 Login to Agent Interface
@@ -17,7 +18,8 @@ The agent interface is available at the following location.
 
    https://<OTOBO_HOST>/otobo/index.pl
 
-You need an agent account to be able to use OTOBO. If you have no account yet, please contact your administrator.
+You need an agent account to be able to use OTOBO.
+If you have no account yet, please contact your administrator.
 
 .. figure:: agent/dashboard/images/login.png
    :alt: Agent Login Screen
@@ -52,7 +54,8 @@ The customer interface is available at the following location.
 
    https://<OTOBO_HOST>/otobo/customer.pl
 
-You need a customer account to be able to use OTOBO. If you have no account yet, please contact your administrator or signup (if enabled by the administrator).
+You need a customer account to be able to use OTOBO.
+If you have no account yet, please contact your administrator or signup (if enabled by the administrator).
 
 .. figure:: customer/dashboard/images/login.png
    :alt: Customer Login Screen

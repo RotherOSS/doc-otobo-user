@@ -1,7 +1,8 @@
 Search
 ======
 
-Use this screen to search for tickets based on various criteria. The ticket search screen is available in the *Search* menu item of the *Tickets* menu.
+Use this screen to search for tickets based on various criteria.
+The ticket search screen is available in the *Search* menu item of the *Tickets* menu.
 
 .. figure:: images/tickets-search.png
    :alt: Search Dialog
@@ -33,7 +34,8 @@ To use a saved search template:
 
    Search Templates Dialog
 
-If only one ticket matches, the :doc:`ticket-zoom` will be opened. Otherwise you will be redirected to *Search Results* screen to see all matched tickets.
+If only one ticket matches, the :doc:`ticket-zoom` will be opened.
+Otherwise you will be redirected to *Search Results* screen to see all matched tickets.
 
 To delete a saved search template:
 
@@ -43,7 +45,8 @@ To delete a saved search template:
 
    The template will be deleted immediately without confirmation!
 
-Use the *Profile link* button to go directly to *Search Results* screen. This is the permanent link of the search template.
+Use the *Profile link* button to go directly to *Search Results* screen.
+This is the permanent link of the search template.
 
 .. figure:: images/tickets-search-results.png
    :alt: Search Results Screen
