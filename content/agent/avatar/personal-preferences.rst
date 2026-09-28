@@ -57,7 +57,7 @@ Google Authenticator
 
    System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey`` needs to be activated to use this feature.
 
-This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security.
+This is a two factor authentication token described in `RFC6238 <https://www.rfc-editor.org/info/rfc6238/>`__ to improve the account security.
 `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used.
 
 .. figure:: images/preferences-user-profile-google.png
