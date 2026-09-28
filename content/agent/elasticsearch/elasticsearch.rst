@@ -163,7 +163,7 @@ Regular expressions
 
    .. seealso::
 
-      The supported regular expression syntax is explained in `Regular expression syntax <https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-regexp-query.html#regexp-syntax>`__ chapter of the Elasticsearch documentation.
+      The supported regular expression syntax is explained in `Regular expression syntax <https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-regexp-query#regexp-syntax>`__ chapter of the Elasticsearch documentation.
 
 Fuzziness
    It is possible to search for terms that are similar to, but not exactly like the given search terms, using the *fuzzy* operator (for example ``quikc~ brwn~ foks~``).
@@ -216,4 +216,4 @@ Reserved characters
 
 .. seealso::
 
-   More information can be found in the `Query string syntax <https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#query-string-syntax>`__ chapter of the Elasticsearch documentation.
+   More information can be found in the `Query string syntax <https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-query-string-query#query-string-syntax>`__ chapter of the Elasticsearch documentation.

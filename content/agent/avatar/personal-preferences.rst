@@ -57,7 +57,7 @@ Google Authenticator
 
    System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey`` needs to be activated to use this feature.
 
-This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security.
+This is a two factor authentication token described in `RFC6238 <https://www.rfc-editor.org/info/rfc6238/>`__ to improve the account security.
 `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used.
 
 .. figure:: images/preferences-user-profile-google.png
@@ -87,7 +87,7 @@ Here can be changed the image used as avatar image in *Ticket Zoom* screen and i
    Avatar Widget
 
 It is not possible to upload an avatar image directly in OTOBO.
-You have to register your email address on `Gravatar <https://www.gravatar.com/>`__ to use this feature.
+You have to register your email address on `Gravatar <https://gravatar.com/>`__ to use this feature.
 Otherwise the first letters of first name and last name will be displayed.
 
 
@@ -107,7 +107,7 @@ To see all available languages, click on the refresh icon next to the drop-down 
 .. seealso::
 
    Translation status of incomplete languages are low, but you can help to improve the translation.
-   See the `developer manual <https://doc.otobo.org/manual/developer/10.0/en/content/contributing/translate.html>`__ for more information about translating OTOBO.
+   See the `developer manual <https://doc.otobo.org/manual/dev/11.1/en/content/contributing/translate.html>`__ for more information about translating OTOBO.
 
 
 Time Zone
