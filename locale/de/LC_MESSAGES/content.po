@@ -22,7 +22,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTOBO User Tutorial 10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-05 15:05+0000\n"
+"POT-Creation-Date: 2026-09-28 06:17+0000\n"
 "PO-Revision-Date: 2026-03-03 14:54+0000\n"
 "Last-Translator: Stefan Rother <sr@rother-oss.com>\n"
 "Language-Team: German <http://translate.otobo.org/projects/manual-otobo-user-agent/user-manual-otobo-11/de/>\n"
@@ -265,7 +265,9 @@ msgid "System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey``
 msgstr "Die Systemkonfiguration ``PreferencesGroups###GoogleAuthenticatorSecretKey`` muss aktiviert sein, damit Sie diese Funktion nutzen können."
 
 #: ../content/agent/avatar/personal-preferences.rst:60
-msgid "This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
+#, fuzzy
+#| msgid "This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
+msgid "This is a two factor authentication token described in `RFC6238 <https://www.rfc-editor.org/info/rfc6238/>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
 msgstr "Das ist ein Zwei-Faktor-Authentifizierungstoken, beschrieben unter `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ , um die Sicherheit des Kontos zu verbessern. Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ ist eine mobile Anwendung zum Erzeugen von Token. Es kann aber auch jeder andere Token-Generator verwendet werden."
 
 #: ../content/agent/avatar/personal-preferences.rst:66

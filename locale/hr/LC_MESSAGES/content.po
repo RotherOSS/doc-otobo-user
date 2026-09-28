@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTOBO User Manual 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-05 15:05+0000\n"
+"POT-Creation-Date: 2026-09-28 06:17+0000\n"
 "PO-Revision-Date: 2026-03-03 14:42+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Croatian <http://translate.otobo.org/projects/manual-otobo-user-agent/user-manual-otobo-11/hr/>\n"
@@ -248,7 +248,7 @@ msgid "System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey``
 msgstr ""
 
 #: ../content/agent/avatar/personal-preferences.rst:60
-msgid "This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
+msgid "This is a two factor authentication token described in `RFC6238 <https://www.rfc-editor.org/info/rfc6238/>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
 msgstr ""
 
 #: ../content/agent/avatar/personal-preferences.rst:66

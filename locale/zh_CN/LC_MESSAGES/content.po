@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OTRS User Manual 7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-05 15:05+0000\n"
+"POT-Creation-Date: 2026-09-28 06:17+0000\n"
 "PO-Revision-Date: 2019-03-25 07:52+0000\n"
 "Last-Translator: 汇民 王 <whuim@qq.com>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/otrs/teams/23435/zh_CN/)\n"
@@ -266,7 +266,9 @@ msgid "System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey``
 msgstr "要使用此功能需要激活系统配置 ``PreferencesGroups###GoogleAuthenticatorSecretKey``。"
 
 #: ../content/agent/avatar/personal-preferences.rst:60
-msgid "This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
+#, fuzzy
+#| msgid "This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
+msgid "This is a two factor authentication token described in `RFC6238 <https://www.rfc-editor.org/info/rfc6238/>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
 msgstr "这是一个在 `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ 中描述的双因素身份验证令牌，以提高帐户安全性。 `Google 身份验证器 <https://en.wikipedia.org/wiki/Google_Authenticator>`__ 是一个生成令牌的移动应用程序，但可以使用任何其他生成器应用程序。"
 
 #: ../content/agent/avatar/personal-preferences.rst:66
