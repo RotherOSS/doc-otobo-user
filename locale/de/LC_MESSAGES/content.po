@@ -6188,6 +6188,258 @@ msgstr "Nach der erfolgreichen Anmeldung wird das Agenten-Dashboard angezeigt."
 msgid "Customer Interface"
 msgstr "Kundenbenutzer"
 
+#: ../content/agent/search.rst:4
+msgid "OTOBO offers several ways to find information."
+msgstr "OTOBO bietet mehrere Möglichkeiten, Informationen zu finden."
+
+#: ../content/agent/search.rst:6
+msgid "The :doc:`Ticket Search <tickets/search>` finds tickets based on various criteria like state, queue, owner or dynamic fields."
+msgstr "Die :doc:`Ticketsuche <tickets/search>` findet Tickets anhand verschiedener Kriterien wie Status, Queue, Besitzer oder dynamischer Felder."
+
+#: ../content/agent/search.rst:7
+msgid "The :doc:`FAQ Search <faq/search>` finds FAQ articles based on various criteria like category, language or keywords."
+msgstr "Die :doc:`FAQ-Suche <faq/search>` findet FAQ-Artikel anhand verschiedener Kriterien wie Kategorie, Sprache oder Schlüsselwörter."
+
+#: ../content/agent/search.rst:8
+msgid "The :doc:`search/elastic` finds tickets, customers, customer users and config items while you type. It is only available if Elasticsearch is activated in your system."
+msgstr "Die :doc:`search/elastic` findet Tickets, Kunden, Kundenbenutzer und Config Items bereits während der Eingabe. Sie ist nur verfügbar, wenn Elasticsearch in Ihrem System aktiviert ist."
+
+#: ../content/agent/search/elastic.rst:2
+msgid "Elasticsearch"
+msgstr "Elasticsearch"
+
+#: ../content/agent/search/elastic.rst:4
+msgid "If Elasticsearch is activated in your system, the *Elasticsearch* field is shown in the header of every agent screen. Use it to quickly find tickets, customers, customer users and config items by a full-text search."
+msgstr "Wenn Elasticsearch in Ihrem System aktiviert ist, wird das Feld *Elasticsearch* im Kopfbereich jeder Agentenansicht angezeigt. Verwenden Sie es, um Tickets, Kunden, Kundenbenutzer und Config Items schnell per Volltextsuche zu finden."
+
+#: ../content/agent/search/elastic.rst:11
+msgid "Header with the Elasticsearch field next to the agent avatar and the toolbar icons"
+msgstr "Kopfbereich mit dem Elasticsearch-Feld neben dem Agenten-Avatar und den Symbolen der Werkzeugleiste"
+
+#: ../content/agent/search/elastic.rst:11
+msgid "Elasticsearch Field"
+msgstr "Elasticsearch-Feld"
+
+#: ../content/agent/search/elastic.rst:13
+msgid "To search for something:"
+msgstr "Um etwas zu suchen:"
+
+#: ../content/agent/search/elastic.rst:15
+msgid "Click on the *Elasticsearch* field or press the access key ``u``."
+msgstr "Klicken Sie in das Feld *Elasticsearch* oder drücken Sie die Zugriffstaste ``u``."
+
+#: ../content/agent/search/elastic.rst:16
+msgid "Enter at least two characters. The *Results* dialog opens and is updated while you type."
+msgstr "Geben Sie mindestens zwei Zeichen ein. Der Dialog *Ergebnisse* öffnet sich und wird während der Eingabe aktualisiert."
+
+#: ../content/agent/search/elastic.rst:18
+msgid "Click on a result to open it."
+msgstr "Klicken Sie auf ein Ergebnis, um es zu öffnen."
+
+#: ../content/agent/search/elastic.rst:23
+msgid "Results dialog listing one ticket with ticket number, title, queue and age"
+msgstr "Dialog Ergebnisse mit einem Ticket mit Ticketnummer, Titel, Queue und Alter"
+
+#: ../content/agent/search/elastic.rst:23
+msgid "Results Dialog"
+msgstr "Dialog Ergebnisse"
+
+#: ../content/agent/search/elastic.rst:25
+msgid "The *Results* dialog groups the results into *Tickets*, *Customers*, *Customer Users* and *ConfigItems*. A group is only shown if it contains results."
+msgstr "Der Dialog *Ergebnisse* gruppiert die Ergebnisse in *Tickets*, *Kunden*, *Kundenbenutzer* und *ConfigItems*. Eine Gruppe wird nur angezeigt, wenn sie Ergebnisse enthält."
+
+#: ../content/agent/search/elastic.rst:28
+msgid "To see all matching tickets, press the *Enter* key in the *Elasticsearch* field. The ticket search results screen opens. If the search finds only one ticket, the ticket opens directly."
+msgstr "Um alle passenden Tickets zu sehen, drücken Sie im Feld *Elasticsearch* die *Eingabetaste*. Die Ansicht mit den Ergebnissen der Ticketsuche öffnet sich. Wenn die Suche nur ein Ticket findet, öffnet sich das Ticket direkt."
+
+#: ../content/agent/search/elastic.rst:34
+msgid "How the Search Works"
+msgstr "So funktioniert die Suche"
+
+#: ../content/agent/search/elastic.rst:36
+msgid "OTOBO adds an asterisk ``*`` before and after your search term: ``print`` becomes ``*print*``. The search term is therefore also found inside longer words, for example in *printer* and *blueprint*."
+msgstr "OTOBO fügt vor und nach Ihrem Suchbegriff ein Sternchen ``*`` hinzu: Aus ``print`` wird ``*print*``. Der Suchbegriff wird daher auch innerhalb längerer Wörter gefunden, zum Beispiel in *printer* und *blueprint*."
+
+#: ../content/agent/search/elastic.rst:40
+msgid "If you enter several words, OTOBO finds results that contain at least one of the words: ``printer error`` becomes ``*printer error*`` and finds tickets with *printer* or *error*."
+msgstr "Wenn Sie mehrere Wörter eingeben, findet OTOBO Ergebnisse, die mindestens eines der Wörter enthalten: Aus ``printer error`` wird ``*printer error*``, gefunden werden Tickets mit *printer* oder *error*."
+
+#: ../content/agent/search/elastic.rst:43
+msgid "To find results that contain all words, enter ``AND`` between the words: ``printer AND error`` becomes ``*printer AND error*`` and finds only tickets with both *printer* and *error*."
+msgstr "Um Ergebnisse zu finden, die alle Wörter enthalten, geben Sie ``AND`` zwischen den Wörtern ein: Aus ``printer AND error`` wird ``*printer AND error*``, gefunden werden nur Tickets mit *printer* und *error*."
+
+#: ../content/agent/search/elastic.rst:48
+msgid "Phrase search is not possible. Quotation marks around several words do not find this exact phrase."
+msgstr "Eine Phrasensuche ist nicht möglich. Anführungszeichen um mehrere Wörter finden nicht genau diese Wortfolge."
+
+#: ../content/agent/search/elastic.rst:53
+msgid "The search has been improved considerably in OTOBO 11.1."
+msgstr "Die Suche wurde in OTOBO 11.1 deutlich verbessert."
+
+#: ../content/agent/search/elastic.rst:57
+msgid "An administrator has to activate Elasticsearch before the *Elasticsearch* field is shown. Without it, use the :doc:`Ticket Search <../tickets/search>` or the :doc:`FAQ Search <../faq/search>`."
+msgstr "Ein Administrator muss Elasticsearch aktivieren, damit das Feld *Elasticsearch* angezeigt wird. Verwenden Sie andernfalls die :doc:`Ticketsuche <../tickets/search>` oder die :doc:`FAQ-Suche <../faq/search>`."
+
+#: ../content/agent/tickets/search.rst:14
+msgid "If only one ticket matches, the :doc:`ticket-zoom` opens. Otherwise the *Search Results* screen shows all matching tickets."
+msgstr "Wenn nur ein Ticket passt, öffnet sich die :doc:`ticket-zoom`. Andernfalls zeigt die Ansicht *Suchergebnisse* alle passenden Tickets."
+
+#: ../content/agent/tickets/search.rst:26
+msgid "Use this part of the dialog to save search criteria as a template for later use."
+msgstr "Verwenden Sie diesen Teil des Dialogs, um Suchkriterien als Vorlage für eine spätere Verwendung zu speichern."
+
+#: ../content/agent/tickets/search.rst:33 ../content/agent/tickets/search.rst:43
+msgid "Click on the *Run search* button."
+msgstr "Klicken Sie auf die Schaltfläche *Suche starten*."
+
+#: ../content/agent/tickets/search.rst:49
+msgid "The template is deleted immediately without confirmation."
+msgstr "Die Vorlage wird sofort und ohne Rückfrage gelöscht."
+
+#: ../content/agent/tickets/search.rst:54
+msgid "To open the *Search Results* screen of a template directly, use the *Profile link* button. It contains the permanent link of the search template."
+msgstr "Um die Ansicht *Suchergebnisse* einer Vorlage direkt zu öffnen, verwenden Sie die Schaltfläche *Profil-Link*. Sie enthält den dauerhaften Link der Suchvorlage."
+
+#: ../content/agent/tickets/search.rst:59
+msgid "Filters in Use"
+msgstr "Verwendete Filter"
+
+#: ../content/agent/tickets/search.rst:61
+msgid "This part lists the filters that are used for the search."
+msgstr "Dieser Teil listet die Filter auf, die für die Suche verwendet werden."
+
+#: ../content/agent/tickets/search.rst:63
+msgid "To remove a filter, click on the *⊟* button next to the field."
+msgstr "Um einen Filter zu entfernen, klicken Sie auf die Schaltfläche *⊟* neben dem Feld."
+
+#: ../content/agent/tickets/search.rst:67
+msgid "Additional Filters"
+msgstr "Zusätzliche Filter"
+
+#: ../content/agent/tickets/search.rst:69
+msgid "Use this part to add more filters and to select the output format of the results."
+msgstr "Verwenden Sie diesen Teil, um weitere Filter hinzuzufügen und das Ausgabeformat der Ergebnisse auszuwählen."
+
+#: ../content/agent/tickets/search.rst:77
+msgid "To start the search, click on the *Run search* button."
+msgstr "Um die Suche zu starten, klicken Sie auf die Schaltfläche *Suche starten*."
+
+#: ../content/agent/tickets/search.rst:81
+msgid "Fulltext Search"
+msgstr "Volltextsuche"
+
+#: ../content/agent/tickets/search.rst:83
+msgid "The *Fulltext* filter searches the ticket title and the *From*, *To*, *Cc*, *Bcc*, *Subject* and *Body* fields of all articles. The search is not case-sensitive."
+msgstr "Der Filter *Volltext* durchsucht den Tickettitel und die Felder *Von*, *An*, *Cc*, *Bcc*, *Betreff* und *Text* aller Artikel. Die Suche unterscheidet nicht zwischen Groß- und Kleinschreibung."
+
+#: ../content/agent/tickets/search.rst:86
+msgid "OTOBO adds an asterisk ``*`` before and after each search word: ``print`` becomes ``*print*``. The search word is therefore also found inside longer words, for example in *printer* and *blueprint*."
+msgstr "OTOBO fügt vor und nach jedem Suchwort ein Sternchen ``*`` hinzu: Aus ``print`` wird ``*print*``. Das Suchwort wird daher auch innerhalb längerer Wörter gefunden, zum Beispiel in *printer* und *blueprint*."
+
+#: ../content/agent/tickets/search.rst:90
+msgid "If you enter several words, OTOBO finds only tickets that contain all of the words: ``printer error`` becomes ``*printer* AND *error*``."
+msgstr "Wenn Sie mehrere Wörter eingeben, findet OTOBO nur Tickets, die alle Wörter enthalten: Aus ``printer error`` wird ``*printer* AND *error*``."
+
+#: ../content/agent/tickets/search.rst:93
+msgid "You can combine search words with the following operators:"
+msgstr "Sie können Suchwörter mit den folgenden Operatoren kombinieren:"
+
+#: ../content/agent/tickets/search.rst:99
+msgid "Operator"
+msgstr "Operator"
+
+#: ../content/agent/tickets/search.rst:100
+msgid "Meaning"
+msgstr "Bedeutung"
+
+#: ../content/agent/tickets/search.rst:101
+msgid "``AND``, ``&&``, ``+`` or a space"
+msgstr "``AND``, ``&&``, ``+`` oder ein Leerzeichen"
+
+#: ../content/agent/tickets/search.rst:102
+msgid "The ticket contains both words: ``printer AND error``."
+msgstr "Das Ticket enthält beide Wörter: ``printer AND error``."
+
+#: ../content/agent/tickets/search.rst:103
+msgid "``OR`` or ``||``"
+msgstr "``OR`` oder ``||``"
+
+#: ../content/agent/tickets/search.rst:104
+msgid "The ticket contains at least one of the words: ``printer OR scanner``."
+msgstr "Das Ticket enthält mindestens eines der Wörter: ``printer OR scanner``."
+
+#: ../content/agent/tickets/search.rst:105
+msgid "``!``"
+msgstr "``!``"
+
+#: ../content/agent/tickets/search.rst:106
+msgid "The ticket does not contain the word: ``printer !error``."
+msgstr "Das Ticket enthält das Wort nicht: ``printer !error``."
+
+#: ../content/agent/tickets/search.rst:107
+msgid "``( )``"
+msgstr "``( )``"
+
+#: ../content/agent/tickets/search.rst:108
+msgid "Groups words: ``(printer OR scanner) AND error``."
+msgstr "Gruppiert Wörter: ``(printer OR scanner) AND error``."
+
+#: ../content/agent/tickets/search.rst:109
+msgid "``\" \"``"
+msgstr "``\" \"``"
+
+#: ../content/agent/tickets/search.rst:110
+msgid "Searches the words in quotation marks as one phrase: ``\"printer error\"``."
+msgstr "Sucht die Wörter in Anführungszeichen als eine Wortfolge: ``\"printer error\"``."
+
+#: ../content/agent/tickets/search.rst:114
+msgid "Search Index"
+msgstr "Suchindex"
+
+#: ../content/agent/tickets/search.rst:116
+msgid "The fulltext search does not search the original article text, but a search index. When OTOBO adds the subject and the body of an article to the search index, it changes the text in the following way:"
+msgstr "Die Volltextsuche durchsucht nicht den ursprünglichen Artikeltext, sondern einen Suchindex. Wenn OTOBO den Betreff und den Text eines Artikels in den Suchindex aufnimmt, verändert es den Text auf folgende Weise:"
+
+#: ../content/agent/tickets/search.rst:119
+msgid "All words are converted to lower case."
+msgstr "Alle Wörter werden in Kleinbuchstaben umgewandelt."
+
+#: ../content/agent/tickets/search.rst:120
+msgid "Punctuation and special characters are removed."
+msgstr "Satz- und Sonderzeichen werden entfernt."
+
+#: ../content/agent/tickets/search.rst:121
+msgid "Stop words are removed. Stop words are frequent words like *and*, *the* or *with* in English or *und*, *der* or *mit* in German."
+msgstr "Stoppwörter werden entfernt. Stoppwörter sind häufige Wörter wie *and*, *the* oder *with* im Englischen oder *und*, *der* oder *mit* im Deutschen."
+
+#: ../content/agent/tickets/search.rst:123
+msgid "Words shorter than three characters or longer than 30 characters are removed."
+msgstr "Wörter mit weniger als drei oder mehr als 30 Zeichen werden entfernt."
+
+#: ../content/agent/tickets/search.rst:124
+msgid "Each word is stored only once, at its first occurrence."
+msgstr "Jedes Wort wird nur einmal gespeichert, an der Stelle seines ersten Vorkommens."
+
+#: ../content/agent/tickets/search.rst:125
+msgid "Only the first 1000 remaining words of the subject and of the body are stored."
+msgstr "Nur die ersten 1000 verbleibenden Wörter des Betreffs und des Textes werden gespeichert."
+
+#: ../content/agent/tickets/search.rst:127
+msgid "Single words are found reliably. Phrase search, however, only works if the phrase is stored in the search index in exactly this form."
+msgstr "Einzelne Wörter werden zuverlässig gefunden. Eine Phrasensuche funktioniert jedoch nur, wenn die Wortfolge genau in dieser Form im Suchindex gespeichert ist."
+
+#: ../content/agent/tickets/search.rst:132
+msgid "A phrase that contains stop words or short words is not found. For example, ``\"call and connect via TeamViewer\"`` is not found. The search index contains only *call connect via teamviewer*, because *and* is a stop word."
+msgstr "Eine Wortfolge, die Stoppwörter oder kurze Wörter enthält, wird nicht gefunden. Zum Beispiel wird ``\"call and connect via TeamViewer\"`` nicht gefunden. Der Suchindex enthält nur *call connect via teamviewer*, weil *and* ein Stoppwort ist."
+
+#: ../content/agent/tickets/search.rst:136
+msgid "To search for such a phrase, remove the stop words and short words from it: ``\"call connect via TeamViewer\"``. This only finds the phrase if none of its words already occurs earlier in the subject or body. If this is not reliable enough, search for the words without quotation marks: ``call connect TeamViewer``."
+msgstr "Um nach einer solchen Wortfolge zu suchen, entfernen Sie daraus die Stoppwörter und kurzen Wörter: ``\"call connect via TeamViewer\"``. Die Wortfolge wird nur gefunden, wenn keines ihrer Wörter bereits früher im Betreff oder Text vorkommt. Wenn das nicht zuverlässig genug ist, suchen Sie nach den Wörtern ohne Anführungszeichen: ``call connect TeamViewer``."
+
+#: ../content/agent/tickets/search.rst:142
+msgid "Your administrator can change the stop words, the word lengths and the number of stored words in the system configuration. The administrator can also configure OTOBO to store the original article text in the search index."
+msgstr "Ihr Administrator kann die Stoppwörter, die Wortlängen und die Anzahl der gespeicherten Wörter in der Systemkonfiguration ändern. Der Administrator kann OTOBO auch so konfigurieren, dass der ursprüngliche Artikeltext im Suchindex gespeichert wird."
+
 #~ msgid "The last icon is the chat availability status."
 #~ msgstr "Das letzte Symbol ist der Chat-Verfügbarkeitsstatus."
 
