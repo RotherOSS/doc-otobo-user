@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-05 15:09+0000\n"
+"POT-Creation-Date: 2026-11-25 10:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,7 +58,7 @@ msgid "Admin"
 msgstr ""
 
 #: ../content/agent/admin.rst:4
-msgid "This menu item opens the administrator interface, which is described very detailed in the `Administration Manual <https://doc.otobo.org/manual/admin/stable/en/content/index.html>`__."
+msgid "This menu item opens the administrator interface, which is described very detailed in the `Administration Manual <https://doc.otobo.org/manual/admin/11.1/en/content/index.html>`__."
 msgstr ""
 
 #: ../content/agent/admin.rst:8
@@ -254,7 +254,7 @@ msgid "System configuration ``PreferencesGroups###GoogleAuthenticatorSecretKey``
 msgstr ""
 
 #: ../content/agent/avatar/personal-preferences.rst:60
-msgid "This is a two factor authentication token described in `RFC6238 <https://tools.ietf.org/html/rfc6238>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
+msgid "This is a two factor authentication token described in `RFC6238 <https://www.rfc-editor.org/info/rfc6238/>`__ to improve the account security. `Google Authenticator <https://en.wikipedia.org/wiki/Google_Authenticator>`__ is a mobile application to generate tokens, but any other generator application can be used."
 msgstr ""
 
 #: ../content/agent/avatar/personal-preferences.rst:66
@@ -286,7 +286,7 @@ msgid "Avatar Widget"
 msgstr ""
 
 #: ../content/agent/avatar/personal-preferences.rst:89
-msgid "It is not possible to upload an avatar image directly in OTOBO. You have to register your email address on `Gravatar <https://www.gravatar.com/>`__ to use this feature. Otherwise the first letters of first name and last name will be displayed."
+msgid "It is not possible to upload an avatar image directly in OTOBO. You have to register your email address on `Gravatar <https://gravatar.com/>`__ to use this feature. Otherwise the first letters of first name and last name will be displayed."
 msgstr ""
 
 #: ../content/agent/avatar/personal-preferences.rst:95
@@ -307,7 +307,7 @@ msgid "Only those languages are listed by default, in which OTOBO is translated 
 msgstr ""
 
 #: ../content/agent/avatar/personal-preferences.rst:109
-msgid "Translation status of incomplete languages are low, but you can help to improve the translation. See the `developer manual <https://doc.otobo.org/manual/developer/10.0/en/content/contributing/translate.html>`__ for more information about translating OTOBO."
+msgid "Translation status of incomplete languages are low, but you can help to improve the translation. See the `developer manual <https://doc.otobo.org/manual/dev/11.1/en/content/contributing/translate.html>`__ for more information about translating OTOBO."
 msgstr ""
 
 #: ../content/agent/avatar/personal-preferences.rst:114
@@ -2354,7 +2354,7 @@ msgid "Regular expression patterns can be embedded in the query string by wrappi
 msgstr ""
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:166
-msgid "The supported regular expression syntax is explained in `Regular expression syntax <https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-regexp-query.html#regexp-syntax>`__ chapter of the Elasticsearch documentation."
+msgid "The supported regular expression syntax is explained in `Regular expression syntax <https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-regexp-query#regexp-syntax>`__ chapter of the Elasticsearch documentation."
 msgstr ""
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:174
@@ -2458,7 +2458,7 @@ msgid "If any of these characters need to be used in search queries, then they m
 msgstr ""
 
 #: ../content/agent/elasticsearch/elasticsearch.rst:219
-msgid "More information can be found in the `Query string syntax <https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#query-string-syntax>`__ chapter of the Elasticsearch documentation."
+msgid "More information can be found in the `Query string syntax <https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-query-string-query#query-string-syntax>`__ chapter of the Elasticsearch documentation."
 msgstr ""
 
 #: ../content/agent/faq.rst:2
